@@ -1,1 +1,41 @@
-Folder containing the main topics that the customer wants to find answers to.
+This project focuses on analyzing the status of District 7 (D7) residents in Boston, comparing them to the rest of the city, with an emphasis on population characteristics, housing, and economic development. Your analysis will help Councilor Tania Anderson shape the "District 7 Action Plan," a data-driven initiative to address economic and social challenges in the district, particularly around displacement and economic mobility.
+
+### Key Steps and Deliverables:
+
+1. **Define District Boundaries:**
+   - Establish D7 boundaries using a shape file and map census tracts/block groups to D7. This will involve calculating the percentage of each census block group or tract that falls within D7.
+
+2. **Initial Data Collection and Indicator Selection:**
+   - Choose key indicators for population and displacement, housing, and economic development.
+   - For population, you’ll track racial/ethnic composition, poverty rates, education outcomes, and median household income.
+   - For housing, focus on home values, rent burden, evictions, and new housing permits.
+   - For economic development, look at small businesses, jobs for BIPOC workers, and businesses receiving assistance from the city.
+
+3. **Prototype and Initial Analysis:**
+   - Create a subset of data for 1–2 indicators (e.g., median household income or population by race/ethnicity) to present as a prototype to the Councilor. Get feedback on the presentation format and indicators.
+
+4. **Iterative Analysis and Client Feedback:**
+   - Present findings periodically, adjusting based on client feedback. Focus on highlighting trends over time (ideally the last 10 years) and comparisons between D7 and Boston.
+
+5. **Final Deliverable:**
+   - A dashboard showing current and historical data across various indicators, with a focus on displacement, economic mobility, and other challenges facing D7 residents.
+   - Explanation of each indicator and its historical trends.
+   - Documentation of all steps in data collection and analysis for reproducibility.
+
+### Tools and Platforms:
+   - Preferred tools for dashboard creation include Google LookerStudio and PowerBI (BU licenses available).
+   
+### Data Sources:
+   - Census data for population, housing, and economic indicators.
+   - City datasets for economic development and housing interventions.
+   - Consult with Spark! Expert in Residence, Tom Hopper, for guidance on housing datasets.
+
+### Project Goals:
+The primary objective is to generate actionable insights for Councilor Anderson and her Policy Director to drive impactful policies for D7. This includes understanding which residents are experiencing improvements in their quality of life, what specific areas are improving, and how these trends compare to other Boston districts and the city as a whole.
+
+### Timeline:
+- Mid-October (10/18): Preliminary analysis and client feedback.
+- Early November: Iterative reviews with the Councilor.
+- December 11: Spark! Demo Day with final presentations.
+
+Let me know if you need further breakdowns of specific tasks!
