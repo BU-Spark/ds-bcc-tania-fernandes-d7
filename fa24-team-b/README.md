@@ -23,7 +23,7 @@ This project focuses on analyzing the status of District 7 (D7) residents in Bos
    - Documentation of all steps in data collection and analysis for reproducibility.
 
 ### Tools and Platforms:
-   - Preferred tools for dashboard creation include Google LookerStudio and PowerBI (BU licenses available).
+   - Preferred tools for dashboard creation include Google LookerStudio and PowerBI.
    
 ### Data Sources:
    - Census data for population, housing, and economic indicators.
@@ -34,8 +34,6 @@ This project focuses on analyzing the status of District 7 (D7) residents in Bos
 The primary objective is to generate actionable insights for Councilor Anderson and her Policy Director to drive impactful policies for D7. This includes understanding which residents are experiencing improvements in their quality of life, what specific areas are improving, and how these trends compare to other Boston districts and the city as a whole.
 
 ### Timeline:
-- Mid-October (10/18): Preliminary analysis and client feedback.
+- Mid-October (10/18): Preliminary analysis and client feedbac k.
 - Early November: Iterative reviews with the Councilor.
-- December 11: Spark! Demo Day with final presentations.
-
-Let me know if you need further breakdowns of specific tasks!
+- December 11: Final presentations.
