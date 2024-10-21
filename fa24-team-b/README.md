@@ -1,4 +1,4 @@
-### Councilor Anderson: District 7
+### **Councilor Anderson: District 7**
 
 This project focuses on analyzing the status of District 7 (D7) residents in Boston, comparing them to the rest of the city, with an emphasis on population characteristics, housing, and economic development. Your analysis will help Councilor Tania Anderson shape the "District 7 Action Plan," a data-driven initiative to address economic and social challenges in the district, particularly around displacement and economic mobility.
 
