@@ -2,6 +2,27 @@
 
 This project focuses on analyzing the status of District 7 (D7) residents in Boston, comparing them to the rest of the city, with an emphasis on population characteristics, housing, and economic development. Our analysis will help Councilor [Tania Anderson]([https://www.boston.gov/departments/city-council/tania-fernandes-anderson]) shape the "District 7 Action Plan," a data-driven initiative to address economic and social challenges in the district, particularly around displacement and economic mobility.
 
+### Key Features
+- Tabular Data Analysis: Employs tabular data to obtain insights from trends in the data
+- Time-Series Analysis: Shows changes over time to identify long-term patterns and shifts
+- Housing Market Assessment: Evaluates affordability, availability, and displacement pressures
+
+Our aim is to assist Councilor Anderson in her efforts to address economic and social challenges, particularly housing issues, contributing to better housing outcomes for District 7 residents.
+
+### Dataset Used
+The project primarily utilizes data from two main sources:
+
+- Analyze Boston: A comprehensive open data hub for the City of Boston, providing a wide range of municipal datasets. [Analyze Boston Data Portal](https://data.boston.gov/)
+- District 7 Private Data: Private data provided by District 7 officials, offering deeper insights into local issues and trends
+
+These datasets enable a thorough and nuanced analysis of District 7's unique challenges and opportunities, particularly in the areas of housing, economic development, and community demographics.
+
+
+
+
+
+
+
 ### Key Steps and Deliverables:
 
 1. **Define District Boundaries:**
