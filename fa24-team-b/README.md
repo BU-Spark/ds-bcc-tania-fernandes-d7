@@ -1,7 +1,6 @@
 ### **Councilor Anderson: District 7**
 
-![image](https://github.com/user-attachments/assets/fa72b9cd-b2f0-44bb-9070-7f07465cb1ca)
-
+![image](https://github.com/user-attachments/assets/d8a4d7fb-f9ae-4599-b70d-f63d7177de4f)
 
 This project focuses on analyzing the status of District 7 (D7) residents in Boston, comparing them to the rest of the city, with an emphasis on population characteristics, housing, and economic development. Our analysis will help Councilor [Tania Anderson](https://www.boston.gov/departments/city-council/tania-fernandes-anderson) shape the "District 7 Action Plan," a data-driven initiative to address economic and social challenges in the district, particularly around displacement and economic mobility.
 
