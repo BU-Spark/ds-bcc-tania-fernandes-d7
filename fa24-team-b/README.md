@@ -9,12 +9,12 @@ This project focuses on analyzing the status of District 7 (D7) residents in Bos
 
 2. **Initial Data Collection and Indicator Selection:**
    - Choose key indicators for population and displacement, housing, and economic development.
-   - For population, you’ll track racial/ethnic composition, poverty rates, education outcomes, and median household income.
+   - For population, we’ll track racial/ethnic composition, poverty rates, education outcomes, and median household income.
    - For housing, focus on home values, rent burden, evictions, and new housing permits.
    - For economic development, look at small businesses, jobs for BIPOC workers, and businesses receiving assistance from the city.
 
 3. **Prototype and Initial Analysis:**
-   - Create a subset of data for 1–2 indicators (e.g., median household income or population by race/ethnicity) to present as a prototype to the Councilor. Get feedback on the presentation format and indicators.
+   - Create a subset of data for 1–2 indicators (median household income or population by race/ethnicity) to present as a prototype to the Councilor. Get feedback on the presentation format and indicators.
 
 4. **Iterative Analysis and Client Feedback:**
    - Present findings periodically, adjusting based on client feedback. Focus on highlighting trends over time (ideally the last 10 years) and comparisons between D7 and Boston.
