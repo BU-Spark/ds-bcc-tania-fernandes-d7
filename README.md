@@ -1,3 +1,6 @@
+# BOSTON CITY COUNCILOR ANDERSON: DISRICT 7 
+
+
 For our project with Councilor Anderson, we will be focusing on analyzing population and economic development data for District 7 in Boston. 
 
 Our team will analyze various datasets, including population demographics such as race, ethnicity, age, and education levels, as well as economic indicators like household income, the number of registered businesses, and job data for BIPOC workers. We'll also be tracking these metrics over the past 10 years, looking at changes in the district compared to the Boston city average, and possibly other districts.
