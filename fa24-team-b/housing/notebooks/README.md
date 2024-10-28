@@ -6,7 +6,7 @@ This folder contains Jupyter notebooks utilized for comprehensive data analysis.
 
 - **income_restricted_housing.ipynb**: Analyzes income-restricted housing. Covers data cleaning, evaluates housing availability, and examines the impact of Section 8 benefits.
 
-- **CensusData.ipynb**: 
+- **CensusData.ipynb**: Analyzes census data for different housing characteristics (focusing on 2 District 7 zip-codes) from 2011 -  2022.
 
 - **Property.ipynb**: Analyzes property data. Includes data preprocessing, exploratory data analysis (EDA), and examines property prices and property taxes trends.
 
