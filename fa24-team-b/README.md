@@ -38,6 +38,18 @@ pip install -r requirements.txt
 ```
 
 ## Modules Overview
+The project early insights are located in a file titled d7-Team-B-Early-Insights.ipynb.
+
+The README.md file contains a high-level explanation of our project. 
+
+The housing folder contains sub-folders containing the data and the notebooks. 
+
+The data folder contains sub-folders containing each of the separate datasets (census, household_pulse_surveys, income_restricted, property, rent_smart, along with a zip file for approved building permits). The sub-folders then contain multiple files that segregate the respective data into year-wise information.
+
+The notebooks folder contains our notebooks. 
+
+
+An orientation or roadmap to the repo. How is it organized? Where are the project early insights located? In which notebook? Don't make us have to hunt through folders and scripts to figure out where the exploratory data analysis is. If you have other scripts and notebooks, explain what those are too.
 
 [Fill in with notebooks]
 
