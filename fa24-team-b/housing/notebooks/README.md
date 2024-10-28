@@ -13,9 +13,9 @@ This folder contains Jupyter notebooks utilized for comprehensive data analysis.
 
 - **d7-CensusData.ipynb**: Analyzes census data for different housing characteristics (focusing on 2 District 7 zip-codes) from 2011 -  2022. 
 
-- **d7-approved-building-permits.ipynb**: 
+- **d7-approved-building-permits.ipynb**: Analyzes building permits data, including data cleaning, preprocessing, exploratory data analysis, and the trends of permit work types and occupancy types. 
   
-- **d7-rentsmart.ipynb**: 
+- **d7-rentsmart.ipynb**: Analyzes inspectional services data, including data cleaning, preprocessing, exploratory data analysis, and the patterns of  violations and properties. 
 
 - **pulse-survey.ipynb**: Data from Household Pulse Survey (HPS) collected by census.gov that provides insight into property tenure, rent or mortgage on-time or late payment, eviction, and foreclosure, filtered only for surveys answered by Massachusetts' residents.
 
