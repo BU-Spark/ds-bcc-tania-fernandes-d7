@@ -16,4 +16,4 @@ This folder contains Jupyter notebooks utilized for comprehensive data analysis.
   
 - **d7-rentsmart.ipynb**: 
 
-- **pulse-survey.ipynb**: 
+- **pulse-survey.ipynb**: Data from Household Pulse Survey (HPS) collected by census.gov that provides insight into property tenure, rent or mortgage on-time or late payment, eviction, and foreclosure, filtered only for surveys answered by Massachusetts' residents.
