@@ -11,7 +11,7 @@ This folder contains Jupyter notebooks utilized for comprehensive data analysis.
   
 - **Property.ipynb**: Analyzes property data. Includes data preprocessing, exploratory data analysis (EDA), and examines property prices and property taxes trends.
 
-- **d7-CensusData.ipynb**: - **d7-CensusData.ipynb**: Analyzes census data for different housing characteristics (focusing on 2 District 7 zip-codes) from 2011 -  2022. 
+- **d7-CensusData.ipynb**: Analyzes census data for different housing characteristics (focusing on 2 District 7 zip-codes) from 2011 -  2022. 
 
 - **d7-approved-building-permits.ipynb**: 
   
