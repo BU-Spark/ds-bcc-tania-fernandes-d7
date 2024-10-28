@@ -4,8 +4,8 @@ This repository contains the necessary resources, including data and Jupyter not
 
 ## Repository Structure
 
-- **Data/**: This folder contains all datasets utilized for analysis.
-- **Notebooks/**: This folder includes Jupyter notebooks documenting the analysis process and results.
+- **data/**: This folder contains all datasets utilized for analysis.
+- **notebooks/**: This folder includes Jupyter notebooks documenting the analysis process and results.
 
 ## Purpose
 
