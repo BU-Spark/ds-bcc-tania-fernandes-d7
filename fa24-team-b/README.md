@@ -44,9 +44,9 @@ The README.md file contains a high-level explanation of our project.
 
 The housing folder contains sub-folders containing the data and the notebooks. 
 
-The data folder contains sub-folders containing each of the separate datasets (census, household_pulse_surveys, income_restricted, property, rent_smart, along with a zip file for approved building permits). The sub-folders then contain multiple files that segregate the respective data into year-wise information.
+The **data/** folder contains sub-folders containing each of the separate datasets (census, household_pulse_surveys, income_restricted, property, rent_smart, along with a zip file for approved building permits). The sub-folders then contain multiple files that segregate the respective data into year-wise information.
 
-The notebooks folder contains our ipynb notebooks. Each notebook is titled with a name that corresponds to the dataset it contains analysis for. For example, d7-CensusData corresponds to the files in the data/census folder.
+The **notebooks/** folder contains our ipynb notebooks. Each notebook is titled with a name that corresponds to the dataset it contains analysis for. For example, d7-CensusData corresponds to the files in the data/census folder.
 
 Each notebook contains preprocessing, exploratory data analysis and some insights for the corresponding datasets. 
 
