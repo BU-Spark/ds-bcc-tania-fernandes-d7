@@ -60,13 +60,11 @@ Each notebook contains preprocessing, exploratory data analysis and some insight
 
 2. **Initial Data Collection and Indicator Selection:**
 
-   - Choose key indicators for population and displacement, housing, and economic development.
-   - For population, we’ll track racial/ethnic composition, poverty rates, education outcomes, and median household income.
-   - For housing, focus on home values, rent burden, evictions, and new housing permits.
+   - Choose key indicators for housing, focusing on home values, rent burden, evictions, and new housing permits.
 
 3. **Prototype and Initial Analysis:**
 
-   - Create a subset of data for 1–2 indicators (median household income or population by race/ethnicity) to present as a prototype to the Councilor. Get feedback on the presentation format and indicators.
+   - Create a subset of data for 1–2 indicators (such as median household income) to present as a prototype to the Councilor. Get feedback on the presentation format and indicators.
 
 4. **Iterative Analysis and Client Feedback:**
 
