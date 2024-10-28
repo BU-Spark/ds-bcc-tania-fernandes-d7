@@ -6,14 +6,16 @@ This folder contains Jupyter notebooks utilized for comprehensive data analysis.
 
 - **income_restricted_housing.ipynb**: Analyzes income-restricted housing. Covers data cleaning, evaluates housing availability, and examines the impact of Section 8 benefits.
 
-- **CensusData.ipynb**: Analyzes census data for different housing characteristics (focusing on 2 District 7 zip-codes) from 2011 -  2022.
 
+- **CensusData.ipynb**: This is the preliminary file that worked with the Census datasets. It contained some initial preprocessing of the datasets. d7-CensusData.ipynb is a more current version that contains preprocessing along with early analysis.
+- 
 - **Property.ipynb**: Analyzes property data. Includes data preprocessing, exploratory data analysis (EDA), and examines property prices and property taxes trends.
 
-- **d7-CensusData.ipynb**: 
+- **d7-CensusData.ipynb**: - **d7-CensusData.ipynb**: Analyzes census data for different housing characteristics (focusing on 2 District 7 zip-codes) from 2011 -  2022. 
 
 - **d7-approved-building-permits.ipynb**: 
   
 - **d7-rentsmart.ipynb**: 
 
 - **pulse-survey.ipynb**: Data from Household Pulse Survey (HPS) collected by census.gov that provides insight into property tenure, rent or mortgage on-time or late payment, eviction, and foreclosure, filtered only for surveys answered by Massachusetts' residents.
+
