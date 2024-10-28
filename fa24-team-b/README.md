@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/d8a4d7fb-f9ae-4599-b70d-f63d7177de4f)
 
-This project focuses on analyzing the status of District 7 (D7) residents in Boston, comparing them to the rest of the city, with an emphasis on population characteristics, housing, and economic development. Our analysis will help Councilor [Tania Anderson](https://www.boston.gov/departments/city-council/tania-fernandes-anderson) shape the "District 7 Action Plan," a data-driven initiative to address economic and social challenges in the district, particularly around displacement and economic mobility.
+This project focuses on analyzing the status of District 7 (D7) residents in Boston, comparing them to the rest of the city, with an emphasis on housing. Our analysis will help Councilor [Tania Anderson](https://www.boston.gov/departments/city-council/tania-fernandes-anderson) shape the "District 7 Action Plan," a data-driven initiative to address economic and social challenges in the district, particularly around the housing crisis.
 
 ### Key Features
 
@@ -12,11 +12,11 @@ This project focuses on analyzing the status of District 7 (D7) residents in Bos
 
 Our aim is to assist Councilor Anderson in her efforts to address economic and social challenges, particularly housing issues, contributing to better housing outcomes for District 7 residents.
 
-### Dataset Used
+### Datasets Used
 
 The project primarily utilizes data from two main sources:
 
-- Analyze Boston: A comprehensive open data hub for the City of Boston, providing a wide range of municipal datasets. [Analyze Boston Data Portal](https://data.boston.gov/)
+- Analyze Boston / United States Census Bureau: A comprehensive open data hub for the City of Boston, providing a wide range of municipal datasets. [Analyze Boston Data Portal](https://data.boston.gov/)
 - District 7 Private Data: Private data provided by District 7 officials, offering deeper insights into local issues and trends
 
 These datasets enable a thorough and nuanced analysis of District 7's unique challenges and opportunities, particularly in the areas of housing, economic development, and community demographics.
@@ -46,12 +46,9 @@ The housing folder contains sub-folders containing the data and the notebooks.
 
 The data folder contains sub-folders containing each of the separate datasets (census, household_pulse_surveys, income_restricted, property, rent_smart, along with a zip file for approved building permits). The sub-folders then contain multiple files that segregate the respective data into year-wise information.
 
-The notebooks folder contains our notebooks. 
+The notebooks folder contains our ipynb notebooks. Each notebook is titled with a name that corresponds to the dataset it contains analysis for. For example, d7-CensusData corresponds to the files in the data/census folder.
 
-
-An orientation or roadmap to the repo. How is it organized? Where are the project early insights located? In which notebook? Don't make us have to hunt through folders and scripts to figure out where the exploratory data analysis is. If you have other scripts and notebooks, explain what those are too.
-
-[Fill in with notebooks]
+Each notebook contains preprocessing, exploratory data analysis and some insights for the corresponding datasets. 
 
 ## Project Timeline
 
@@ -87,8 +84,7 @@ An orientation or roadmap to the repo. How is it organized? Where are the projec
 ### Data Sources:
 
 - Census data for population, housing, and economic indicators.
-- City datasets for economic development and housing interventions.
-- Consult with Spark! Expert in Residence, Tom Hopper, for guidance on housing datasets.
+- City datasets for housing interventions.
 
 ### Project Goals:
 
