@@ -1,0 +1,19 @@
+,city_normalized,active_licenses,license_diversity,unique_dba_names,vibrancy_score
+0,Allston,7,3,194,304.0
+1,Boston,72,3,3073,4687.5
+2,Boston/Roxbury,0,1,2,5.0
+3,Brighton,6,2,194,301.0
+4,Charlestown,2,3,118,185.0
+5,Dorchester,31,2,476,749.0
+6,Downtown/Financial District,0,1,2,5.0
+7,East Boston,13,2,272,425.0
+8,Hyde Park,8,2,105,169.5
+9,Jamaica Plain,4,2,293,447.5
+10,Jamaica Plain/,0,1,3,6.5
+11,Mattapan,3,2,66,106.0
+12,Mission Hill,3,1,55,87.5
+13,Roslindale,6,1,114,179.0
+14,Roxbury,17,2,451,697.5
+15,South Boston,8,2,178,279.0
+16,South End,0,2,2,7.0
+17,West Roxbury,0,2,66,103.0
