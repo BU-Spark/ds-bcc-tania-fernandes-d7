@@ -1,0 +1,207 @@
+﻿_id,id_name_first,id_name_last,id_full_name,app_license_category,app_license_no,app_business_name,app_dba_name,app_license_status,lt_license_type,equity_program_designation,facility_address,facility_zip_code,longitude,latitude
+1,Drudys,Ledbetter,Ms. Drudys Ledbetter,Retail,CAN580540,,Zèb Boutique LLC,Inactive,Cannabis,N,"1526-1530 Dorchester AVE, Dorchester MA",02122,-71.06049058504432,42.29852952742825
+2,"Vanisha, M",Washington,"Vanisha, M Washington",Co-Located,CAN524697,Patriot Care Corp.,Cannabist,Inactive,Cannabis,N,"21 Milk ST, Boston MA",02108,-71.05827045068921,42.356629520663205
+3,Joseph,Barbieri,Joseph Barbieri,Retail,CAN524700,"Medmen Boston, LLC",,Inactive,Cannabis,N,"120 Brookline AV, Boston MA",02215,-71.09985056920307,42.34558957600777
+4,Michael,Smith Jr,Michael Smith Jr,Co-Located,CAN524715,Apothca Inc.,Massachusetts Patient Foundation Inc.,Active,Cannabis,N,"54A Hyde Park AV, Jamaica Plain MA",02130,-71.11412215546312,42.298706687794734
+5,Kyle,Teevens,Kyle Teevens,Retail,CAN524717,Erba C3 Dorchester LLC,High Profile X Budega,Active,Cannabis,Y,"43 Freeport ST, Dorchester MA",02122,-71.05796056176298,42.306539523887764
+6,Julia,Crawford,Julia Crawford,Retail,CAN524719,"Sira Naturals, Inc.",Ayr,Active,Cannabis,N,"829 Boylston ST, Boston MA",02116,-71.08267052252427,42.34893955267103
+7,Andrew,Plante,Andrew Plante,Co-Located,CAN524747,"Mayflower Medicinals, Inc.",,Active,Cannabis,N,"230 Harvard AV, Allston MA",02134,-71.12960062832501,42.34905961389872
+8,Nike,John,Nike John,Retail,CAN524749,"The Heritage Club, LLC",The Heritage Club,Active,Cannabis,Y,"116R Cambridge ST, Charlestown MA",02129,-71.07947205576275,42.381832358248396
+9,Kyle,Teevens,Kyle Teevens,Retail,CAN524751,"Massachusetts Citizens for Social Equity, LLC.",High Profile X Budega,Active,Cannabis,Y,"3995-3997 Washington ST, Roslindale MA",02131,-71.12149073602781,42.29289961291656
+10,ROOTED,IN LLC,ROOTED IN LLC,Retail,CAN533075,,"Rooted In Roxbury, LLC",Inactive,Cannabis,N/A,"2177 Washington ST, Roxbury MA",02119,-71.08265056128694,42.3313995549611
+11,Blake,Mensing,Blake Mensing,Retail,CAN533078,Healing Calyx LLC,,Inactive,Cannabis,N/A,"70 Von Hillern ST, South Boston MA",02125,-71.05397051413617,42.32358951687914
+12,dara,toney,dara toney,Manufact,CAN533085,Finest Drinks and Edibles Company,Finest,Inactive,Cannabis,N/A,"56 Evelyn ST, Mattapan MA",02126,-71.09024069602846,42.27896957111114
+13,mike,morris,mike morris,Co-Located,CAN533086,"Sun Mass, Inc.",,Inactive,Cannabis,N/A,"931 Hyde Park AV, Hyde Park MA",02136,-71.12140908240843,42.26795931587446
+14,Leah,Daniels,Leah Daniels,Retail,CAN533088,Alchemy League,,Inactive,Cannabis,N/A,"60 Newmarket SQ, Roxbury MA",02118,-71.06648651015773,42.3272601069285
+15,Chauncy,Spencer,Chauncy Spencer,Retail,CAN533090,"High Tech Farms, LLC.",,Inactive,Cannabis,N/A,"1618-1634 Blue Hill AV, Mattapan MA",02126,-71.09334072683531,42.268769576641034
+16,Sieh,Samura,Sieh Samura,Cultivate,CAN533094,612 Studios LLC,,Inactive,Cannabis,N/A,"612 Hyde Park AV, Roslindale MA",02131,-71.11881783004029,42.27948346454267
+17,shawn,cooney,shawn cooney,Cultivate,CAN533096,"Cloud Farming, LLC",,Inactive,Cannabis,N/A,"7 Nay ST, East Boston MA",02128,-71.03863034809109,42.38301349338572
+18,Shawn,Cooney,Shawn Cooney,Cultivate,CAN533097,,Cornerstalk Farm,Inactive,Cannabis,N/A,"50 Condor ST, East Boston MA",02128,-71.03812532394369,42.382815236322834
+19,Kevin,Conroy,Kevin Conroy,Retail,CAN533098,Brighton Organics,Natural Selections,Inactive,Cannabis,N/A,"345 Washington ST, Boston MA",02108,-71.05924045192315,42.35675952116082
+20,Jaison,Cramer,Jaison Cramer,Retail,CAN533100,"Greenerside Cultivation, LLC",,Inactive,Cannabis,N/A,"552 Columbus AV, Roxbury MA",02118,-71.08060053567246,42.3411895513954
+21,Jonathan,Vance,Jonathan Vance,Retail,CAN533102,"Elevate ARC, LLC.",,Inactive,Cannabis,N/A,"355 Congress ST, Boston MA",02210,-71.04849044378055,42.350059508131174
+22,Lawrence,DiCara,Lawrence DiCara,Co-Located,CAN533104,Patriot Care Corp.,Patriot Care,Inactive,Cannabis,N/A,"129-133 Columbus AV, Boston MA",02116,-71.07062300984255,42.34982247910353
+23,chesterfield,coppin,chesterfield coppin,Retail,CAN533106,Oasis Enterprize Group Inc,,Inactive,Cannabis,N/A,"340 Washington ST, Boston MA",02108,-71.05880340493978,42.35659807010414
+24,Lakeisha,Clayton,Lakeisha Clayton,Retail,CAN533107,Terence Clayton,Exquisite Cuts,Inactive,Cannabis,N/A,"427 Adams ST, Dorchester MA",02122,-71.05651058425762,42.29481952214574
+25,Lashawnta,Armstrong,Lashawnta P Armstrong,Retail,CAN533109,Spirituallywealthyfam01,,Inactive,Cannabis,N/A,"1586 Dorchester AV, Dorchester MA",02122,-71.06106059113229,42.2964495285541
+26,Sean,O'Donovan,Sean O'Donovan,Retail,CAN533110,Sira Naturals,,Inactive,Cannabis,N/A,"470 Washington ST, Brighton MA",02135,-71.15954069514655,42.348699653924285
+27,Alex,Hardy,Alex M Hardy,Retail,CAN533111,"NS AJO Holdings, Inc.",Ethos Cannabis,Inactive,Cannabis,N/A,"50 Clapp ST, Dorchester MA",02125,-71.062974535937,42.3232425290485
+28,SONI,DOT LLC,SONI DOT LLC,Retail,CAN547619,,SONI DOT LLC,Inactive,Cannabis,N,"1576 Tremont ST, Mission Hill MA",02120,-71.10246160222954,42.33320758095276
+29,Christopher,Ray,Christopher Ray,Retail,CAN538045,"JLau & Company, LLC","The Finest Cannabis Company, LLC",Inactive,Cannabis,Y,"350 Chestnut Hill AV, Brighton MA",02135,-71.15166070435042,42.337089645311174
+30,Adenike,John,Adenike John,Retail,CAN522945,"1220 Washington St., Inc.",The Boston Garden Dispensary,Inactive,Cannabis,Y,"1222-1222A Washington ST, Roxbury MA",02118,-71.06672193440245,42.34277175330856
+31,,"Seven Peaks Boston Retail, LLC","A Seven Peaks Boston Retail, LLC",Retail,CAN522954,"Seven Peaks Boston Retail, LLC",Seven Peaks,Inactive,Cannabis,N/A,"52-60 Winter ST, Boston MA",02111,-71.06207486773222,42.35606817224757
+32,,"Curaleaf Massachusetts,Inc","Curaleaf Massachusetts,Inc",Retail,CAN522959,"Curaleaf Massachusetts,Inc",Curaleaf,Inactive,Cannabis,N/A,"25 Winter ST, Boston MA",02108,-71.06136941845578,42.355998687527595
+33,,Frozen 4 Corporation,Frozen 4 Corporation,Retail,CAN522970,Frozen 4 Corporation,,Inactive,Cannabis,N/A,"1677-1679 Washington ST, Roxbury MA",02118,-71.07574653054944,42.33769175830313
+34,,Aditya Soni,Aditya Soni,Retail,CAN576593,,Soni DOT LLC,Inactive,Cannabis,N,"1576 Tremont ST, Mission Hill MA",02120,-71.10246060177279,42.333209580665
+35,Jose,Diaz,Jose Diaz,Retail,CAN523284,"Community Growth Partners Boston, LLC",Rebelle,Active,Cannabis,N,"591 Albany ST, Roxbury MA",02118,-71.06833051524539,42.33747953550559
+36,D’Angelique,Clarke-Brantley,D’Angelique Clarke-Brantley,Manufact,CAN538530,,,Inactive,Cannabis,N/A,"16 Stockton ST, Dorchester MA",02124,-71.07288064844325,42.28265954650614
+37,Devin,Alexander,Devin Alexander,Operator,CAN550230,,"Rolling Releaf II, LLC",Inactive,Cannabis,Y,"717-721 American Legion HW, Roslindale MA",02131,-71.11419318087324,42.28316264915388
+38,Geoffrey,Reilinger,Geoffrey Reilinger,Retail,CAN530457,"Compassionate Organics, LLC",Reilinger,Inactive,Cannabis,N/A,"633 Tremont ST, Roxbury MA",02118,-71.07497052003383,42.34242954296083
+39,Kijana,Rose,Kijana Rose,Retail,CAN581282,"I & I Rose Garden, LLC",I & I Rose Garden,Inactive,Cannabis,Y,"14-22 Birch ST, Roslindale MA",02131,-71.12987076733428,42.28681862597199
+40,Joseph,Lavoie,Joseph Lavoie,Operator,CAN524897,"JTJD, LLC",Ember Gardens,Inactive,Cannabis,Y,"610 Chelsea ST, East Boston MA",02128,-71.0225653063495,42.38554547255299
+41,Jean-Luc,De Barros,Jean-Luc De Barros,Operator,CAN524899,MJ2HOME LLC,MJ2HOME LLC,Inactive,Cannabis,N/A,"251 Bowdoin ST, Dorchester MA",02122,-71.06676879986425,42.30619480371186
+42,Dexter Glen,Miller,Dexter Glen Miller,Retail,CAN524901,DCC Inc.,DCC Express,Inactive,Cannabis,N/A,"1953 Dorchester AVE, Dorchester MA",02124,-71.06501062802022,42.28407953520812
+43,Chung H,Lee,Chung H Lee,Retail,CAN524905,Beantown Buds Inc.,Beantown Buds,Inactive,Cannabis,N/A,"25-29 Beach ST, Boston MA",02111,-71.06182047016883,42.351310525350236
+44,Kenneth,Stevens,Kenneth Stevens,Retail,CAN524997,Debken Corporation,,Inactive,Cannabis,N,"204 N Beacon ST, Brighton MA",02135,-71.14867465533565,42.35580463833033
+45,Becca,Rutenberg,Becca Rutenberg,Retail,CAN525004,High Street Cannabis Group LLC,Primitiv Group,Active,Cannabis,Y,"200 High ST, Boston MA",02110,-71.05198940237769,42.35676609265793
+46,Josh,Zakim,Josh Zakim,Retail,CAN525013,"Vinyl Roots, Inc",Soul Cannabis,Inactive,Cannabis,Y,,02109,-71.0548583871436,42.36053533157748
+47,Isaac,Hampton,Isaac Hampton,Retail,CAN525016,"Underground Legacy Social Club, LLC",Underground Legacy LLC,Active,Cannabis,Y,"1379-1385 Blue Hill AV, Mattapan MA",02126,-71.09389057033562,42.2770720212749
+48,Eric,Lawrence,Eric Lawrence,Retail,CAN525054,"684 Center Street, JP, LLC",Prolific Cannabis,Inactive,Cannabis,Y,"684 Centre ST, Jamaica Plain MA",02130,-71.11400182186378,42.31184285363464
+49,Desiree,Franjul,Desiree Franjul,Retail,CAN525063,"Herbal Power, LLC",Budega,Inactive,Cannabis,Y,"329 Columbus AV, Boston MA",02116,-71.07509860915977,42.34632036120081
+50,Blake,Mensing,Blake Mensing,Retail,CAN525067,"Stone's Throw Cannabis, LLC",Firebrand Cannabis,Active,Cannabis,Y,"727 Atlantic AV, Boston MA",02111,-71.05681046068992,42.350679518230315
+51,Jeff,Similien,Owner Jeff Similien,Retail,CAN525077,"Lowkey 2, LLC",Lowkey Dispensary,Inactive,Cannabis,Y,"5268 Washington ST, West Roxbury MA",02132,-71.1588717717371,42.259358417467034
+52,Jeff,Similien,Owner Jeff Similien,Cultivate,CAN525079,"Lowkey Cultivation, LLC",Lowkey Cultivation,Inactive,Cannabis,Y,"48-54 Walter ST, Hyde Park MA",02136,-71.1170208079242,42.25621961215357
+53,Kobie,Evans,Kobie Evans,Operator,CAN525083,"Pure Oasis, LLC",Pure Oasis,Inactive,Cannabis,Y,"430-454 Blue Hill AV, Dorchester MA",02121,-71.08220047865646,42.30967057433212
+54,Leah,Samura,Leah Samura,Retail,CAN525097,"OPCO Allston, LLC",Dr. GreenThumb Allston,Inactive,Cannabis,Y,"144 Harvard AV, Allston MA",02134,-71.13154062581386,42.35193961656221
+55,DAMIEN ,WEST ,DAMIEN  WEST,Medical,CAN545377,,,Inactive,Cannabis,Y,"684 Centre ST, Jamaica Plain MA",02130,-71.11400182186378,42.31184285363464
+56,Brian,Keith,Brian Keith,Retail,CAN526050,"Rooted In, LLC",,Active,Cannabis,Y,"331 Newbury ST, Boston MA",02115,-71.0864305313177,42.348749557835845
+57,Kwame,Norville,Kwame Norville,Co-Located,CAN526055,"Beacon Compassion, Inc.",Up Top,Active,Cannabis,N,"1524 VFW PW, West Roxbury MA",02132,-71.1703832798708,42.26830074031824
+58,Kijana,Rose,Kijana Rose,Manufact,CAN526058,"I & I Rose Garden, LLC",I & I Rose Garden,Inactive,Cannabis,Y,"14-22 Birch ST, Roslindale MA",02131,-71.12987076733428,42.28681862597199
+59,Gabriel,Vieira,Gabriel Vieira,Operator,CAN526063,"Zip Run, Inc.",Zyp Run,Active,Cannabis,Y,"1170 William T Morrissey BLVD, Dorchester MA",02122,-71.04178057080685,42.28595950300891
+60,Gregory,Sances,Gregory Sances,Retail,CAN526066,East Boston Local Roots,East Boston Cannabis Co.,Active,Cannabis,N,"1006-1010 Bennington ST, East Boston MA",02128,-71.00667172379224,42.386970848546326
+61,Jeffrey,Drago,Jeffrey Drago,Retail,CAN526068,"HVV Massachusetts, Inc.",Happy Valley,Inactive,Cannabis,N,"1937 Beacon ST, Brighton MA",02135,-71.14925470238009,42.33590764250601
+62,Kobie,Evans,Kobie Evans,Retail,CAN526072,"Pure Oasis, LLC",Pure Oasis,Active,Cannabis,Y,"85 Devonshire ST, Boston MA",02109,-71.05744044583399,42.35774951878459
+63,Eric,Lawrence,Eric Lawrence,Retail,CAN526074,"Mass Greenwoods, LLC",Prolific Cannabis,Inactive,Cannabis,Y,"116 Harvard AV, Allston MA",02134,-71.13172983406338,42.35247343561378
+64,Vrinda Jody,Mendoza Pekala,Vrinda Jody Mendoza Pekala,Retail,CAN526216,"Team Green, LLC",,Inactive,Cannabis,Y,"1441 Tremont ST, Mission Hill MA",02120,-71.09663059162062,42.331919573038995
+65,Carlos,Castillo,Carlos Castillo,Retail,CAN526223,"The Cannabis Station, LLC",Right Time Roxbury,Inactive,Cannabis,Y,"2363-2365 Washington ST, Roxbury MA",02119,-71.08492057079583,42.329409558513184
+66,Brian,Keith,Brian Keith,Retail,CAN526229,"Rooted In Sankofa, LLC",Rooted In Roxbury,Inactive,Cannabis,Y,"195 Dudley ST, Roxbury MA",02119,-71.08163801690526,42.32838364921909
+67,Kristine,Lee,Kristine Lee,Retail,CAN526234,"Dragon Buds, Inc.",Dragon Buds,Inactive,Cannabis,N,"25-29 Beach ST, Boston MA",02111,-71.06182047016883,42.351310525350236
+68,Anthony,Perkins,Anthony Perkins,Retail,CAN526237,"XHale New England Dispensary, LLC",Xhale New England Dispensary,Inactive,Cannabis,Y,"888 Morton ST, BOSTON MA",02124,,
+69,Shayne,Cranmore,Shayne Cranmore,Retail,CAN526248,SAWF Estate LLC,Baked Cannabis Dispensary,Inactive,Cannabis,Y,"879 Blue Hill AV, Dorchester MA",02124,-71.08810065489568,42.29533956627489
+70,Michael,Pires,Michael Pires,Retail,CAN526251,"KG Collective, LLC",Kush Groove,Inactive,Cannabis,Y,"1589 Columbus AV, Roxbury MA",02119,-71.0987166200034,42.321584577978506
+71,Shane,Hyde,Shane Hyde,Retail,CAN526253,"Ember Gardens Boston, LLC",Ember Gardens,Inactive,Cannabis,Y,"297 Newbury ST, Boston MA",02115,-71.08521752785227,42.34908255586329
+72,Clyburn,Crawford,Clyburn Crawford,Retail,CAN526255,"The Grazin Group, LLC",,Inactive,Cannabis,Y,"533 Washington ST, Dorchester MA",02124,-71.07209062417544,42.292909543887625
+73,Kyle,Chambers,Kyle Chambers,Retail,CAN526260,"New Dia Fenway, LLC",New Dia,Active,Cannabis,Y,"48-62 Brookline AV, Boston MA",02215,-71.0979892785389,42.347489989702495
+74,Tim,Caraboolad,Tim Caraboolad,Retail,CAN526294,"Holland Brands SB, LLC",Native Sun,Active,Cannabis,N,"115 K ST, South Boston MA",02127,-71.03794871935068,42.338361779692136
+75,John,"Kelly, III","John F Kelly, III",Retail,CAN526311,"R2 Resilient Remedies, LLC",,Inactive,Cannabis,N,"31 Cambridge ST, Charlestown MA",02129,-71.07462242634855,42.3840165387517
+76,Fernando,Bent- Mullings,Fernando Bent- Mullings,Retail,CAN526317,"Rasta Rootz, LLC",Rasta Rootz,Inactive,Cannabis,N/A,"21 Broad ST, Boston MA",02109,-71.05465612986227,42.358437796776556
+77,Jeffrey,Sanchez,Jeffrey Sanchez,Retail,CAN526320,"Raices on the Hill, LLC",,Inactive,Cannabis,N,"123 Terrace ST, Mission Hill MA",02120,-71.09850060495026,42.32802957600743
+78,Joseph Shawn,Cooney,Joseph Shawn Cooney,Cultivate,CAN526322,"CloudFarming, LLC",Corner Stalk Farm,Inactive,Cannabis,N,"50 Condor ST, East Boston MA",02128,-71.03812532394369,42.382815236322834
+79,Robert,DiFazio,Robert DiFazio,Retail,CAN526327,CNA Stores Inc.,CNA Stores,Inactive,Cannabis,N,"70 Von Hillern ST, South Boston MA",02125,-71.05397051413617,42.32358951687914
+80,Brian,Jones II,Brian Jones II,Retail,CAN526372,"Cannabis Healing, LLC",Cannabis Healing,Inactive,Cannabis,N,"4 Neptune RD, East Boston MA",02128,-71.02544657811583,42.38027549244095
+81,Josh,Zakim,Josh Zakim,Retail,CAN526374,"The Copley Connection, Inc.",The Copley Connection,Inactive,Cannabis,N,"551 Boylston ST, Boston MA",02116,-71.07600566010268,42.350736036111066
+82,Benjamin,Smith,Benjamin Smith,Retail,CAN526381,Evergreen Farms Group LLC,Evergreen Farms Group,Inactive,Cannabis,Y,"883 Hyde Park AV, Hyde Park MA",02136,-71.12105478653463,42.269647616278334
+83,Jeff,Similien,Owner Jeff Similien,Retail,CAN526385,"Low Key, LLC",Low Key Dispensary,Active,Cannabis,Y,"571B Washington ST, Dorchester MA",02124,-71.07200762659642,42.29167754469166
+84,Desiree,Franjul,Desiree Franjul,Retail,CAN526451,MCSE LLC,High Profile X Budega,Active,Cannabis,Y,"561 Dudley ST, Dorchester MA",02125,-71.07266956262671,42.320939542466085
+85,Cleon,Byron,Cleon Byron,Retail,CAN526453,"Evoke, Inc.",,Expired,Cannabis,Y,"1102 Blue Hill AV, Dorchester MA",02124,,
+86,Nicole,Campbell,Nicole Campbell,Retail,CAN526474,"TGLD III, Inc.",The Green Lady Dispensary,Inactive,Cannabis,N/A,"130-132 Boylston ST, Boston MA",02116,-71.06602047833935,42.352269530739285
+87,Geneise,Israel,Geneise Israel,Retail,CAN526478,"Suite 420 Wellness, LLC",,Inactive,Cannabis,Y,"1295-1297 River ST, Hyde Park MA",02136,-71.12478082545887,42.255889623036765
+88,Castillo,Carlos,Castillo Carlos,Retail,CAN526480,The Cannabis Station Mattapan LLC,TCS Mattapan,Inactive,Cannabis,N/A,"1292 Blue Hill AV, Mattapan MA",02126,-71.0926807001642,42.279439574358506
+89,Mario,Signore,Mario Signore,Cultivate,CAN526486,"Green Line Boston, LLC",,Inactive,Cannabis,N/A,"100-114 Hampden ST, Roxbury MA",02119,-71.07480201444332,42.32937174155831
+90,Julius,Sokol,Julius Sokol,Retail,CAN526494,"East Boston Bloom, LLC",Boutiq,Active,Cannabis,N,"69-71 Maverick SQ, East Boston MA",02128,-71.03860937678822,42.36975149465836
+91,,Zach Wilson,General Manager Zach Wilson,Co-Located,CAN526499,Silver Therapeutics Inc.,City Farm,Active,Cannabis,N/A,"717-721 American Legion HW, Roslindale MA",02131,-71.11419318087324,42.28316264915388
+92,,Zenith ,Zenith,Retail,CAN540104,,Zenith United LLC,Inactive,Cannabis,Y,"417-421 Hyde Park AV, Roslindale MA",02131,-71.11892074465798,42.28613960965261
+93,Kobie,Evans,Kobie Evans,Retail,CAN525103,"Pure Oasis, LLC",Pure Oasis,Inactive,Cannabis,Y,"535 Washington ST, Brighton MA",02135,-71.1632907031817,42.3492796580742
+94,Brian,Keith,Brian Keith,Courier,CAN525111,"EnRoot Home Delivery Service, LLC",EnRoot Home Delivery Service,Inactive,Cannabis,Y,"415 Blue Hill AV, Dorchester MA",02121,-71.0818406063813,42.310839555902064
+95,Mario,Signore,Mario Signore,Operator,CAN525112,"Green Flash Delivery, LLC",,Active,Cannabis,Y,"225 Southampton ST, Roxbury MA",02118,-71.06572310874309,42.330796415511784
+96,Kinjal,Patel,Kinjal Patel,Retail,CAN530634,Green Stratus Corp,Green Stratus Corp,Inactive,Cannabis,N/A,"558-560 Dorchester AV, South Boston MA",02127,-71.0567485219738,42.33048127088476
+97,Edwin,Alicia,Edwin Alicia,Retail,CAN530637,"Boston Urban Dispensary, LLC",,Inactive,Cannabis,N/A,"1112-1118 Blue Hill AV, Dorchester MA",02124,-71.09048504842886,42.28619582239874
+98,,James P Robertson Jr,James P Robertson Jr,Retail,CAN541585,,South End Buds LLC,Inactive,Cannabis,Y,"1679-1677 Washington ST, Roxbury MA",02118,-71.07575053257493,42.33769954531241
+99,Arish,Halani,Arish Halani,Retail,CAN533729,"OG Leaf, Inc.",,Inactive,Cannabis,N/A,"159 Old Colony AV, South Boston MA",02127,-71.05504049315336,42.334319517673784
+100,Arish,Halani,Arish Halani,Retail,CAN533731,"OG Leaf, Inc.",,Inactive,Cannabis,N/A,"551-557 Dorchester AV, South Boston MA",02127,-71.05717050655217,42.33052952054192
+101,Sean,O'Donovan,Sean O'Donovan,Retail,CAN533732,Keltic Green Inc.,,Inactive,Cannabis,N/A,"324 A ST, Boston MA",02210,-71.04952112091307,42.34927414087131
+102,Small,Derric,Small Derric,TestLab,CAN533738,Assured Testing Labroratory LLC,,Inactive,Cannabis,N/A,"43 Freeport ST, Dorchester MA",02122,-71.05796056176298,42.306539523887764
+103,JOHN,GIOIOSA,JOHN GIOIOSA,Courier,CAN533740,"Gi's Deliveries,LLC",,Inactive,Cannabis,N/A,"17 Livingstone ST, Dorchester MA",02124,-71.08964259419233,42.284953868552
+104,Colonel,Boothe,Chief Financial Officer Colonel Boothe,Retail,CAN533741,,,Inactive,Cannabis,N/A,"313 Old Colony AV, South Boston MA",02127,-71.05287049885479,42.32968951532733
+105,John,Bradshaw,John Bradshaw,Operator,CAN533742,Boston Recreational Cannabis LLC,,Inactive,Cannabis,N/A,"150 Southampton ST, Roxbury MA",02118,-71.06753152627768,42.33186853441127
+106,Arish,Halani,Arish Halani,Retail,CAN533746,"OG Leaf, Inc.",,Inactive,Cannabis,N/A,"551-557 Dorchester AV, South Boston MA",02127,-71.05717050655217,42.33052952054192
+107,Jeff,Similien,Jeff Similien,Retail,CAN533752,Low Key LLC,,Inactive,Cannabis,N/A,"5270 Washington ST, West Roxbury MA",02132,-71.15893089500885,42.25928967130262
+108,Victor,Chiang,Victor Chiang,Retail,CAN533757,Weston Roots Management,,Inactive,Cannabis,N/A,,02109,-71.05513729292959,42.36050018071676
+109,Peter,D'Agostino,Peter D'Agostino,Retail,CAN533762,The City Greenery LLC.,,Inactive,Cannabis,N/A,"3720 Washington ST, Jamaica Plain MA",02130,-71.11325070051909,42.30002959993941
+110,Colonel,Boothe,Chief Financial Officer Colonel Boothe,Retail,CAN530459,Holistic Health Group Inc..,,Inactive,Cannabis,N/A,"1548 Dorchester AV, Dorchester MA",02122,-71.06067058759339,42.2977095282582
+111,Arish,Halani,CEO Arish Halani,Retail,CAN530467,"Omnicann, Inc.",,Inactive,Cannabis,N/A,"24 Porter ST, East Boston MA",02128,-71.0379003648865,42.37465949244381
+112,Christopher,Ray,Christopher Ray,Retail,CAN530490,"Dragon Vapors, LLC",,Inactive,Cannabis,N/A,"354-356 Chestnut Hill AV, Brighton MA",02135,-71.15150523231416,42.33688902592711
+113,Sean,O'Donovan,Sean O'Donovan,Retail,CAN530496,"Compassionate Organics, LLC.",,Inactive,Cannabis,N/A,"253-261 Tremont ST, Boston MA",02116,-71.06535048011575,42.35043952987847
+114,Sean,O'Donovan,Sean O'Donovan,Retail,CAN530504,Sanctuary Medicinals Inc.,,Inactive,Cannabis,N/A,"253-261 Tremont ST, Boston MA",02116,-71.06535048011575,42.35043952987847
+115,John,Jenkins,John R Jenkins,Retail,CAN530509,"Natural Oasis, LLC",,Inactive,Cannabis,N/A,"345A-359 Washington ST, Brighton MA",02135,-71.15285959978445,42.349258721052166
+116,Brian,Keith,Brian Keith,Retail,CAN530510,"Rooted In, LLC",,Inactive,Cannabis,N/A,"13-15 West ST, Boston MA",02111,-71.06211046344346,42.35472952564512
+117,Gabriel,Vieira,Gabriel Vieira,Retail,CAN530511,Sweet and Sour LLC,Sweet and Sour LLC,Inactive,Cannabis,N/A,"565 Columbus AV, Roxbury MA",02118,-71.08154053785725,42.34109955254125
+118,Colonel,Boothe,Colonel Boothe,Retail,CAN530516,"Haze of South Boston, LLC",,Inactive,Cannabis,N/A,"313 Old Colony AV, South Boston MA",02127,-71.05287049885479,42.32968951532733
+119,Kobie,Evans,Kobie Evans,Retail,CAN530524,Pure Oasis LLC,Pure Oasis,Inactive,Cannabis,N/A,"535 Washington ST, Brighton MA",02135,-71.1632907031817,42.3492796580742
+120,Vanessa,Baptiste,Vanessa Baptiste,Retail,CAN530529,"Legal Greens, LLC.",,Inactive,Cannabis,N/A,"693 Dudley ST, Dorchester MA",02125,-71.06853055915207,42.31832953662969
+121,Eric,James,Mr Eric J James,Retail,CAN530608,"Hyde Park Dispensary, LLC",Hyde Park Dispensary,Inactive,Cannabis,N/A,"1589-1593 Blue Hill AV, Mattapan MA",02126,-71.09405759425388,42.26950487344088
+122,Liam,Bennett,Liam Bennett,Retail,CAN530609,"Bay State Herbal Solutions, LLC",,Inactive,Cannabis,N/A,"464 Hanover ST, Boston MA",02113,-71.05272041435079,42.36708951193317
+123,Kobie,Evans,Kobie Evans,Retail,CAN524588,"Pure Oasis, LLC",Pure Oasis,Active,Cannabis,Y,"430-454 Blue Hill AV, Dorchester MA",02121,-71.08220047865646,42.30967057433212
+124,Guillermo,Erazo,Guillermo Erazo,Co-Located,CAN524596,"Berkshire Roots, Inc.",Berkshire Roots,Active,Cannabis,N,"253 Meridian ST, East Boston MA",02128,-71.03889036360695,42.37607949366412
+125,Kevin,Bradley,Kevin Bradley,Co-Located,CAN524604,"NS AJO Holdings, Inc.",Ethos Cannabis,Active,Cannabis,N,"50 Clapp ST, Dorchester MA",02125,-71.062974535937,42.3232425290485
+126,Kristen,Picard,Kristen Picard,Retail,CAN524615,Core Empowerment LLC,Seed,Active,Cannabis,N,"401A Centre ST, Jamaica Plain MA",02130,-71.11038488775661,42.3216547502979
+127,Daniel,Rodriguez,Daniel Rodriguez,Medical,CAN524619,Liberty Compassion Inc,Affinity,Inactive,Cannabis,N,"591 Albany ST, Roxbury MA",02118,-71.06833051524539,42.33747953550559
+128,Jessica,Washburn,Jessica Washburn,Retail,CAN524628,Ascend Mass LLC,Ascend,Active,Cannabis,N,"268-274 Friend ST, Boston MA",02114,-71.06144749903677,42.36466639612497
+129,Alexis,Tkachuk,Alexis Tkachuk,Retail,CAN544326,"Bewell Organic Medicine, Inc.",Fenway Cannabis,Inactive,Cannabis,N,"120 Brookline AV, Boston MA",02215,-71.09985056920307,42.34558957600777
+130,Cleon,BYRON,Cleon M BYRON,Retail,CAN544656,,Injaga,Inactive,Cannabis,Y,"1102 Blue Hill AV, Dorchester MA",02124,-71.08999793057286,42.28664911778491
+131,,"DB Delivery MA, LLC","DB Delivery MA, LLC",Operator,CAN522190,"DB Delivery MA, LLC",Doobie,Inactive,Cannabis,Y,"1 Mount Vernon ST, Dorchester MA",02125,-71.06033053106549,42.32261952590751
+132,,Injaga Delivery LLC,Injaga Delivery LLC,Manufact,CAN522243,"Injaga Delivery, LLC",ZaZa Zooom,Inactive,Cannabis,Y,"1455 VFW PW, West Roxbury MA",02132,-71.17259090150412,42.26984968800005
+133,,"Surf’s Up Cannabis Venture, LLC","Surf’s Up Cannabis Venture, LLC",Co-Located,CAN522366,Surf's Up Cannabis Venture LLC,Surf's Up Cannabis Co.,Inactive,Cannabis,N,"770 Gallivan BLVD, Dorchester MA",02122,-71.04458057949006,42.28512950646025
+134,Ricardo,Figueroa,Ricardo Figueroa,Co-Located,CAN524648,"HVV Massachusetts, Inc.",Happy Valley,Active,Cannabis,N,"220 William F McClellan HW, East Boston MA",02128,-71.01737028756055,42.38839946604215
+135,,Drudys Ledbetter,Drudys Ledbetter,Retail,CAN524685,"Build A Life Legacy, LLC",Zeb Boutique,Inactive,Cannabis,N,"536 River ST, Mattapan MA",02126,-71.09469407059821,42.26701631167055
+136,David,Rosen,David Rosen,Retail,CAN533548,"Jenny's Retail of Massachusetts, LLC",Jenny's Boston,Inactive,Cannabis,N/A,"300 Northern AV, Boston MA",02210,-71.0358364567386,42.348017130118485
+137,Kizuwanda,Evans,Kizuwanda Evans,Operator,CAN533553,High Thirst Inc,High Thirst,Inactive,Cannabis,N/A,"1595-1609 Blue Hill AV, Mattapan MA",02126,-71.09419733554603,42.269277618143164
+138,Adenike,John,Adenike John,Manufact,CAN533562,The Heritage Club II LLC,The Heritage Club,Inactive,Cannabis,N/A,"76 South ST, Boston MA",02111,-71.05710845973078,42.35129751901617
+139,Sean,McLaughlin,Sean McLaughlin,Courier,CAN533574,Green Rain LLC,Green Rain Delivery,Inactive,Cannabis,N/A,"90 Canal ST, Boston MA",02114,-71.05992243774367,42.36402852188436
+140,Dexter,Miller,Dexter Miller,Retail,CAN533575,"DCC, Inc.","DCC, Inc.",Inactive,Cannabis,N/A,"1953 Dorchester AVE, Dorchester MA",02124,-71.06501062802022,42.28407953520812
+141,Marquis,Cohen,Marquis C Cohen,Retail,CAN533576,Build A Life Legacy,,Inactive,Cannabis,N/A,"532-542 River ST, Mattapan MA",02126,-71.09471097250442,42.26700684341007
+142,Laury,Lucien,Laury C Lucien,Retail,CAN533577,"Legally Great Academy, LLC",EVOLucien Cannabis,Inactive,Cannabis,N/A,"1195 Blue Hill AV, Mattapan MA",02126,-71.09195950719568,42.283694312417765
+143,,Adenike John,Adenike John,Retail,CAN533578,,The Heritage Club II LLC,Inactive,Cannabis,Y,"76-86 South ST, Boston MA",02111,-71.05710055241258,42.351415173828066
+144,Duane,Osborn,Duane E Osborn,Courier,CAN533605,BOSTON ONE NUBIAN-BURY DELIVERY,BOSTON ONE NUBIAN-BURY DELIVERY,Inactive,Cannabis,N/A,"60 Dudley ST, Roxbury MA",02119,-71.08724057575667,42.32956956112741
+145,Jonathan,Capano,Jonathan Capano,Co-Located,CAN533609,,Good Chemistry,Inactive,Cannabis,N/A,"116 Harvard AV, Allston MA",02134,-71.13172983406338,42.35247343561378
+146,Dexter,Miller,Dexter Miller,Retail,CAN533615,West Roxbury Cannabis Group,,Inactive,Cannabis,N/A,"1665 VFW PW, West Roxbury MA",02132,-71.1690762812031,42.264348419540696
+147,Duane,Osborn,Duane E Osborn,Operator,CAN533618,,,Inactive,Cannabis,N/A,"257 Quincy ST, Dorchester MA",02121,-71.0726305825582,42.31197954292398
+148,Charles,Reid,Charles Reid,Retail,CAN533660,"Hyde Park Dispensary, LLC",,Inactive,Cannabis,N/A,"1589-1593 Blue Hill AV, Mattapan MA",02126,-71.09405759425388,42.26950487344088
+149,Charles,Reid,Charles Reid,Retail,CAN533662,Mattapan Dispensary LLC,,Inactive,Cannabis,N/A,"1589-1593 Blue Hill AV, Mattapan MA",02126,-71.09405759425388,42.26950487344088
+150,Scholange,Smith,Scholange M Smith,Co-Located,CAN533664,,,Inactive,Cannabis,N/A,"1945 Columbus AV, Roxbury MA",02119,-71.09854063182223,42.316259578454265
+151,Nam-Stephen,Penelope,Nam-Stephen Penelope,Retail,CAN533665,"Community Growth Partners Delivery, Inc.",,Inactive,Cannabis,N/A,"102-106 South ST, Boston MA",02111,-71.05713004867441,42.35106610648553
+152,Joe'l,Gonzalez,Joe'l Gonzalez,Courier,CAN533667,SEED5 LLC,,Inactive,Cannabis,N/A,"780-780A Blue Hill AV, Dorchester MA",02124,-71.08643064510659,42.29810956320546
+153,Jeanette,Byron-Brewster,Jeanette F Byron-Brewster,Retail,CAN557353,,"Injaga, LLC",Inactive,Cannabis,Y,"1106-1102 Blue Hill AV, Dorchester MA",02124,-71.09023967867154,42.28675156994533
+154,Mitch,Rosenfield,Mitch Rosenfield,Retail,CAN525192,"Fairway Botanicals, LLC",Roslindale Cannabis Co.,Active,Cannabis,N,"882-888 South ST, Roslindale MA",02131,-71.13431838270571,42.28856993371388
+155,Jeff,Similien,Owner Jeff Similien,Retail,CAN533668,"Lowkey, LLC",,Inactive,Cannabis,N/A,"35 Kingston ST, Boston MA",02111,-71.05940046034054,42.353599521921744
+156,Geneise,Israel,Geneise Israel,Retail,CAN533669,"Oasis of Tranquility, Inc.",,Inactive,Cannabis,N/A,"7 Edgewater DR, Mattapan MA",02126,-71.09489082127115,42.26682827327738
+157,Otieno,Akinyi,Otieno Akinyi,Retail,CAN533684,The Kif Room Inc,,Inactive,Cannabis,N/A,"330-338 Belgrade AV, Roslindale MA",02131,-71.145110804774,42.28589964718941
+158,Liam,Bennett,Liam Bennett,Retail,CAN533703,Baystate Herbal Solutions Inc.,,Inactive,Cannabis,N/A,"178-188 Harvard AV, Allston MA",02134,-71.13119062630076,42.35115961607265
+159,Marquis,Cohen,Marquis C Cohen,Retail,CAN533705,Build A Life Legacy LLC,,Inactive,Cannabis,N/A,"1187-1195 Blue Hill AV, Mattapan MA",02126,-71.09192068859308,42.28380957260062
+160,Gabriel,Vieira,Gabriel Vieira,Transport,CAN533710,Zip Run,,Inactive,Cannabis,N/A,"1170 William T Morrissey BLVD, Dorchester MA",02122,-71.04178057080685,42.28595950300891
+161,Omar Jeovanni,Lawrence,Omar Jeovanni Lawrence,Courier,CAN533711,"North East Gro, LLC",,Inactive,Cannabis,N/A,"888 Morton ST, BOSTON MA",02124,,
+162,Damond,Hughes,Damond A Hughes,Retail,CAN533713,One Hundred Percent Pure,,Inactive,Cannabis,N/A,"114 Queensberry ST, Boston MA",02215,-71.10034057911815,42.34174957688904
+163,tito,jackson,,Retail,CAN533716,Verdant Medical Inc.,,Inactive,Cannabis,N/A,"1589-1593 Blue Hill AV, Mattapan MA",02126,-71.09405759425388,42.26950487344088
+164,Flavia,Hungaro,Flavia Hungaro,Retail,CAN533727,"Sugarloaf Boston Cannabis, LLC",,Inactive,Cannabis,N/A,"1174 River ST, Hyde Park MA",02136,-71.12076383879015,42.25587992539245
+165,Chayla,White,Chayla C White,Co-Located,CAN538708,,"Ascend Mass, LLC",Inactive,Cannabis,N,"272 Friend ST, Boston MA",02114,-71.06143044019717,42.3646595239712
+166,,Edson Charles,Edson Charles,Operator,CAN538922,Gas Bus LLC,,Inactive,Cannabis,Y,"5252 Washington ST, West Roxbury MA",02132,-71.15863089400632,42.25952967104017
+167,,Donald Rodriguez,Donald Rodriguez,Operator,CAN530400,,Bean Collective LLC,Inactive,Cannabis,Y,"161 Reservation RD, Hyde Park MA",02136,-71.12954484778956,42.2510846311215
+168,Victor,Chaing,Victor Chaing,Retail,CAN525211,"Cypress Tree Management, Inc.",Redi,Inactive,Cannabis,N,"1112-1116 Boylston ST, Boston MA",02115,-71.08870954056762,42.34679356010894
+169,Dawn,Packnett,Dawn Packnett,Retail,CAN525217,"CastleLeaf,LLC",,Active,Cannabis,N,"100 Leo M Birmingham PW, Brighton MA",02135,-71.14676064498624,42.35864963474628
+170,Peter,D'Agostino,Peter D'Agostino,Retail,CAN525225,617 Therapeutic Health Care Inc.,617 THC,Active,Cannabis,N,"144 Bowdoin ST, Dorchester MA",02121,-71.0710844516637,42.303807350470066
+171,David,Leavitt,David Leavitt,Retail,CAN525237,"Union Twist, Inc.",,Active,Cannabis,N,"257-259 Cambridge ST, Allston MA",02134,-71.1280406057761,42.35760961059179
+172,Tito,Jackson,Tito Jackson,Retail,CAN525623,"Verdant Reparative, Inc",Apex Noire,Active,Cannabis,Y,"150 State ST, Boston MA",02109,-71.05407115178643,42.359405524101085
+173,,Edson Charles,Edson Charles,Operator,CAN546491,,Gas Bus Boston,Inactive,Cannabis,Y,"5252 Washington ST, West Roxbury MA",02132,-71.15863089400632,42.25952967104017
+174,,Bloomius,Bloomius,Retail,CAN532422,Bloomius,Bloomius,Inactive,Cannabis,N/A,"116R Cambridge ST, Charlestown MA",02129,-71.07947205576275,42.381832358248396
+175,Ben,Virga,Ben Virga,Retail,CAN532425,"Frozen 4, LLC",,Inactive,Cannabis,N/A,"8-12 Hancock ST, Dorchester MA",02125,-71.06591055902253,42.31545953414687
+176,,MSSi Brighton NV LLC,MSSi Brighton NV LLC,Retail,CAN532428,"MSSi Brighton NV, LLC",,Inactive,Cannabis,N/A,"1690 Commonwealth AV, Brighton MA",02135,-71.14640967656264,42.34125413342156
+177,Jeff,Drago,,Retail,CAN532430,Happy Valley,Happy Valley,Inactive,Cannabis,N/A,"60 E Springfield ST, Roxbury MA",02118,-71.07444912457312,42.33565826158245
+178,Sean,O'Donovan,Sean O'Donovan,Retail,CAN532432,SANCTUARY,,Inactive,Cannabis,N/A,"595-603 Newbury ST, Boston MA",02215,-71.09663055621172,42.34816757152178
+179,Jeff,Drago,,Retail,CAN532435,,,Inactive,Cannabis,N/A,"49 Causeway ST, Boston MA",02114,-71.0630138780823,42.364138912578035
+180,geoffrey,relinger,geoffrey relinger,Retail,CAN532470,Redemption Co.,Redemption Quincy Market,Inactive,Cannabis,N/A,"1 Faneuil Hall SQ, Boston MA",02109,-71.05622913840254,42.36003781040749
+181,Jody,Mendoza,Jody Mendoza,Retail,CAN532475,"Team Green, LLC",mojos,Inactive,Cannabis,N/A,"1292 Blue Hill AV, Mattapan MA",02126,-71.0926807001642,42.279439574358506
+182,Michael,Ross,Michael Ross,Medical,CAN532479,Compassionate Organics,,Inactive,Cannabis,N/A,"331 Newbury ST, Boston MA",02115,-71.0864305313177,42.348749557835845
+183,Marquis,Cohen,Marquis C Cohen,Courier,CAN532482,Build A Life Legacy,Flower Express,Inactive,Cannabis,N/A,"31 Standard ST, Mattapan MA",02126,-71.07856068319323,42.27300955473487
+184,Gabriel,Vieira,Gabriel Vieira,Operator,CAN532484,"Zip Run, LLC",Zip Run,Inactive,Cannabis,N/A,"160 Orlando ST, Mattapan MA",02126,-71.1007107340156,42.27263958626523
+185,John,Kelly,Mr. John F Kelly,Retail,CAN562866,,Charlestown Cannabis,Inactive,Cannabis,Y,"31 Cambridge ST, Charlestown MA",02129,-71.07462242634855,42.3840165387517
+186,James,Winokur,James Winokur,Co-Located,CAN526349,"Berkshire Roots, Inc.",Berkshire Roots Inc,Inactive,Cannabis,N,"251-253 Meridian ST, East Boston MA",02128,-71.03889036360695,42.37607949366412
+187,Ajani,Shalik,Ajani Shalik,Operator,CAN533780,A & J Enterprises LLC,,Inactive,Cannabis,N/A,"315 A ST, Boston MA",02210,-71.04843512869319,42.34867599164446
+188,Andrea,Pearce,Andrea Pearce,Retail,CAN533782,,,Inactive,Cannabis,N/A,"31-37 Stuart ST, Boston MA",02116,-71.0637941237515,42.351269704862936
+189,Dexter,Miller,Dexter Miller,Retail,CAN533784,"DCC, Inc.",,Inactive,Cannabis,N/A,"1953 Dorchester AVE, Dorchester MA",02124,-71.06501062802022,42.28407953520812
+190,Omar,Lawrence,Omar Lawrence,Manufact,CAN533834,"North East Gro, LLC",,Inactive,Cannabis,N/A,"80 Christopher ST, Dorchester MA",02122,-71.0566805755296,42.29922952206318
+191,Aquila,Kentish,Aquila Kentish,Manufact,CAN533836,Tasti Plates,,Inactive,Cannabis,N/A,"3888 Washington ST, Roslindale MA",02131,-71.11816072207873,42.295529607323395
+192,Dexter,Miller,Dexter Miller,Retail,CAN533837,the Hempest LLC,,Inactive,Cannabis,N/A,"538 Blue Hill AVE, Dorchester MA",02121,-71.08422062330744,42.30542955993365
+193,JOHN,GIOIOSA,JOHN GIOIOSA,Courier,CAN533840,"Gi's Complex, LLC",,Inactive,Cannabis,N/A,"9 Livingstone ST, Dorchester MA",02124,-71.09039068244567,42.285109570372185
+194,tito,jackson,,Operator,CAN533842,"Verdant Reparative, Inc.",,Inactive,Cannabis,N/A,"139 Freeport ST, Dorchester MA",02122,-71.05649756272251,42.304589522013735
+195,Geneise,Israel,Geneise Israel,Manufact,CAN533846,Oasis of Tranquility,,Inactive,Cannabis,N/A,"7 Edgewater DR, Mattapan MA",02126,-71.09489082127115,42.26682827327738
+196,Desiree,Franjul,Desiree Franjul,Retail,CAN533847,Herbal Power LLC,,Inactive,Cannabis,N/A,"321 Adams ST, Dorchester MA",02122,-71.05754924601827,42.29831790523458
+197,Rebecca,Rutenberg,Rebecca Rutenberg,Courier,CAN533885,,"The Heritage Club, LLC",Inactive,Cannabis,Y,"116R Cambridge ST, Charlestown MA",02129,-71.07947205576275,42.381832358248396
+198,Alexis,Tkachuk,Alexis Tkachuk,Retail,CAN528494,"Jenny’s Retail of Massachusetts, LLC",Jenny's Seaport,Inactive,Cannabis,Y,"300 Northern AV, Boston MA",02210,-71.0358364567386,42.348017130118485
+199,Ruben,Marques,Ruben Marques,Retail,CAN573180,,"South End Cannabis, LLC",Inactive,Cannabis,N,"605 Massachusetts AV, Roxbury MA",02118,-71.07809053856745,42.337069548027216
+200,Jean-Luc,De Barros,Jean-Luc De Barros,Operator,CAN544822,,MJ2HOME LLC,Inactive,Cannabis,Y,"42 Newmarket SQ, Roxbury MA",02118,-71.06554052882136,42.328649531757115
+201,ROOTED,IN LLC,ROOTED IN LLC,Courier,CAN532329,"Rooted In, LLC",,Inactive,Cannabis,N,"331 Newbury ST, Boston MA",02115,-71.0864305313177,42.348749557835845
+202,David,Rabinovitz,David Rabinovitz,Retail,CAN539397,,,Deleted,Cannabis,N/A,"51 Hiawatha RD, Mattapan MA",02126,-71.09572071291322,42.27727957941699
+203,Jeffrey,Drago,Jeffrey Drago,Co-Located,CAN522513,,Happy Valley,Inactive,Cannabis,N,"1955 Beacon ST, Brighton MA",02135,-71.14995335139338,42.33576733427261
+204,Dexter,Miller,Dexter Miller,Medical,CAN552840,,Dorchester Cannabis Company,Inactive,Cannabis,Y,"1953 Dorchester AVE, Dorchester MA",02124,-71.06501062802022,42.28407953520812
+205,,"Zip Run, inc.","Zip Run, inc.",Retail,CAN523307,"Zip Run, Inc.",Zyp Run,Expired,Cannabis,Y,"1170 William T Morrissey BLVD, Dorchester MA",02122,-71.04178057080685,42.28595950300891
+206,,Mario Signore,Mario Signore,Retail,CAN563337,,"Green Line Boston, Inc.",Inactive,Cannabis,N,"100-114 Hampden ST, Roxbury MA",02119,-71.07480201444332,42.32937174155831
