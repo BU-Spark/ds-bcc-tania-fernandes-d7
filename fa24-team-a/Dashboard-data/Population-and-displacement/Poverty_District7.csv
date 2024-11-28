@@ -1,0 +1,627 @@
+year,label,total_estimate,below_poverty_estimate,percent_below_poverty_estimate
+2013,Population for whom poverty status is determined,102542.0,33092.0,32.3
+2013,AGE,0.0,0.0,0.0
+2013,Under 18 years,20620.0,8942.0,43.4
+2013,Related children under 18 years,20497.0,8822.0,43.0
+2013,18 to 64 years,72249.0,21461.0,29.7
+2013,65 years and over,9673.0,2689.0,27.8
+2013,SEX,0.0,0.0,0.0
+2013,Male,49618.0,14813.0,29.9
+2013,Female,52924.0,18279.0,34.5
+2013,RACE AND HISPANIC OR LATINO ORIGIN,0.0,0.0,0.0
+2013,One race,99481.0,32250.0,32.4
+2013,White,32355.0,9298.0,28.7
+2013,Black or African American,44613.0,13608.0,30.5
+2013,American Indian and Alaska Native,462.0,324.0,70.1
+2013,Asian,7340.0,3012.0,41.0
+2013,Native Hawaiian and Other Pacific Islander,35.0,0.0,0.0
+2013,Some other race,14676.0,6008.0,40.9
+2013,Two or more races,3061.0,842.0,27.5
+2013,Hispanic or Latino origin (of any race),23533.0,10291.0,43.7
+2013,"White alone, not Hispanic or Latino",26075.0,6840.0,26.2
+2013,EDUCATIONAL ATTAINMENT,0.0,0.0,0.0
+2013,Population 25 years and over,63944.0,15424.0,24.1
+2013,Less than high school graduate,11435.0,4641.0,40.6
+2013,High school graduate (includes equivalency),15520.0,4549.0,29.3
+2013,"Some college, associate's degree",13626.0,3363.0,24.7
+2013,Bachelor's degree or higher,23363.0,2871.0,12.3
+2013,EMPLOYMENT STATUS,0.0,0.0,0.0
+2013,Civilian labor force 16 years and over,55432.0,10843.0,19.6
+2013,Employed,47139.0,7044.0,14.9
+2013,Male,24013.0,3500.0,14.6
+2013,Female,23126.0,3544.0,15.3
+2013,Unemployed,8293.0,3799.0,45.8
+2013,WORK EXPERIENCE,0.0,0.0,0.0
+2013,Population 16 years and over,84554.0,25035.0,29.6
+2013,"Worked full-time, year-round in the past 12 months",29732.0,871.0,2.9
+2013,Worked part-time or part-year in the past 12 months,25275.0,9305.0,36.8
+2013,Did not work,29547.0,14859.0,50.3
+2013,All Individuals below:,0.0,0.0,0.0
+2013,50 percent of poverty level,17623.0,0.0,0.0
+2013,125 percent of poverty level,40108.0,0.0,0.0
+2013,150 percent of poverty level,45336.0,0.0,0.0
+2013,185 percent of poverty level,51817.0,0.0,0.0
+2013,200 percent of poverty level,53968.0,0.0,0.0
+2013,Unrelated individuals for whom poverty status is determined,37433.0,15318.0,40.9
+2013,Mean income deficit for unrelated individuals (dollars),214437.0,0.0,0.0
+2013,"Worked full-time, year-round in the past 12 months",13567.0,519.0,3.8
+2013,"Worked less than full-time, year-round in the past 12 months",11824.0,6101.0,51.6
+2013,Did not work,12042.0,8698.0,72.2
+2013,PERCENT IMPUTED,0.0,0.0,0.0
+2013,Poverty status for individuals,0.0,0.0,0.0
+2014,Population for whom poverty status is determined,105316.0,34768.0,33.0
+2014,AGE,0.0,0.0,0.0
+2014,Under 18 years,21015.0,9239.0,44.0
+2014,Related children under 18 years,20946.0,9190.0,43.9
+2014,18 to 64 years,74314.0,22528.0,30.3
+2014,65 years and over,9987.0,3001.0,30.0
+2014,SEX,0.0,0.0,0.0
+2014,Male,50646.0,15478.0,30.6
+2014,Female,54670.0,19290.0,35.3
+2014,RACE AND HISPANIC OR LATINO ORIGIN,0.0,0.0,0.0
+2014,One race,102194.0,33826.0,33.1
+2014,White,33663.0,9723.0,28.9
+2014,Black or African American,45662.0,14175.0,31.0
+2014,American Indian and Alaska Native,609.0,384.0,63.1
+2014,Asian,6689.0,2899.0,43.3
+2014,Native Hawaiian and Other Pacific Islander,23.0,0.0,0.0
+2014,Some other race,15548.0,6645.0,42.7
+2014,Two or more races,3122.0,942.0,30.2
+2014,Hispanic or Latino origin (of any race),24860.0,11032.0,44.4
+2014,"White alone, not Hispanic or Latino",27181.0,7090.0,26.1
+2014,EDUCATIONAL ATTAINMENT,0.0,0.0,0.0
+2014,Population 25 years and over,66405.0,16627.0,25.0
+2014,Less than high school graduate,11526.0,4869.0,42.2
+2014,High school graduate (includes equivalency),16489.0,5131.0,31.1
+2014,"Some college, associate's degree",13831.0,3332.0,24.1
+2014,Bachelor's degree or higher,24559.0,3295.0,13.4
+2014,EMPLOYMENT STATUS,0.0,0.0,0.0
+2014,Civilian labor force 16 years and over,56332.0,11113.0,19.7
+2014,Employed,48227.0,7259.0,15.1
+2014,Male,23882.0,3183.0,13.3
+2014,Female,24345.0,4076.0,16.7
+2014,Unemployed,8105.0,3854.0,47.6
+2014,WORK EXPERIENCE,0.0,0.0,0.0
+2014,Population 16 years and over,86900.0,26376.0,30.4
+2014,"Worked full-time, year-round in the past 12 months",30338.0,1063.0,3.5
+2014,Worked part-time or part-year in the past 12 months,25661.0,9424.0,36.7
+2014,Did not work,30901.0,15889.0,51.4
+2014,All Individuals below:,0.0,0.0,0.0
+2014,50 percent of poverty level,19573.0,0.0,0.0
+2014,125 percent of poverty level,41646.0,0.0,0.0
+2014,150 percent of poverty level,47024.0,0.0,0.0
+2014,185 percent of poverty level,53639.0,0.0,0.0
+2014,200 percent of poverty level,56227.0,0.0,0.0
+2014,Unrelated individuals for whom poverty status is determined,37191.0,15391.0,41.4
+2014,Mean income deficit for unrelated individuals (dollars),234231.0,0.0,0.0
+2014,"Worked full-time, year-round in the past 12 months",13508.0,602.0,4.5
+2014,"Worked less than full-time, year-round in the past 12 months",11262.0,5842.0,51.9
+2014,Did not work,12421.0,8947.0,72.0
+2014,PERCENT IMPUTED,0.0,0.0,0.0
+2014,Poverty status for individuals,0.0,0.0,0.0
+2015,Population for whom poverty status is determined,106906.0,33984.0,31.8
+2015,AGE,0.0,0.0,0.0
+2015,Under 18 years,21371.0,9297.0,43.5
+2015,Under 5 years,6897.0,3090.0,44.8
+2015,5 to 17 years,14474.0,6207.0,42.9
+2015,Related children of householder under 18 years,21286.0,9232.0,43.4
+2015,18 to 64 years,75064.0,21442.0,28.6
+2015,18 to 34 years,38266.0,13054.0,34.1
+2015,35 to 64 years,36798.0,8388.0,22.8
+2015,60 years and over,15998.0,4481.0,28.0
+2015,65 years and over,10471.0,3245.0,31.0
+2015,SEX,0.0,0.0,0.0
+2015,Male,51411.0,15137.0,29.4
+2015,Female,55495.0,18847.0,34.0
+2015,RACE AND HISPANIC OR LATINO ORIGIN,0.0,0.0,0.0
+2015,White alone,34186.0,9407.0,27.5
+2015,Black or African American alone,46999.0,13771.0,29.3
+2015,American Indian and Alaska Native alone,565.0,381.0,67.4
+2015,Asian alone,6702.0,3130.0,46.7
+2015,Native Hawaiian and Other Pacific Islander alone,41.0,14.0,34.1
+2015,Some other race alone,14879.0,6103.0,41.0
+2015,Two or more races,3534.0,1178.0,33.3
+2015,Hispanic or Latino origin (of any race),26035.0,11032.0,42.4
+2015,"White alone, not Hispanic or Latino",26689.0,6349.0,23.8
+2015,EDUCATIONAL ATTAINMENT,0.0,0.0,0.0
+2015,Population 25 years and over,68965.0,16910.0,24.5
+2015,Less than high school graduate,12449.0,4953.0,39.8
+2015,High school graduate (includes equivalency),16380.0,4996.0,30.5
+2015,"Some college, associate's degree",14502.0,3432.0,23.7
+2015,Bachelor's degree or higher,25634.0,3529.0,13.8
+2015,EMPLOYMENT STATUS,0.0,0.0,0.0
+2015,Civilian labor force 16 years and over,56887.0,10025.0,17.6
+2015,Employed,49954.0,6909.0,13.8
+2015,Male,24546.0,2955.0,12.0
+2015,Female,25408.0,3954.0,15.6
+2015,Unemployed,6933.0,3116.0,44.9
+2015,WORK EXPERIENCE,0.0,0.0,0.0
+2015,Population 16 years and over,87856.0,25458.0,29.0
+2015,"Worked full-time, year-round in the past 12 months",31907.0,1040.0,3.3
+2015,Worked part-time or part-year in the past 12 months,25649.0,8864.0,34.6
+2015,Did not work,30300.0,15554.0,51.3
+2015,ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS,0.0,0.0,0.0
+2015,50 percent of poverty level,19490.0,0.0,0.0
+2015,125 percent of poverty level,41137.0,0.0,0.0
+2015,150 percent of poverty level,47102.0,0.0,0.0
+2015,185 percent of poverty level,54110.0,0.0,0.0
+2015,200 percent of poverty level,56721.0,0.0,0.0
+2015,300 percent of poverty level,70531.0,0.0,0.0
+2015,400 percent of poverty level,81515.0,0.0,0.0
+2015,500 percent of poverty level,87858.0,0.0,0.0
+2015,UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,37596.0,15086.0,40.1
+2015,15 years,20.0,20.0,100.0
+2015,16 to 17 years,61.0,45.0,73.8
+2015,18 to 24 years,8585.0,5461.0,63.6
+2015,25 to 34 years,10119.0,2849.0,28.2
+2015,35 to 44 years,4329.0,1017.0,23.5
+2015,45 to 54 years,4140.0,1412.0,34.1
+2015,55 to 64 years,5043.0,1858.0,36.8
+2015,65 to 74 years,3030.0,1340.0,44.2
+2015,75 years and over,2269.0,1084.0,47.8
+2015,Mean income deficit for unrelated individuals (dollars),235335.0,0.0,0.0
+2015,"Worked full-time, year-round in the past 12 months",13858.0,531.0,3.8
+2015,"Worked less than full-time, year-round in the past 12 months",11097.0,5442.0,49.0
+2015,Did not work,12641.0,9113.0,72.1
+2016,Population for whom poverty status is determined,107501.0,33626.0,31.3
+2016,AGE,0.0,0.0,0.0
+2016,Under 18 years,21276.0,8755.0,41.1
+2016,Under 5 years,6577.0,2898.0,44.1
+2016,5 to 17 years,14699.0,5857.0,39.8
+2016,Related children of householder under 18 years,21156.0,8670.0,41.0
+2016,18 to 64 years,75281.0,21380.0,28.4
+2016,18 to 34 years,37799.0,12588.0,33.3
+2016,35 to 64 years,37482.0,8792.0,23.5
+2016,60 years and over,16769.0,4884.0,29.1
+2016,65 years and over,10944.0,3491.0,31.9
+2016,SEX,0.0,0.0,0.0
+2016,Male,52010.0,15330.0,29.5
+2016,Female,55491.0,18296.0,33.0
+2016,RACE AND HISPANIC OR LATINO ORIGIN,0.0,0.0,0.0
+2016,White alone,33882.0,8441.0,24.9
+2016,Black or African American alone,47690.0,14903.0,31.2
+2016,American Indian and Alaska Native alone,413.0,226.0,54.7
+2016,Asian alone,6944.0,3005.0,43.3
+2016,Native Hawaiian and Other Pacific Islander alone,13.0,13.0,100.0
+2016,Some other race alone,14434.0,5782.0,40.1
+2016,Two or more races,4125.0,1256.0,30.4
+2016,Hispanic or Latino origin (of any race),27043.0,10868.0,40.2
+2016,"White alone, not Hispanic or Latino",26958.0,5994.0,22.2
+2016,EDUCATIONAL ATTAINMENT,0.0,0.0,0.0
+2016,Population 25 years and over,70046.0,17228.0,24.6
+2016,Less than high school graduate,12482.0,5090.0,40.8
+2016,High school graduate (includes equivalency),16674.0,5211.0,31.3
+2016,"Some college, associate's degree",14576.0,3233.0,22.2
+2016,Bachelor's degree or higher,26314.0,3694.0,14.0
+2016,EMPLOYMENT STATUS,0.0,0.0,0.0
+2016,Civilian labor force 16 years and over,57943.0,10072.0,17.4
+2016,Employed,51127.0,6832.0,13.4
+2016,Male,24827.0,2709.0,10.9
+2016,Female,26300.0,4123.0,15.7
+2016,Unemployed,6816.0,3240.0,47.5
+2016,WORK EXPERIENCE,0.0,0.0,0.0
+2016,Population 16 years and over,88617.0,25727.0,29.0
+2016,"Worked full-time, year-round in the past 12 months",32793.0,1017.0,3.1
+2016,Worked part-time or part-year in the past 12 months,25886.0,8848.0,34.2
+2016,Did not work,29938.0,15862.0,53.0
+2016,ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS,0.0,0.0,0.0
+2016,50 percent of poverty level,18637.0,0.0,0.0
+2016,125 percent of poverty level,40317.0,0.0,0.0
+2016,150 percent of poverty level,46421.0,0.0,0.0
+2016,185 percent of poverty level,53502.0,0.0,0.0
+2016,200 percent of poverty level,56045.0,0.0,0.0
+2016,300 percent of poverty level,70555.0,0.0,0.0
+2016,400 percent of poverty level,80882.0,0.0,0.0
+2016,500 percent of poverty level,87431.0,0.0,0.0
+2016,UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,37765.0,14926.0,39.5
+2016,15 years,13.0,13.0,100.0
+2016,16 to 17 years,89.0,72.0,80.9
+2016,18 to 24 years,8113.0,5153.0,63.5
+2016,25 to 34 years,10389.0,2776.0,26.7
+2016,35 to 44 years,4212.0,993.0,23.6
+2016,45 to 54 years,4305.0,1584.0,36.8
+2016,55 to 64 years,5206.0,1921.0,36.9
+2016,65 to 74 years,3404.0,1385.0,40.7
+2016,75 years and over,2034.0,1029.0,50.6
+2016,Mean income deficit for unrelated individuals (dollars),237001.0,0.0,0.0
+2016,"Worked full-time, year-round in the past 12 months",14252.0,548.0,3.8
+2016,"Worked less than full-time, year-round in the past 12 months",10900.0,5182.0,47.5
+2016,Did not work,12613.0,9196.0,72.9
+2017,Population for whom poverty status is determined,109187.0,33187.0,30.4
+2017,AGE,0.0,0.0,0.0
+2017,Under 18 years,21365.0,8873.0,41.5
+2017,Under 5 years,6511.0,2934.0,45.1
+2017,5 to 17 years,14854.0,5939.0,40.0
+2017,Related children of householder under 18 years,21218.0,8771.0,41.3
+2017,18 to 64 years,76441.0,20604.0,27.0
+2017,18 to 34 years,37674.0,11835.0,31.4
+2017,35 to 64 years,38767.0,8769.0,22.6
+2017,60 years and over,17033.0,5091.0,29.9
+2017,65 years and over,11381.0,3710.0,32.6
+2017,SEX,0.0,0.0,0.0
+2017,Male,52837.0,14962.0,28.3
+2017,Female,56350.0,18225.0,32.3
+2017,RACE AND HISPANIC OR LATINO ORIGIN,0.0,0.0,0.0
+2017,White alone,33693.0,7981.0,23.7
+2017,Black or African American alone,47964.0,14515.0,30.3
+2017,American Indian and Alaska Native alone,775.0,268.0,34.6
+2017,Asian alone,7263.0,3292.0,45.3
+2017,Native Hawaiian and Other Pacific Islander alone,25.0,18.0,72.0
+2017,Some other race alone,14603.0,5480.0,37.5
+2017,Two or more races,4864.0,1633.0,33.6
+2017,Hispanic or Latino origin (of any race),27969.0,10374.0,37.1
+2017,"White alone, not Hispanic or Latino",26831.0,5753.0,21.4
+2017,EDUCATIONAL ATTAINMENT,0.0,0.0,0.0
+2017,Population 25 years and over,72059.0,17273.0,24.0
+2017,Less than high school graduate,12896.0,5228.0,40.5
+2017,High school graduate (includes equivalency),16847.0,5065.0,30.1
+2017,"Some college, associate's degree",14759.0,3144.0,21.3
+2017,Bachelor's degree or higher,27557.0,3836.0,13.9
+2017,EMPLOYMENT STATUS,0.0,0.0,0.0
+2017,Civilian labor force 16 years and over,59319.0,9795.0,16.5
+2017,Employed,53173.0,7186.0,13.5
+2017,Male,25892.0,2842.0,11.0
+2017,Female,27281.0,4344.0,15.9
+2017,Unemployed,6146.0,2609.0,42.5
+2017,WORK EXPERIENCE,0.0,0.0,0.0
+2017,Population 16 years and over,89965.0,25156.0,28.0
+2017,"Worked full-time, year-round in the past 12 months",34589.0,1182.0,3.4
+2017,Worked part-time or part-year in the past 12 months,25937.0,8919.0,34.4
+2017,Did not work,29439.0,15055.0,51.1
+2017,ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS,0.0,0.0,0.0
+2017,50 percent of poverty level,17782.0,0.0,0.0
+2017,125 percent of poverty level,40004.0,0.0,0.0
+2017,150 percent of poverty level,46171.0,0.0,0.0
+2017,185 percent of poverty level,53298.0,0.0,0.0
+2017,200 percent of poverty level,55762.0,0.0,0.0
+2017,300 percent of poverty level,70617.0,0.0,0.0
+2017,400 percent of poverty level,80010.0,0.0,0.0
+2017,500 percent of poverty level,86822.0,0.0,0.0
+2017,UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,38418.0,15043.0,39.2
+2017,Male,20420.0,7238.0,35.4
+2017,Female,17998.0,7805.0,43.4
+2017,15 years,13.0,13.0,100.0
+2017,16 to 17 years,119.0,89.0,74.8
+2017,18 to 24 years,7994.0,4987.0,62.4
+2017,25 to 34 years,10401.0,2763.0,26.6
+2017,35 to 44 years,4305.0,983.0,22.8
+2017,45 to 54 years,4381.0,1538.0,35.1
+2017,55 to 64 years,5467.0,2040.0,37.3
+2017,65 to 74 years,3520.0,1451.0,41.2
+2017,75 years and over,2218.0,1179.0,53.2
+2017,Mean income deficit for unrelated individuals (dollars),232834.0,0.0,0.0
+2017,"Worked full-time, year-round in the past 12 months",14876.0,512.0,3.4
+2017,"Worked less than full-time, year-round in the past 12 months",10874.0,5342.0,49.1
+2017,Did not work,12668.0,9189.0,72.5
+2018,Population for whom poverty status is determined,111991.0,34628.0,30.9
+2018,AGE,0.0,0.0,0.0
+2018,Under 18 years,22233.0,9651.0,43.4
+2018,Under 5 years,6274.0,2769.0,44.1
+2018,5 to 17 years,15959.0,6882.0,43.1
+2018,Related children of householder under 18 years,22059.0,9516.0,43.1
+2018,18 to 64 years,77622.0,21095.0,27.2
+2018,18 to 34 years,39395.0,12301.0,31.2
+2018,35 to 64 years,38227.0,8794.0,23.0
+2018,60 years and over,17691.0,5328.0,30.1
+2018,65 years and over,12136.0,3882.0,32.0
+2018,SEX,0.0,0.0,0.0
+2018,Male,53717.0,15543.0,28.9
+2018,Female,58274.0,19085.0,32.8
+2018,RACE AND HISPANIC OR LATINO ORIGIN,0.0,0.0,0.0
+2018,White alone,35462.0,8388.0,23.7
+2018,Black or African American alone,48722.0,14682.0,30.1
+2018,American Indian and Alaska Native alone,754.0,209.0,27.7
+2018,Asian alone,7099.0,3405.0,48.0
+2018,Native Hawaiian and Other Pacific Islander alone,25.0,18.0,72.0
+2018,Some other race alone,14743.0,6115.0,41.5
+2018,Two or more races,5186.0,1811.0,34.9
+2018,Hispanic or Latino origin (of any race),29739.0,12018.0,40.4
+2018,"White alone, not Hispanic or Latino",27442.0,5683.0,20.7
+2018,EDUCATIONAL ATTAINMENT,0.0,0.0,0.0
+2018,Population 25 years and over,73416.0,17551.0,23.9
+2018,Less than high school graduate,12564.0,5270.0,41.9
+2018,High school graduate (includes equivalency),16837.0,5032.0,29.9
+2018,"Some college, associate's degree",15817.0,3492.0,22.1
+2018,Bachelor's degree or higher,28198.0,3757.0,13.3
+2018,EMPLOYMENT STATUS,0.0,0.0,0.0
+2018,Civilian labor force 16 years and over,59857.0,9933.0,16.6
+2018,Employed,53887.0,7246.0,13.4
+2018,Male,25782.0,2859.0,11.1
+2018,Female,28105.0,4387.0,15.6
+2018,Unemployed,5970.0,2687.0,45.0
+2018,WORK EXPERIENCE,0.0,0.0,0.0
+2018,Population 16 years and over,91991.0,25897.0,28.2
+2018,"Worked full-time, year-round in the past 12 months",35009.0,1382.0,3.9
+2018,Worked part-time or part-year in the past 12 months,26522.0,8787.0,33.1
+2018,Did not work,30460.0,15728.0,51.6
+2018,ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS,0.0,0.0,0.0
+2018,50 percent of poverty level,18082.0,0.0,0.0
+2018,125 percent of poverty level,40521.0,0.0,0.0
+2018,150 percent of poverty level,46217.0,0.0,0.0
+2018,185 percent of poverty level,53948.0,0.0,0.0
+2018,200 percent of poverty level,56673.0,0.0,0.0
+2018,300 percent of poverty level,71268.0,0.0,0.0
+2018,400 percent of poverty level,81330.0,0.0,0.0
+2018,500 percent of poverty level,88373.0,0.0,0.0
+2018,UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,39446.0,15333.0,38.9
+2018,Male,20698.0,7470.0,36.1
+2018,Female,18748.0,7863.0,41.9
+2018,15 years,37.0,37.0,100.0
+2018,16 to 17 years,122.0,98.0,80.3
+2018,18 to 24 years,8354.0,5287.0,63.3
+2018,25 to 34 years,10842.0,2594.0,23.9
+2018,35 to 44 years,3939.0,778.0,19.8
+2018,45 to 54 years,4436.0,1517.0,34.2
+2018,55 to 64 years,5420.0,2141.0,39.5
+2018,65 to 74 years,3844.0,1553.0,40.4
+2018,75 years and over,2452.0,1328.0,54.2
+2018,Mean income deficit for unrelated individuals (dollars),250936.0,0.0,0.0
+2018,"Worked full-time, year-round in the past 12 months",14824.0,428.0,2.9
+2018,"Worked less than full-time, year-round in the past 12 months",11269.0,5307.0,47.1
+2018,Did not work,13353.0,9598.0,71.9
+2019,Population for whom poverty status is determined,111156.0,31852.0,28.7
+2019,AGE,0.0,0.0,0.0
+2019,Under 18 years,21453.0,8721.0,40.7
+2019,Under 5 years,6412.0,2223.0,34.7
+2019,5 to 17 years,15041.0,6498.0,43.2
+2019,Related children of householder under 18 years,21291.0,8577.0,40.3
+2019,18 to 64 years,77104.0,19330.0,25.1
+2019,18 to 34 years,39225.0,11134.0,28.4
+2019,35 to 64 years,37879.0,8196.0,21.6
+2019,60 years and over,18160.0,5130.0,28.2
+2019,65 years and over,12599.0,3801.0,30.2
+2019,SEX,0.0,0.0,0.0
+2019,Male,52889.0,14197.0,26.8
+2019,Female,58267.0,17655.0,30.3
+2019,RACE AND HISPANIC OR LATINO ORIGIN,0.0,0.0,0.0
+2019,White alone,34619.0,7849.0,22.7
+2019,Black or African American alone,48565.0,13676.0,28.2
+2019,American Indian and Alaska Native alone,659.0,216.0,32.8
+2019,Asian alone,7462.0,3493.0,46.8
+2019,Native Hawaiian and Other Pacific Islander alone,211.0,13.0,6.2
+2019,Some other race alone,14191.0,4568.0,32.2
+2019,Two or more races,5449.0,2037.0,37.4
+2019,Hispanic or Latino origin (of any race),29364.0,10688.0,36.4
+2019,"White alone, not Hispanic or Latino",26423.0,5087.0,19.3
+2019,EDUCATIONAL ATTAINMENT,0.0,0.0,0.0
+2019,Population 25 years and over,73594.0,16289.0,22.1
+2019,Less than high school graduate,12315.0,5071.0,41.2
+2019,High school graduate (includes equivalency),17257.0,4622.0,26.8
+2019,"Some college, associate's degree",15756.0,3214.0,20.4
+2019,Bachelor's degree or higher,28266.0,3382.0,12.0
+2019,EMPLOYMENT STATUS,0.0,0.0,0.0
+2019,Civilian labor force 16 years and over,60226.0,9182.0,15.2
+2019,Employed,54964.0,6727.0,12.2
+2019,Male,26667.0,2610.0,9.8
+2019,Female,28297.0,4117.0,14.5
+2019,Unemployed,5262.0,2455.0,46.7
+2019,WORK EXPERIENCE,0.0,0.0,0.0
+2019,Population 16 years and over,91548.0,23983.0,26.2
+2019,"Worked full-time, year-round in the past 12 months",36388.0,1216.0,3.3
+2019,Worked part-time or part-year in the past 12 months,25808.0,8040.0,31.2
+2019,Did not work,29352.0,14727.0,50.2
+2019,ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS,0.0,0.0,0.0
+2019,50 percent of poverty level,15888.0,0.0,0.0
+2019,125 percent of poverty level,37666.0,0.0,0.0
+2019,150 percent of poverty level,43159.0,0.0,0.0
+2019,185 percent of poverty level,51028.0,0.0,0.0
+2019,200 percent of poverty level,53397.0,0.0,0.0
+2019,300 percent of poverty level,68602.0,0.0,0.0
+2019,400 percent of poverty level,79467.0,0.0,0.0
+2019,500 percent of poverty level,86370.0,0.0,0.0
+2019,UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,39886.0,14686.0,36.8
+2019,Male,20832.0,7176.0,34.4
+2019,Female,19054.0,7510.0,39.4
+2019,15 years,33.0,33.0,100.0
+2019,16 to 17 years,110.0,110.0,100.0
+2019,18 to 24 years,8289.0,4979.0,60.1
+2019,25 to 34 years,11206.0,2498.0,22.3
+2019,35 to 44 years,4028.0,739.0,18.3
+2019,45 to 54 years,4566.0,1505.0,33.0
+2019,55 to 64 years,5363.0,2082.0,38.8
+2019,65 to 74 years,3678.0,1476.0,40.1
+2019,75 years and over,2613.0,1264.0,48.4
+2019,Mean income deficit for unrelated individuals (dollars),240235.0,0.0,0.0
+2019,"Worked full-time, year-round in the past 12 months",15760.0,392.0,2.5
+2019,"Worked less than full-time, year-round in the past 12 months",11097.0,4955.0,44.7
+2019,Did not work,13029.0,9339.0,71.7
+2020,Population for whom poverty status is determined,131915.0,36232.0,27.5
+2020,AGE,0.0,0.0,0.0
+2020,Under 18 years,23364.0,8805.0,37.7
+2020,Under 5 years,6450.0,1951.0,30.2
+2020,5 to 17 years,16914.0,6854.0,40.5
+2020,Related children of householder under 18 years,23200.0,8663.0,37.3
+2020,18 to 64 years,92872.0,22509.0,24.2
+2020,18 to 34 years,47211.0,12606.0,26.7
+2020,35 to 64 years,45661.0,9903.0,21.7
+2020,60 years and over,22348.0,6487.0,29.0
+2020,65 years and over,15679.0,4918.0,31.4
+2020,SEX,0.0,0.0,0.0
+2020,Male,61926.0,16488.0,26.6
+2020,Female,69989.0,19744.0,28.2
+2020,RACE AND HISPANIC OR LATINO ORIGIN,0.0,0.0,0.0
+2020,White alone,45278.0,9641.0,21.3
+2020,Black or African American alone,50823.0,13651.0,26.9
+2020,American Indian and Alaska Native alone,765.0,130.0,17.0
+2020,Asian alone,10008.0,4517.0,45.1
+2020,Native Hawaiian and Other Pacific Islander alone,136.0,0.0,0.0
+2020,Some other race alone,15891.0,5569.0,35.0
+2020,Two or more races,9014.0,2724.0,30.2
+2020,Hispanic or Latino origin (of any race),33504.0,12427.0,37.1
+2020,"White alone, not Hispanic or Latino",36419.0,6239.0,17.1
+2020,EDUCATIONAL ATTAINMENT,0.0,0.0,0.0
+2020,Population 25 years and over,90509.0,20083.0,22.2
+2020,Less than high school graduate,13782.0,6237.0,45.3
+2020,High school graduate (includes equivalency),19523.0,5286.0,27.1
+2020,"Some college, associate's degree",18025.0,3832.0,21.3
+2020,Bachelor's degree or higher,39179.0,4728.0,12.1
+2020,EMPLOYMENT STATUS,0.0,0.0,0.0
+2020,Civilian labor force 16 years and over,73192.0,10511.0,14.4
+2020,Employed,67266.0,7787.0,11.6
+2020,Male,32198.0,3138.0,9.7
+2020,Female,35068.0,4649.0,13.3
+2020,Unemployed,5926.0,2724.0,46.0
+2020,WORK EXPERIENCE,0.0,0.0,0.0
+2020,Population 16 years and over,110811.0,28436.0,25.7
+2020,"Worked full-time, year-round in the past 12 months",45602.0,1299.0,2.8
+2020,Worked part-time or part-year in the past 12 months,31631.0,10118.0,32.0
+2020,Did not work,33578.0,17019.0,50.7
+2020,ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS,0.0,0.0,0.0
+2020,50 percent of poverty level,16899.0,0.0,0.0
+2020,125 percent of poverty level,42873.0,0.0,0.0
+2020,150 percent of poverty level,48689.0,0.0,0.0
+2020,185 percent of poverty level,56464.0,0.0,0.0
+2020,200 percent of poverty level,59906.0,0.0,0.0
+2020,300 percent of poverty level,76606.0,0.0,0.0
+2020,400 percent of poverty level,88782.0,0.0,0.0
+2020,500 percent of poverty level,97242.0,0.0,0.0
+2020,UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,50252.0,18187.0,36.2
+2020,Male,25418.0,9047.0,35.6
+2020,Female,24834.0,9140.0,36.8
+2020,15 years,11.0,11.0,100.0
+2020,16 to 17 years,126.0,126.0,100.0
+2020,18 to 24 years,9924.0,5790.0,58.3
+2020,25 to 34 years,15850.0,3360.0,21.2
+2020,35 to 44 years,5154.0,1080.0,21.0
+2020,45 to 54 years,5599.0,2061.0,36.8
+2020,55 to 64 years,6085.0,2274.0,37.4
+2020,65 to 74 years,4639.0,2122.0,45.7
+2020,75 years and over,2864.0,1363.0,47.6
+2020,Mean income deficit for unrelated individuals (dollars),284061.0,0.0,0.0
+2020,"Worked full-time, year-round in the past 12 months",20675.0,419.0,2.0
+2020,"Worked less than full-time, year-round in the past 12 months",14435.0,6695.0,46.4
+2020,Did not work,15142.0,11073.0,73.1
+2021,Population for whom poverty status is determined,129766.0,34224.0,26.4
+2021,AGE,0.0,0.0,0.0
+2021,Under 18 years,22701.0,7691.0,33.9
+2021,Under 5 years,5905.0,1340.0,22.7
+2021,5 to 17 years,16796.0,6351.0,37.8
+2021,Related children of householder under 18 years,22611.0,7601.0,33.6
+2021,18 to 64 years,91138.0,21337.0,23.4
+2021,18 to 34 years,46131.0,11913.0,25.8
+2021,35 to 64 years,45007.0,9424.0,20.9
+2021,60 years and over,22800.0,6801.0,29.8
+2021,65 years and over,15927.0,5196.0,32.6
+2021,SEX,0.0,0.0,0.0
+2021,Male,60748.0,14726.0,24.2
+2021,Female,69018.0,19498.0,28.3
+2021,RACE AND HISPANIC OR LATINO ORIGIN,0.0,0.0,0.0
+2021,White alone,43050.0,9489.0,22.0
+2021,Black or African American alone,46765.0,11510.0,24.6
+2021,American Indian and Alaska Native alone,1024.0,171.0,16.7
+2021,Asian alone,9085.0,4142.0,45.6
+2021,Native Hawaiian and Other Pacific Islander alone,203.0,0.0,0.0
+2021,Some other race alone,16028.0,5294.0,33.0
+2021,Two or more races,13611.0,3618.0,26.6
+2021,Hispanic or Latino origin (of any race),34304.0,11452.0,33.4
+2021,"White alone, not Hispanic or Latino",35353.0,6441.0,18.2
+2021,EDUCATIONAL ATTAINMENT,0.0,0.0,0.0
+2021,Population 25 years and over,89291.0,19705.0,22.1
+2021,Less than high school graduate,13637.0,6048.0,44.3
+2021,High school graduate (includes equivalency),19243.0,5224.0,27.1
+2021,"Some college, associate's degree",17345.0,3815.0,22.0
+2021,Bachelor's degree or higher,39066.0,4618.0,11.8
+2021,EMPLOYMENT STATUS,0.0,0.0,0.0
+2021,Civilian labor force 16 years and over,71179.0,9613.0,13.5
+2021,Employed,65669.0,7202.0,11.0
+2021,Male,31351.0,2807.0,9.0
+2021,Female,34318.0,4395.0,12.8
+2021,Unemployed,5510.0,2411.0,43.8
+2021,WORK EXPERIENCE,0.0,0.0,0.0
+2021,Population 16 years and over,109564.0,27578.0,25.2
+2021,"Worked full-time, year-round in the past 12 months",44575.0,1137.0,2.6
+2021,Worked part-time or part-year in the past 12 months,30927.0,9507.0,30.7
+2021,Did not work,34062.0,16934.0,49.7
+2021,ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS,0.0,0.0,0.0
+2021,50 percent of poverty level,17698.0,0.0,0.0
+2021,125 percent of poverty level,41024.0,0.0,0.0
+2021,150 percent of poverty level,46484.0,0.0,0.0
+2021,185 percent of poverty level,53943.0,0.0,0.0
+2021,200 percent of poverty level,56738.0,0.0,0.0
+2021,300 percent of poverty level,73752.0,0.0,0.0
+2021,400 percent of poverty level,87530.0,0.0,0.0
+2021,500 percent of poverty level,96312.0,0.0,0.0
+2021,UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,50896.0,18517.0,36.4
+2021,Male,25653.0,9034.0,35.2
+2021,Female,25243.0,9483.0,37.6
+2021,15 years,10.0,10.0,100.0
+2021,16 to 17 years,77.0,77.0,100.0
+2021,18 to 24 years,10115.0,5680.0,56.2
+2021,25 to 34 years,15898.0,3441.0,21.6
+2021,35 to 44 years,5305.0,1169.0,22.0
+2021,45 to 54 years,5103.0,1824.0,35.7
+2021,55 to 64 years,6419.0,2586.0,40.3
+2021,65 to 74 years,4700.0,2124.0,45.2
+2021,75 years and over,3269.0,1606.0,49.1
+2021,Mean income deficit for unrelated individuals (dollars),311542.0,0.0,0.0
+2021,"Worked full-time, year-round in the past 12 months",20701.0,428.0,2.1
+2021,"Worked less than full-time, year-round in the past 12 months",14467.0,6662.0,46.0
+2021,Did not work,15728.0,11427.0,72.7
+2021,Population in housing units for whom poverty status is determined,127807.0,32817.0,25.7
+2022,Population for whom poverty status is determined,129343.0,34773.0,26.9
+2022,AGE,0.0,0.0,0.0
+2022,Under 18 years,22555.0,7522.0,33.3
+2022,Under 5 years,6105.0,1334.0,21.9
+2022,5 to 17 years,16450.0,6188.0,37.6
+2022,Related children of householder under 18 years,22480.0,7447.0,33.1
+2022,18 to 64 years,90611.0,22121.0,24.4
+2022,18 to 34 years,45938.0,12389.0,27.0
+2022,35 to 64 years,44673.0,9732.0,21.8
+2022,60 years and over,23554.0,6977.0,29.6
+2022,65 years and over,16177.0,5130.0,31.7
+2022,SEX,0.0,0.0,0.0
+2022,Male,60126.0,15542.0,25.8
+2022,Female,69217.0,19231.0,27.8
+2022,RACE AND HISPANIC OR LATINO ORIGIN,0.0,0.0,0.0
+2022,White alone,41651.0,9599.0,23.0
+2022,Black or African American alone,44708.0,11453.0,25.6
+2022,American Indian and Alaska Native alone,688.0,114.0,16.6
+2022,Asian alone,9406.0,3925.0,41.7
+2022,Native Hawaiian and Other Pacific Islander alone,193.0,0.0,0.0
+2022,Some other race alone,15989.0,5021.0,31.4
+2022,Two or more races,16708.0,4661.0,27.9
+2022,Hispanic or Latino origin (of any race),34186.0,11480.0,33.6
+2022,"White alone, not Hispanic or Latino",35318.0,6909.0,19.6
+2022,EDUCATIONAL ATTAINMENT,0.0,0.0,0.0
+2022,Population 25 years and over,88793.0,19960.0,22.5
+2022,Less than high school graduate,13584.0,6137.0,45.2
+2022,High school graduate (includes equivalency),18505.0,5156.0,27.9
+2022,"Some college, associate's degree",17344.0,4130.0,23.8
+2022,Bachelor's degree or higher,39360.0,4537.0,11.5
+2022,EMPLOYMENT STATUS,0.0,0.0,0.0
+2022,Civilian labor force 16 years and over,70521.0,10067.0,14.3
+2022,Employed,64703.0,7377.0,11.4
+2022,Male,30158.0,3014.0,10.0
+2022,Female,34545.0,4363.0,12.6
+2022,Unemployed,5818.0,2690.0,46.2
+2022,WORK EXPERIENCE,0.0,0.0,0.0
+2022,Population 16 years and over,109401.0,28353.0,25.9
+2022,"Worked full-time, year-round in the past 12 months",43787.0,1077.0,2.5
+2022,Worked part-time or part-year in the past 12 months,31064.0,9731.0,31.3
+2022,Did not work,34550.0,17545.0,50.8
+2022,ALL INDIVIDUALS WITH INCOME BELOW THE FOLLOWING POVERTY RATIOS,0.0,0.0,0.0
+2022,50 percent of poverty level,18639.0,0.0,0.0
+2022,125 percent of poverty level,41638.0,0.0,0.0
+2022,150 percent of poverty level,47220.0,0.0,0.0
+2022,185 percent of poverty level,53917.0,0.0,0.0
+2022,200 percent of poverty level,56864.0,0.0,0.0
+2022,300 percent of poverty level,73108.0,0.0,0.0
+2022,400 percent of poverty level,86404.0,0.0,0.0
+2022,500 percent of poverty level,95245.0,0.0,0.0
+2022,UNRELATED INDIVIDUALS FOR WHOM POVERTY STATUS IS DETERMINED,50412.0,18528.0,36.8
+2022,Male,25108.0,9185.0,36.6
+2022,Female,25304.0,9343.0,36.9
+2022,15 years,12.0,12.0,100.0
+2022,16 to 17 years,55.0,55.0,100.0
+2022,18 to 24 years,10562.0,5983.0,56.6
+2022,25 to 34 years,15565.0,3354.0,21.5
+2022,35 to 44 years,5186.0,1146.0,22.1
+2022,45 to 54 years,4935.0,1789.0,36.3
+2022,55 to 64 years,6218.0,2671.0,43.0
+2022,65 to 74 years,4573.0,1922.0,42.0
+2022,75 years and over,3306.0,1596.0,48.3
+2022,Mean income deficit for unrelated individuals (dollars),341904.0,0.0,0.0
+2022,"Worked full-time, year-round in the past 12 months",20224.0,420.0,2.1
+2022,"Worked less than full-time, year-round in the past 12 months",14329.0,6504.0,45.4
+2022,Did not work,15859.0,11604.0,73.2
+2022,Population in housing units for whom poverty status is determined,127150.0,33145.0,26.1
