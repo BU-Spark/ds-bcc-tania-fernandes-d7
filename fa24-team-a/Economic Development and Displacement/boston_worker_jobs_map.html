@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_a119111268ef341768826436a91f5ecd {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_a119111268ef341768826436a91f5ecd" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_a119111268ef341768826436a91f5ecd = L.map(
+                "map_a119111268ef341768826436a91f5ecd",
+                {
+                    center: [42.3601, -71.0589],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e2f9fbfe4eac3c10e3b94a5ee698604e = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_e2f9fbfe4eac3c10e3b94a5ee698604e.addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+            var circle_marker_6fea67090e9bca9229348c83295147d5 = L.circleMarker(
+                [42.3526, -71.1394],
+                {"bubblingMouseEvents": true, "color": "#ff9600ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff9600ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 13.25, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_ccd0e1ade92c66def2b6f356dd725798 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ab3ca035e1e95b772029973bff0ce112 = $(`<div id="html_ab3ca035e1e95b772029973bff0ce112" style="width: 100.0%; height: 100.0%;">Neighborhood: Allston/Brighton<br>Number of Jobs: 55</div>`)[0];
+                popup_ccd0e1ade92c66def2b6f356dd725798.setContent(html_ab3ca035e1e95b772029973bff0ce112);
+            
+        
+
+        circle_marker_6fea67090e9bca9229348c83295147d5.bindPopup(popup_ccd0e1ade92c66def2b6f356dd725798)
+        ;
+
+        
+    
+    
+            var circle_marker_25b2aea7d3e895ea3c754d4a7c4fb016 = L.circleMarker(
+                [42.3555, -71.0685],
+                {"bubblingMouseEvents": true, "color": "#ffed00ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffed00ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.65, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_0e09a13ad871b0f721736d675a6e02c3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f366e981091130b848e3c9a84c6753fc = $(`<div id="html_f366e981091130b848e3c9a84c6753fc" style="width: 100.0%; height: 100.0%;">Neighborhood: Back Bay/Beacon Hill<br>Number of Jobs: 11</div>`)[0];
+                popup_0e09a13ad871b0f721736d675a6e02c3.setContent(html_f366e981091130b848e3c9a84c6753fc);
+            
+        
+
+        circle_marker_25b2aea7d3e895ea3c754d4a7c4fb016.bindPopup(popup_0e09a13ad871b0f721736d675a6e02c3)
+        ;
+
+        
+    
+    
+            var circle_marker_1c6835725e60987e4e1595d405eddd13 = L.circleMarker(
+                [42.3509, -71.0662],
+                {"bubblingMouseEvents": true, "color": "#ffff00ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffff00ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.15, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_7ac653a637b2018a74575d8a4f02bc03 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b0ca0030e6fb221a275690af05777d68 = $(`<div id="html_b0ca0030e6fb221a275690af05777d68" style="width: 100.0%; height: 100.0%;">Neighborhood: Bay Village<br>Number of Jobs: 1</div>`)[0];
+                popup_7ac653a637b2018a74575d8a4f02bc03.setContent(html_b0ca0030e6fb221a275690af05777d68);
+            
+        
+
+        circle_marker_1c6835725e60987e4e1595d405eddd13.bindPopup(popup_7ac653a637b2018a74575d8a4f02bc03)
+        ;
+
+        
+    
+    
+            var circle_marker_e54f265fb27ef13bdbfb9faf414d7bae = L.circleMarker(
+                [42.3782, -71.0602],
+                {"bubblingMouseEvents": true, "color": "#ffe600ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffe600ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.25, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_2554b5f3a8d6971d9711087a0c5fa517 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_64053daa5d40b5925b8ed94a56dbe7fb = $(`<div id="html_64053daa5d40b5925b8ed94a56dbe7fb" style="width: 100.0%; height: 100.0%;">Neighborhood: Charlestown<br>Number of Jobs: 15</div>`)[0];
+                popup_2554b5f3a8d6971d9711087a0c5fa517.setContent(html_64053daa5d40b5925b8ed94a56dbe7fb);
+            
+        
+
+        circle_marker_e54f265fb27ef13bdbfb9faf414d7bae.bindPopup(popup_2554b5f3a8d6971d9711087a0c5fa517)
+        ;
+
+        
+    
+    
+            var circle_marker_ce1b8e796def6bddf3f14340fdf89b98 = L.circleMarker(
+                [42.3519, -71.0602],
+                {"bubblingMouseEvents": true, "color": "#ffeb00ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffeb00ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.8, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_f941049f4e6cd7fba3f46150f6b95183 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5559828b7a4ac139815b059f817289f5 = $(`<div id="html_5559828b7a4ac139815b059f817289f5" style="width: 100.0%; height: 100.0%;">Neighborhood: Chinatown<br>Number of Jobs: 12</div>`)[0];
+                popup_f941049f4e6cd7fba3f46150f6b95183.setContent(html_5559828b7a4ac139815b059f817289f5);
+            
+        
+
+        circle_marker_ce1b8e796def6bddf3f14340fdf89b98.bindPopup(popup_f941049f4e6cd7fba3f46150f6b95183)
+        ;
+
+        
+    
+    
+            var circle_marker_97b18480dde3c13c0dd9d8b6d881ff18 = L.circleMarker(
+                [42.3016, -71.0695],
+                {"bubblingMouseEvents": true, "color": "#ff0000ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff0000ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 20.0, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_572e9227ab05d56288f1a34209000d64 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9413610a6b8198548b51888f31bd650b = $(`<div id="html_9413610a6b8198548b51888f31bd650b" style="width: 100.0%; height: 100.0%;">Neighborhood: Dorchester<br>Number of Jobs: 100</div>`)[0];
+                popup_572e9227ab05d56288f1a34209000d64.setContent(html_9413610a6b8198548b51888f31bd650b);
+            
+        
+
+        circle_marker_97b18480dde3c13c0dd9d8b6d881ff18.bindPopup(popup_572e9227ab05d56288f1a34209000d64)
+        ;
+
+        
+    
+    
+            var circle_marker_835cc1395fd5792e9ed1aa560fe94300 = L.circleMarker(
+                [42.3601, -71.0589],
+                {"bubblingMouseEvents": true, "color": "#ffc300ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffc300ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10.100000000000001, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_e4a8152e47f9c44b3c036b508c39ad84 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_180740e3de8c5fc93dce584808c8caae = $(`<div id="html_180740e3de8c5fc93dce584808c8caae" style="width: 100.0%; height: 100.0%;">Neighborhood: Downtown<br>Number of Jobs: 34</div>`)[0];
+                popup_e4a8152e47f9c44b3c036b508c39ad84.setContent(html_180740e3de8c5fc93dce584808c8caae);
+            
+        
+
+        circle_marker_835cc1395fd5792e9ed1aa560fe94300.bindPopup(popup_e4a8152e47f9c44b3c036b508c39ad84)
+        ;
+
+        
+    
+    
+            var circle_marker_fe5f26ad16fd0456786d6bb255ed46e5 = L.circleMarker(
+                [42.3702, -71.0389],
+                {"bubblingMouseEvents": true, "color": "#ffce00ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffce00ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.2, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_b37931b93611983e64939aa6dd20e04b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_553c0849f5e864d63cdebfb2bc542d10 = $(`<div id="html_553c0849f5e864d63cdebfb2bc542d10" style="width: 100.0%; height: 100.0%;">Neighborhood: East Boston<br>Number of Jobs: 28</div>`)[0];
+                popup_b37931b93611983e64939aa6dd20e04b.setContent(html_553c0849f5e864d63cdebfb2bc542d10);
+            
+        
+
+        circle_marker_fe5f26ad16fd0456786d6bb255ed46e5.bindPopup(popup_b37931b93611983e64939aa6dd20e04b)
+        ;
+
+        
+    
+    
+            var circle_marker_fe26dc30383ca0cc50a9d1d96a6cbfb4 = L.circleMarker(
+                [42.3429, -71.1003],
+                {"bubblingMouseEvents": true, "color": "#ffd600ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffd600ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.6, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_1c235a9c541b2935d19ceb3bcf2bcac1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a048d1ed84e58c1c53e2890a9510b930 = $(`<div id="html_a048d1ed84e58c1c53e2890a9510b930" style="width: 100.0%; height: 100.0%;">Neighborhood: Fenway/Kenmore<br>Number of Jobs: 24</div>`)[0];
+                popup_1c235a9c541b2935d19ceb3bcf2bcac1.setContent(html_a048d1ed84e58c1c53e2890a9510b930);
+            
+        
+
+        circle_marker_fe26dc30383ca0cc50a9d1d96a6cbfb4.bindPopup(popup_1c235a9c541b2935d19ceb3bcf2bcac1)
+        ;
+
+        
+    
+    
+            var circle_marker_442fe8fffc75499ebf075136f51c1b28 = L.circleMarker(
+                [42.3096, -71.1208],
+                {"bubblingMouseEvents": true, "color": "#ffb600ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffb600ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.149999999999999, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_cb6a535418c242b5bc293bc78a852db5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_aefebffd2f8e9a0ed685f948ccff433a = $(`<div id="html_aefebffd2f8e9a0ed685f948ccff433a" style="width: 100.0%; height: 100.0%;">Neighborhood: Jamaica Plain<br>Number of Jobs: 41</div>`)[0];
+                popup_cb6a535418c242b5bc293bc78a852db5.setContent(html_aefebffd2f8e9a0ed685f948ccff433a);
+            
+        
+
+        circle_marker_442fe8fffc75499ebf075136f51c1b28.bindPopup(popup_cb6a535418c242b5bc293bc78a852db5)
+        ;
+
+        
+    
+    
+            var circle_marker_f9b889af78b8fad0a0cc5fa9c8f397ef = L.circleMarker(
+                [42.2725, -71.0917],
+                {"bubblingMouseEvents": true, "color": "#ffe000ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffe000ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.699999999999999, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_c0894303165487c105eecb86e5e4d885 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_aac76d65d11800b3248dc8c9e9e23144 = $(`<div id="html_aac76d65d11800b3248dc8c9e9e23144" style="width: 100.0%; height: 100.0%;">Neighborhood: Mattapan<br>Number of Jobs: 18</div>`)[0];
+                popup_c0894303165487c105eecb86e5e4d885.setContent(html_aac76d65d11800b3248dc8c9e9e23144);
+            
+        
+
+        circle_marker_f9b889af78b8fad0a0cc5fa9c8f397ef.bindPopup(popup_c0894303165487c105eecb86e5e4d885)
+        ;
+
+        
+    
+    
+            var circle_marker_fc7651c18a6748c2a02f6c6d01748cb7 = L.circleMarker(
+                [42.3317, -71.105],
+                {"bubblingMouseEvents": true, "color": "#fffa00ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#fffa00ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.6, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_e677234d898058a2d8829199f970e0cd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ec81a20e8927cd1b70aa7fdf78f34665 = $(`<div id="html_ec81a20e8927cd1b70aa7fdf78f34665" style="width: 100.0%; height: 100.0%;">Neighborhood: Mission Hill<br>Number of Jobs: 4</div>`)[0];
+                popup_e677234d898058a2d8829199f970e0cd.setContent(html_ec81a20e8927cd1b70aa7fdf78f34665);
+            
+        
+
+        circle_marker_fc7651c18a6748c2a02f6c6d01748cb7.bindPopup(popup_e677234d898058a2d8829199f970e0cd)
+        ;
+
+        
+    
+    
+            var circle_marker_4b83b35857684628a6379c0d676dcacd = L.circleMarker(
+                [42.3648, -71.0548],
+                {"bubblingMouseEvents": true, "color": "#fffc00ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#fffc00ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.45, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_a36a958c99769d9e5cce102b81a17ea7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_56eae7664ff26527c1850f89f7b2f7df = $(`<div id="html_56eae7664ff26527c1850f89f7b2f7df" style="width: 100.0%; height: 100.0%;">Neighborhood: North End<br>Number of Jobs: 3</div>`)[0];
+                popup_a36a958c99769d9e5cce102b81a17ea7.setContent(html_56eae7664ff26527c1850f89f7b2f7df);
+            
+        
+
+        circle_marker_4b83b35857684628a6379c0d676dcacd.bindPopup(popup_a36a958c99769d9e5cce102b81a17ea7)
+        ;
+
+        
+    
+    
+            var circle_marker_1ab39dbfdd161aa86e1a747604253496 = L.circleMarker(
+                [42.2879, -71.1256],
+                {"bubblingMouseEvents": true, "color": "#ffef00ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffef00ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.5, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_4c38153424ddc2971970ee575190cb85 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0b2c5b4a2bf35fa487f45133f82ac581 = $(`<div id="html_0b2c5b4a2bf35fa487f45133f82ac581" style="width: 100.0%; height: 100.0%;">Neighborhood: Roslindale<br>Number of Jobs: 10</div>`)[0];
+                popup_4c38153424ddc2971970ee575190cb85.setContent(html_0b2c5b4a2bf35fa487f45133f82ac581);
+            
+        
+
+        circle_marker_1ab39dbfdd161aa86e1a747604253496.bindPopup(popup_4c38153424ddc2971970ee575190cb85)
+        ;
+
+        
+    
+    
+            var circle_marker_b107380b02c9b21c62f778e6b76e985b = L.circleMarker(
+                [42.3188, -71.0846],
+                {"bubblingMouseEvents": true, "color": "#ff2400ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff2400ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 18.35, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_03ef1f9376e14b43e4c2171441623d7a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5044d7bf0cc275f92db436134c59a286 = $(`<div id="html_5044d7bf0cc275f92db436134c59a286" style="width: 100.0%; height: 100.0%;">Neighborhood: Roxbury<br>Number of Jobs: 89</div>`)[0];
+                popup_03ef1f9376e14b43e4c2171441623d7a.setContent(html_5044d7bf0cc275f92db436134c59a286);
+            
+        
+
+        circle_marker_b107380b02c9b21c62f778e6b76e985b.bindPopup(popup_03ef1f9376e14b43e4c2171441623d7a)
+        ;
+
+        
+    
+    
+            var circle_marker_8a7c99a212ef84b2fdc48dd16d72116d = L.circleMarker(
+                [42.3389, -71.0424],
+                {"bubblingMouseEvents": true, "color": "#ff5300ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff5300ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 16.25, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_acb30da06bb0065b0508784cc0b3e05b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0c98c94736b5814ea816f370cbef7b2f = $(`<div id="html_0c98c94736b5814ea816f370cbef7b2f" style="width: 100.0%; height: 100.0%;">Neighborhood: South Boston<br>Number of Jobs: 75</div>`)[0];
+                popup_acb30da06bb0065b0508784cc0b3e05b.setContent(html_0c98c94736b5814ea816f370cbef7b2f);
+            
+        
+
+        circle_marker_8a7c99a212ef84b2fdc48dd16d72116d.bindPopup(popup_acb30da06bb0065b0508784cc0b3e05b)
+        ;
+
+        
+    
+    
+            var circle_marker_321301f716c7bcd408188371c268340c = L.circleMarker(
+                [42.3389, -71.0726],
+                {"bubblingMouseEvents": true, "color": "#ffdb00ff", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ffdb00ff", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.15, "stroke": true, "weight": 3}
+            ).addTo(map_a119111268ef341768826436a91f5ecd);
+        
+    
+        var popup_000b4518c62e102948bafc1992bb9a19 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_487916fa804c5fc3d3b945ca7e19f079 = $(`<div id="html_487916fa804c5fc3d3b945ca7e19f079" style="width: 100.0%; height: 100.0%;">Neighborhood: South End<br>Number of Jobs: 21</div>`)[0];
+                popup_000b4518c62e102948bafc1992bb9a19.setContent(html_487916fa804c5fc3d3b945ca7e19f079);
+            
+        
+
+        circle_marker_321301f716c7bcd408188371c268340c.bindPopup(popup_000b4518c62e102948bafc1992bb9a19)
+        ;
+
+        
+    
+    
+    var color_map_54ed98b4c37aa20c7bb4d56d957bc785 = {};
+
+    
+    color_map_54ed98b4c37aa20c7bb4d56d957bc785.color = d3.scale.threshold()
+              .domain([1.0, 1.1983967935871744, 1.3967935871743486, 1.595190380761523, 1.7935871743486973, 1.9919839679358717, 2.190380761523046, 2.38877755511022, 2.5871743486973946, 2.785571142284569, 2.9839679358717435, 3.182364729458918, 3.3807615230460923, 3.5791583166332663, 3.7775551102204408, 3.975951903807615, 4.174348697394789, 4.3727454909819645, 4.571142284569138, 4.7695390781563125, 4.967935871743487, 5.166332665330661, 5.364729458917836, 5.56312625250501, 5.761523046092185, 5.959919839679359, 6.158316633266533, 6.356713426853707, 6.5551102204408815, 6.753507014028056, 6.95190380761523, 7.150300601202405, 7.348697394789579, 7.547094188376754, 7.745490981963928, 7.943887775551103, 8.142284569138276, 8.340681362725451, 8.539078156312625, 8.737474949899799, 8.935871743486974, 9.134268537074147, 9.332665330661323, 9.531062124248496, 9.729458917835672, 9.927855711422845, 10.12625250501002, 10.324649298597194, 10.52304609218437, 10.721442885771543, 10.919839679358718, 11.118236472945892, 11.316633266533065, 11.51503006012024, 11.713426853707414, 11.91182364729459, 12.110220440881763, 12.308617234468938, 12.507014028056112, 12.705410821643287, 12.90380761523046, 13.102204408817636, 13.30060120240481, 13.498997995991983, 13.697394789579159, 13.895791583166332, 14.094188376753507, 14.292585170340681, 14.490981963927856, 14.68937875751503, 14.887775551102205, 15.086172344689379, 15.284569138276552, 15.482965931863728, 15.681362725450901, 15.879759519038076, 16.07815631262525, 16.276553106212425, 16.474949899799597, 16.673346693386776, 16.871743486973948, 17.070140280561123, 17.268537074148295, 17.46693386773547, 17.665330661322646, 17.86372745490982, 18.062124248496993, 18.260521042084168, 18.458917835671343, 18.65731462925852, 18.85571142284569, 19.054108216432866, 19.25250501002004, 19.450901803607213, 19.649298597194388, 19.847695390781563, 20.04609218436874, 20.24448897795591, 20.442885771543086, 20.64128256513026, 20.839679358717436, 21.03807615230461, 21.236472945891784, 21.43486973947896, 21.63326653306613, 21.831663326653306, 22.03006012024048, 22.228456913827657, 22.42685370741483, 22.625250501002004, 22.82364729458918, 23.022044088176354, 23.220440881763526, 23.4188376753507, 23.617234468937877, 23.81563126252505, 24.014028056112224, 24.2124248496994, 24.410821643286575, 24.609218436873746, 24.80761523046092, 25.006012024048097, 25.204408817635272, 25.402805611222444, 25.60120240480962, 25.799599198396795, 25.997995991983966, 26.196392785571142, 26.394789579158317, 26.593186372745492, 26.791583166332664, 26.98997995991984, 27.188376753507015, 27.386773547094187, 27.585170340681362, 27.783567134268537, 27.981963927855713, 28.180360721442884, 28.37875751503006, 28.577154308617235, 28.77555110220441, 28.973947895791582, 29.172344689378757, 29.370741482965933, 29.569138276553105, 29.76753507014028, 29.965931863727455, 30.16432865731463, 30.362725450901802, 30.561122244488978, 30.759519038076153, 30.95791583166333, 31.1563126252505, 31.354709418837675, 31.55310621242485, 31.751503006012022, 31.949899799599198, 32.14829659318637, 32.34669338677355, 32.54509018036072, 32.743486973947896, 32.941883767535074, 33.140280561122246, 33.33867735470942, 33.53707414829659, 33.73547094188377, 33.93386773547094, 34.13226452905812, 34.33066132264529, 34.52905811623246, 34.72745490981964, 34.92585170340681, 35.124248496993985, 35.322645290581164, 35.521042084168336, 35.71943887775551, 35.91783567134269, 36.11623246492986, 36.31462925851704, 36.51302605210421, 36.71142284569138, 36.90981963927856, 37.10821643286573, 37.3066132264529, 37.50501002004008, 37.703406813627254, 37.901803607214426, 38.100200400801604, 38.298597194388776, 38.496993987975955, 38.69539078156313, 38.8937875751503, 39.09218436873748, 39.29058116232465, 39.48897795591182, 39.687374749499, 39.88577154308617, 40.08416833667334, 40.28256513026052, 40.480961923847694, 40.67935871743487, 40.877755511022045, 41.07615230460922, 41.274549098196395, 41.47294589178357, 41.67134268537074, 41.86973947895792, 42.06813627254509, 42.26653306613226, 42.46492985971944, 42.66332665330661, 42.86172344689379, 43.06012024048096, 43.258517034068134, 43.45691382765531, 43.655310621242485, 43.85370741482966, 44.052104208416836, 44.25050100200401, 44.44889779559118, 44.64729458917836, 44.84569138276553, 45.04408817635271, 45.24248496993988, 45.44088176352705, 45.63927855711423, 45.8376753507014, 46.036072144288575, 46.234468937875754, 46.432865731462925, 46.6312625250501, 46.829659318637276, 47.02805611222445, 47.22645290581163, 47.4248496993988, 47.62324649298597, 47.82164328657315, 48.02004008016032, 48.21843687374749, 48.41683366733467, 48.61523046092184, 48.813627254509015, 49.012024048096194, 49.210420841683366, 49.408817635270545, 49.607214428857716, 49.80561122244489, 50.00400801603207, 50.20240480961924, 50.40080160320641, 50.59919839679359, 50.79759519038076, 50.99599198396793, 51.19438877755511, 51.392785571142284, 51.591182364729455, 51.789579158316634, 51.987975951903806, 52.186372745490985, 52.38476953907816, 52.58316633266533, 52.78156312625251, 52.97995991983968, 53.17835671342685, 53.37675350701403, 53.5751503006012, 53.77354709418837, 53.97194388777555, 54.170340681362724, 54.3687374749499, 54.567134268537075, 54.765531062124246, 54.963927855711425, 55.1623246492986, 55.36072144288577, 55.55911823647295, 55.75751503006012, 55.95591182364729, 56.15430861723447, 56.35270541082164, 56.55110220440882, 56.74949899799599, 56.947895791583164, 57.14629258517034, 57.344689378757515, 57.54308617234469, 57.741482965931866, 57.93987975951904, 58.13827655310621, 58.33667334669339, 58.53507014028056, 58.73346693386774, 58.93186372745491, 59.13026052104208, 59.32865731462926, 59.52705410821643, 59.725450901803605, 59.92384769539078, 60.122244488977955, 60.32064128256513, 60.519038076152306, 60.71743486973948, 60.91583166332666, 61.11422845691383, 61.312625250501, 61.51102204408818, 61.70941883767535, 61.90781563126252, 62.1062124248497, 62.30460921843687, 62.503006012024045, 62.701402805611224, 62.899799599198396, 63.098196392785574, 63.296593186372746, 63.49498997995992, 63.6933867735471, 63.89178356713427, 64.09018036072143, 64.28857715430863, 64.48697394789579, 64.68537074148296, 64.88376753507015, 65.08216432865731, 65.28056112224449, 65.47895791583166, 65.67735470941884, 65.87575150300601, 66.07414829659318, 66.27254509018036, 66.47094188376754, 66.66933867735472, 66.86773547094188, 67.06613226452906, 67.26452905811624, 67.4629258517034, 67.66132264529058, 67.85971943887776, 68.05811623246493, 68.2565130260521, 68.45490981963928, 68.65330661322645, 68.85170340681363, 69.0501002004008, 69.24849699398797, 69.44689378757515, 69.64529058116233, 69.84368737474949, 70.04208416833667, 70.24048096192385, 70.43887775551102, 70.6372745490982, 70.83567134268537, 71.03406813627255, 71.23246492985972, 71.4308617234469, 71.62925851703407, 71.82765531062124, 72.02605210420842, 72.2244488977956, 72.42284569138276, 72.62124248496994, 72.81963927855712, 73.01803607214428, 73.21643286573146, 73.41482965931864, 73.6132264529058, 73.81162324649299, 74.01002004008016, 74.20841683366733, 74.40681362725451, 74.60521042084169, 74.80360721442885, 75.00200400801603, 75.20040080160321, 75.39879759519039, 75.59719438877755, 75.79559118236473, 75.99398797595191, 76.19238476953907, 76.39078156312625, 76.58917835671343, 76.7875751503006, 76.98597194388778, 77.18436873747495, 77.38276553106212, 77.5811623246493, 77.77955911823648, 77.97795591182364, 78.17635270541082, 78.374749498998, 78.57314629258516, 78.77154308617234, 78.96993987975952, 79.16833667334669, 79.36673346693387, 79.56513026052104, 79.76352705410822, 79.96192384769539, 80.16032064128257, 80.35871743486975, 80.55711422845691, 80.75551102204409, 80.95390781563127, 81.15230460921843, 81.35070140280561, 81.54909819639279, 81.74749498997996, 81.94589178356713, 82.14428857715431, 82.34268537074148, 82.54108216432866, 82.73947895791584, 82.937875751503, 83.13627254509018, 83.33466933867736, 83.53306613226452, 83.7314629258517, 83.92985971943888, 84.12825651302605, 84.32665330661322, 84.5250501002004, 84.72344689378758, 84.92184368737475, 85.12024048096193, 85.3186372745491, 85.51703406813627, 85.71543086172345, 85.91382765531063, 86.11222444889779, 86.31062124248497, 86.50901803607215, 86.70741482965931, 86.90581162324649, 87.10420841683367, 87.30260521042084, 87.50100200400801, 87.6993987975952, 87.89779559118236, 88.09619238476954, 88.29458917835672, 88.49298597194388, 88.69138276553106, 88.88977955911824, 89.08817635270542, 89.28657314629258, 89.48496993987976, 89.68336673346694, 89.8817635270541, 90.08016032064128, 90.27855711422846, 90.47695390781563, 90.6753507014028, 90.87374749498998, 91.07214428857715, 91.27054108216433, 91.46893787575151, 91.66733466933867, 91.86573146292585, 92.06412825651303, 92.2625250501002, 92.46092184368737, 92.65931863727455, 92.85771543086172, 93.0561122244489, 93.25450901803607, 93.45290581162325, 93.65130260521042, 93.8496993987976, 94.04809619238478, 94.24649298597194, 94.44488977955912, 94.6432865731463, 94.84168336673346, 95.04008016032064, 95.23847695390782, 95.43687374749499, 95.63527054108216, 95.83366733466934, 96.03206412825651, 96.23046092184369, 96.42885771543087, 96.62725450901803, 96.82565130260521, 97.02404809619239, 97.22244488977955, 97.42084168336673, 97.61923847695391, 97.81763527054109, 98.01603206412825, 98.21442885771543, 98.41282565130261, 98.61122244488978, 98.80961923847696, 99.00801603206413, 99.2064128256513, 99.40480961923848, 99.60320641282566, 99.80160320641282, 100.0])
+              .range(['#ffff00ff', '#ffff00ff', '#ffff00ff', '#fffe00ff', '#fffe00ff', '#fffe00ff', '#fffd00ff', '#fffd00ff', '#fffd00ff', '#fffc00ff', '#fffc00ff', '#fffc00ff', '#fffb00ff', '#fffb00ff', '#fffa00ff', '#fffa00ff', '#fffa00ff', '#fff900ff', '#fff900ff', '#fff900ff', '#fff800ff', '#fff800ff', '#fff800ff', '#fff700ff', '#fff700ff', '#fff600ff', '#fff600ff', '#fff600ff', '#fff500ff', '#fff500ff', '#fff500ff', '#fff400ff', '#fff400ff', '#fff400ff', '#fff300ff', '#fff300ff', '#fff200ff', '#fff200ff', '#fff200ff', '#fff100ff', '#fff100ff', '#fff100ff', '#fff000ff', '#fff000ff', '#fff000ff', '#ffef00ff', '#ffef00ff', '#ffee00ff', '#ffee00ff', '#ffee00ff', '#ffed00ff', '#ffed00ff', '#ffed00ff', '#ffec00ff', '#ffec00ff', '#ffec00ff', '#ffeb00ff', '#ffeb00ff', '#ffea00ff', '#ffea00ff', '#ffea00ff', '#ffe900ff', '#ffe900ff', '#ffe900ff', '#ffe800ff', '#ffe800ff', '#ffe800ff', '#ffe700ff', '#ffe700ff', '#ffe700ff', '#ffe600ff', '#ffe600ff', '#ffe500ff', '#ffe500ff', '#ffe500ff', '#ffe400ff', '#ffe400ff', '#ffe400ff', '#ffe300ff', '#ffe300ff', '#ffe300ff', '#ffe200ff', '#ffe200ff', '#ffe100ff', '#ffe100ff', '#ffe100ff', '#ffe000ff', '#ffe000ff', '#ffe000ff', '#ffdf00ff', '#ffdf00ff', '#ffdf00ff', '#ffde00ff', '#ffde00ff', '#ffdd00ff', '#ffdd00ff', '#ffdd00ff', '#ffdc00ff', '#ffdc00ff', '#ffdc00ff', '#ffdb00ff', '#ffdb00ff', '#ffdb00ff', '#ffda00ff', '#ffda00ff', '#ffd900ff', '#ffd900ff', '#ffd900ff', '#ffd800ff', '#ffd800ff', '#ffd800ff', '#ffd700ff', '#ffd700ff', '#ffd700ff', '#ffd600ff', '#ffd600ff', '#ffd500ff', '#ffd500ff', '#ffd500ff', '#ffd400ff', '#ffd400ff', '#ffd400ff', '#ffd300ff', '#ffd300ff', '#ffd300ff', '#ffd200ff', '#ffd200ff', '#ffd200ff', '#ffd100ff', '#ffd100ff', '#ffd000ff', '#ffd000ff', '#ffd000ff', '#ffcf00ff', '#ffcf00ff', '#ffcf00ff', '#ffce00ff', '#ffce00ff', '#ffce00ff', '#ffcd00ff', '#ffcd00ff', '#ffcc00ff', '#ffcc00ff', '#ffcc00ff', '#ffcb00ff', '#ffcb00ff', '#ffcb00ff', '#ffca00ff', '#ffca00ff', '#ffca00ff', '#ffc900ff', '#ffc900ff', '#ffc800ff', '#ffc800ff', '#ffc800ff', '#ffc700ff', '#ffc700ff', '#ffc700ff', '#ffc600ff', '#ffc600ff', '#ffc600ff', '#ffc500ff', '#ffc500ff', '#ffc400ff', '#ffc400ff', '#ffc400ff', '#ffc300ff', '#ffc300ff', '#ffc300ff', '#ffc200ff', '#ffc200ff', '#ffc200ff', '#ffc100ff', '#ffc100ff', '#ffc000ff', '#ffc000ff', '#ffc000ff', '#ffbf00ff', '#ffbf00ff', '#ffbf00ff', '#ffbe00ff', '#ffbe00ff', '#ffbe00ff', '#ffbd00ff', '#ffbd00ff', '#ffbd00ff', '#ffbc00ff', '#ffbc00ff', '#ffbb00ff', '#ffbb00ff', '#ffbb00ff', '#ffba00ff', '#ffba00ff', '#ffba00ff', '#ffb900ff', '#ffb900ff', '#ffb900ff', '#ffb800ff', '#ffb800ff', '#ffb700ff', '#ffb700ff', '#ffb700ff', '#ffb600ff', '#ffb600ff', '#ffb600ff', '#ffb500ff', '#ffb500ff', '#ffb500ff', '#ffb400ff', '#ffb400ff', '#ffb300ff', '#ffb300ff', '#ffb300ff', '#ffb200ff', '#ffb200ff', '#ffb200ff', '#ffb100ff', '#ffb100ff', '#ffb100ff', '#ffb000ff', '#ffb000ff', '#ffaf00ff', '#ffaf00ff', '#ffaf00ff', '#ffae00ff', '#ffae00ff', '#ffae00ff', '#ffad00ff', '#ffad00ff', '#ffad00ff', '#ffac00ff', '#ffac00ff', '#ffab00ff', '#ffab00ff', '#ffab00ff', '#ffaa00ff', '#ffaa00ff', '#ffaa00ff', '#ffa900ff', '#ffa900ff', '#ffa900ff', '#ffa800ff', '#ffa800ff', '#ffa800ff', '#ffa700ff', '#ffa700ff', '#ffa600ff', '#ffa600ff', '#ffa600ff', '#ffa500ff', '#ffa500ff', '#ffa400ff', '#ffa300ff', '#ffa300ff', '#ffa200ff', '#ffa100ff', '#ffa100ff', '#ffa000ff', '#ffa000ff', '#ff9f00ff', '#ff9e00ff', '#ff9e00ff', '#ff9d00ff', '#ff9c00ff', '#ff9c00ff', '#ff9b00ff', '#ff9a00ff', '#ff9a00ff', '#ff9900ff', '#ff9800ff', '#ff9800ff', '#ff9700ff', '#ff9600ff', '#ff9600ff', '#ff9500ff', '#ff9400ff', '#ff9400ff', '#ff9300ff', '#ff9200ff', '#ff9200ff', '#ff9100ff', '#ff9000ff', '#ff9000ff', '#ff8f00ff', '#ff8e00ff', '#ff8e00ff', '#ff8d00ff', '#ff8c00ff', '#ff8c00ff', '#ff8b00ff', '#ff8a00ff', '#ff8a00ff', '#ff8900ff', '#ff8800ff', '#ff8800ff', '#ff8700ff', '#ff8600ff', '#ff8600ff', '#ff8500ff', '#ff8400ff', '#ff8400ff', '#ff8300ff', '#ff8200ff', '#ff8200ff', '#ff8100ff', '#ff8000ff', '#ff8000ff', '#ff7f00ff', '#ff7e00ff', '#ff7e00ff', '#ff7d00ff', '#ff7c00ff', '#ff7c00ff', '#ff7b00ff', '#ff7a00ff', '#ff7a00ff', '#ff7900ff', '#ff7800ff', '#ff7800ff', '#ff7700ff', '#ff7600ff', '#ff7600ff', '#ff7500ff', '#ff7400ff', '#ff7400ff', '#ff7300ff', '#ff7200ff', '#ff7200ff', '#ff7100ff', '#ff7000ff', '#ff7000ff', '#ff6f00ff', '#ff6e00ff', '#ff6e00ff', '#ff6d00ff', '#ff6c00ff', '#ff6c00ff', '#ff6b00ff', '#ff6a00ff', '#ff6a00ff', '#ff6900ff', '#ff6800ff', '#ff6800ff', '#ff6700ff', '#ff6600ff', '#ff6600ff', '#ff6500ff', '#ff6400ff', '#ff6400ff', '#ff6300ff', '#ff6200ff', '#ff6200ff', '#ff6100ff', '#ff6000ff', '#ff6000ff', '#ff5f00ff', '#ff5e00ff', '#ff5e00ff', '#ff5d00ff', '#ff5c00ff', '#ff5c00ff', '#ff5b00ff', '#ff5a00ff', '#ff5a00ff', '#ff5900ff', '#ff5800ff', '#ff5800ff', '#ff5700ff', '#ff5600ff', '#ff5600ff', '#ff5500ff', '#ff5400ff', '#ff5400ff', '#ff5300ff', '#ff5200ff', '#ff5200ff', '#ff5100ff', '#ff5000ff', '#ff5000ff', '#ff4f00ff', '#ff4f00ff', '#ff4e00ff', '#ff4d00ff', '#ff4d00ff', '#ff4c00ff', '#ff4b00ff', '#ff4b00ff', '#ff4a00ff', '#ff4900ff', '#ff4900ff', '#ff4800ff', '#ff4700ff', '#ff4700ff', '#ff4600ff', '#ff4500ff', '#ff4500ff', '#ff4400ff', '#ff4300ff', '#ff4300ff', '#ff4200ff', '#ff4100ff', '#ff4100ff', '#ff4000ff', '#ff3f00ff', '#ff3f00ff', '#ff3e00ff', '#ff3d00ff', '#ff3d00ff', '#ff3c00ff', '#ff3b00ff', '#ff3b00ff', '#ff3a00ff', '#ff3900ff', '#ff3900ff', '#ff3800ff', '#ff3700ff', '#ff3700ff', '#ff3600ff', '#ff3500ff', '#ff3500ff', '#ff3400ff', '#ff3300ff', '#ff3300ff', '#ff3200ff', '#ff3100ff', '#ff3100ff', '#ff3000ff', '#ff2f00ff', '#ff2f00ff', '#ff2e00ff', '#ff2d00ff', '#ff2d00ff', '#ff2c00ff', '#ff2b00ff', '#ff2b00ff', '#ff2a00ff', '#ff2900ff', '#ff2900ff', '#ff2800ff', '#ff2700ff', '#ff2700ff', '#ff2600ff', '#ff2500ff', '#ff2500ff', '#ff2400ff', '#ff2300ff', '#ff2300ff', '#ff2200ff', '#ff2100ff', '#ff2100ff', '#ff2000ff', '#ff1f00ff', '#ff1f00ff', '#ff1e00ff', '#ff1d00ff', '#ff1d00ff', '#ff1c00ff', '#ff1b00ff', '#ff1b00ff', '#ff1a00ff', '#ff1900ff', '#ff1900ff', '#ff1800ff', '#ff1700ff', '#ff1700ff', '#ff1600ff', '#ff1500ff', '#ff1500ff', '#ff1400ff', '#ff1300ff', '#ff1300ff', '#ff1200ff', '#ff1100ff', '#ff1100ff', '#ff1000ff', '#ff0f00ff', '#ff0f00ff', '#ff0e00ff', '#ff0d00ff', '#ff0d00ff', '#ff0c00ff', '#ff0b00ff', '#ff0b00ff', '#ff0a00ff', '#ff0900ff', '#ff0900ff', '#ff0800ff', '#ff0700ff', '#ff0700ff', '#ff0600ff', '#ff0500ff', '#ff0500ff', '#ff0400ff', '#ff0300ff', '#ff0300ff', '#ff0200ff', '#ff0100ff', '#ff0100ff', '#ff0000ff', '#ff0000ff']);
+    
+
+    color_map_54ed98b4c37aa20c7bb4d56d957bc785.x = d3.scale.linear()
+              .domain([1.0, 100.0])
+              .range([0, 450 - 50]);
+
+    color_map_54ed98b4c37aa20c7bb4d56d957bc785.legend = L.control({position: 'topright'});
+    color_map_54ed98b4c37aa20c7bb4d56d957bc785.legend.onAdd = function (map) {var div = L.DomUtil.create('div', 'legend'); return div};
+    color_map_54ed98b4c37aa20c7bb4d56d957bc785.legend.addTo(map_a119111268ef341768826436a91f5ecd);
+
+    color_map_54ed98b4c37aa20c7bb4d56d957bc785.xAxis = d3.svg.axis()
+        .scale(color_map_54ed98b4c37aa20c7bb4d56d957bc785.x)
+        .orient("top")
+        .tickSize(1)
+        .tickValues([1.0, 50.5, 100.0]);
+
+    color_map_54ed98b4c37aa20c7bb4d56d957bc785.svg = d3.select(".legend.leaflet-control").append("svg")
+        .attr("id", 'legend')
+        .attr("width", 450)
+        .attr("height", 40);
+
+    color_map_54ed98b4c37aa20c7bb4d56d957bc785.g = color_map_54ed98b4c37aa20c7bb4d56d957bc785.svg.append("g")
+        .attr("class", "key")
+        .attr("fill", "black")
+        .attr("transform", "translate(25,16)");
+
+    color_map_54ed98b4c37aa20c7bb4d56d957bc785.g.selectAll("rect")
+        .data(color_map_54ed98b4c37aa20c7bb4d56d957bc785.color.range().map(function(d, i) {
+          return {
+            x0: i ? color_map_54ed98b4c37aa20c7bb4d56d957bc785.x(color_map_54ed98b4c37aa20c7bb4d56d957bc785.color.domain()[i - 1]) : color_map_54ed98b4c37aa20c7bb4d56d957bc785.x.range()[0],
+            x1: i < color_map_54ed98b4c37aa20c7bb4d56d957bc785.color.domain().length ? color_map_54ed98b4c37aa20c7bb4d56d957bc785.x(color_map_54ed98b4c37aa20c7bb4d56d957bc785.color.domain()[i]) : color_map_54ed98b4c37aa20c7bb4d56d957bc785.x.range()[1],
+            z: d
+          };
+        }))
+      .enter().append("rect")
+        .attr("height", 40 - 30)
+        .attr("x", function(d) { return d.x0; })
+        .attr("width", function(d) { return d.x1 - d.x0; })
+        .style("fill", function(d) { return d.z; });
+
+    color_map_54ed98b4c37aa20c7bb4d56d957bc785.g.call(color_map_54ed98b4c37aa20c7bb4d56d957bc785.xAxis).append("text")
+        .attr("class", "caption")
+        .attr("y", 21)
+        .attr("fill", "black")
+        .text("Number of Jobs by Neighborhood");
+    
+            tile_layer_e2f9fbfe4eac3c10e3b94a5ee698604e.addTo(map_a119111268ef341768826436a91f5ecd);
+        
+</script>
+</html>
