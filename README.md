@@ -1,4 +1,4 @@
-# Boston City Councilor Tania Fernandes Anderson District 7
+# Boston District 7 Indicators Project
 
 Create a new branch from dev, add changes on the new branch you just created.
 
