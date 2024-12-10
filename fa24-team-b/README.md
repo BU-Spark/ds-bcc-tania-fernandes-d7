@@ -47,9 +47,9 @@ More info can be found here: [link](https://data.boston.gov/dataset/approved-bui
 
 These datasets enable a thorough and nuanced analysis of District 7's unique challenges and opportunities, particularly in the areas of housing, economic development, and community demographics.
 
-# Quick Start
+## Quick Start
 
-## Requirements
+### Requirements
 
 We recommend setting up a virtual environment with all the necessary packages. Run the following command in the terminal:
 
@@ -63,7 +63,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-# Modules Overview
+## Modules Overview
 The project early insights are located in a file titled d7-Team-B-Early-Insights.ipynb.
 
 The README.md file contains a high-level explanation of our project. 
@@ -76,9 +76,9 @@ The **notebooks/** folder contains our jupyter notebook notebooks. Each notebook
 
 Each notebook may contains preprocessing, exploratory data analysis and some insights for the corresponding datasets. 
 
-# Project Timeline
+## Project Timeline
 
-## Key Steps and Deliverables:
+### Key Steps and Deliverables:
 
 1. **Define District Boundaries:**
 
@@ -100,7 +100,7 @@ Each notebook may contains preprocessing, exploratory data analysis and some ins
    - A dashboard showing current and historical data across various indicators along with conparison against Boston city, with a focus on housing.
    - Documentation of all steps in data collection and analysis for reproducibility.
 
-# Tools and Platforms:
+## Tools and Platforms:
 
 - Analysis: Pandas, GeoPandas, Matplotlib.
 - Visualization: Google LookerStudio.
