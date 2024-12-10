@@ -1,5 +1,4 @@
 # District 7 Housing Indicators
----
 
 ![image](https://github.com/user-attachments/assets/d8a4d7fb-f9ae-4599-b70d-f63d7177de4f)
 
