@@ -27,23 +27,23 @@ More info can be found here: [link](https://data.census.gov/table?q=demographics
 
 ### U.S. Census Bureau: ACS Selected Housing Characteristics
 More specifically, we referred to the DP04 Selected Housing Characteristics Table, where we filtered out Place > Massachussetts > Boston City to get information for Boston, and selected the relevant census tracts to get information for District 7. This table contained information for The Total Housing Units
-More info can be found here: [link]([https://data.census.gov/table?q=demographics&g=050XX00US36103_160XX00US4159000](https://data.census.gov/table/ACSDP5Y2022.DP04?q=housing%20tenure&t=Housing%20Units&g=1400000US25025010206,25025010300,25025010403,25025010404,25025010405,25025010500,25025010600,25025010701,25025070502,25025070600,25025070700,25025070801,25025070802,25025070901,25025070902,25025071101,25025080100,25025080300,25025080401,25025080601,25025080801,25025081301,25025081302,25025081400,25025081500,25025081700,25025081800,25025081900,25025082000,25025082100,25025090300,25025090400,25025090600,25025091300,25025091400,25025120201,25025120301,25025980300&moe=false)
+More info can be found here: [link](https://data.census.gov/table/ACSDP5Y2022.DP04?q=housing%20tenure&t=Housing%20Units&g=1400000US25025010206,25025010300,25025010403,25025010404,25025010405,25025010500,25025010600,25025010701,25025070502,25025070600,25025070700,25025070801,25025070802,25025070901,25025070902,25025071101,25025080100,25025080300,25025080401,25025080601,25025080801,25025081301,25025081302,25025081400,25025081500,25025081700,25025081800,25025081900,25025082000,25025082100,25025090300,25025090400,25025090600,25025091300,25025091400,25025120201,25025120301,25025980300&moe=false)
 
 ### Property Assessment
 Gives property, or parcel, ownership together with value information, which ensures fair assessment of Boston taxable and non-taxable property of all types and classifications.
-More info can be found here: [link]([https://data.census.gov/table?q=demographics&g=050XX00US36103_160XX00US4159000](https://data.boston.gov/dataset/property-assessment)
+More info can be found here: [link](https://data.boston.gov/dataset/property-assessment)
 
 ### Income-Restricted Housing Inventory
 This data, maintained by the Mayor’s Office of Housing (MOH), is an inventory of all income-restricted units in the city. This data includes public housing owned by the Boston Housing Authority (BHA), privately- owned housing built with funding from DND and/or on land that was formerly City-owned, and privately-owned housing built without any City subsidy, e.g., created using Low-Income Housing Tax Credits (LIHTC) or as part of the Inclusionary Development Policy (IDP).
-More info can be found here: [link]([https://data.census.gov/table?q=demographics&g=050XX00US36103_160XX00US4159000](https://data.boston.gov/dataset/income-restricted-housing)
+More info can be found here: [link](https://data.census.gov/table?q=demographics&g=050XX00US36103_160XX00US4159000](https://data.boston.gov/dataset/income-restricted-housing)
 
 ### RentSmart
 RentSmart Boston compiles data from BOS:311 and the City's Inspectional Services Division to give prospective tenants a more complete picture of the homes and apartments they are considering renting, assisting them in understanding any previous issues with the property, including: housing violations, building violations, enforcement violations, housing complaints, sanitation requests, and/or civic maintenance requests.
-More info can be found here: [link]([https://data.census.gov/table?q=demographics&g=050XX00US36103_160XX00US4159000](https://data.boston.gov/dataset/rentsmart)
+More info can be found here: [link](https://data.census.gov/table?q=demographics&g=050XX00US36103_160XX00US4159000](https://data.boston.gov/dataset/rentsmart)
 
 ### Approved Building Permit
 Building permits help to establish compliance of construction work with the minimum standards of safety established by the State Building Code to ensure public health and safety for everyone. A building permit is required before beginning most construction, demolition, modification and repair work. The Inspectional Services Department offers permitting processes tailored for a wide variety of projects, from home repairs to building demolition.
-More info can be found here: [link]([https://data.census.gov/table?q=demographics&g=050XX00US36103_160XX00US4159000](https://data.boston.gov/dataset/approved-building-permits)
+More info can be found here: [link](https://data.census.gov/table?q=demographics&g=050XX00US36103_160XX00US4159000](https://data.boston.gov/dataset/approved-building-permits)
 
 These datasets enable a thorough and nuanced analysis of District 7's unique challenges and opportunities, particularly in the areas of housing, economic development, and community demographics.
 
