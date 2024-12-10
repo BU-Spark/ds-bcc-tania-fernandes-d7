@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ## Modules Overview
 <pre>
 `housing`
-
+   |
    |- `data`: contains the datasets and shapefiles used in this project
    |    |
    |    |- `Data folders`: datasets that are put into different files by the distributors are put in folders
