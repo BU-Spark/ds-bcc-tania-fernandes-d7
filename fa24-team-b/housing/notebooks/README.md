@@ -8,8 +8,9 @@ This folder contains Jupyter notebooks utilized for comprehensive data analysis.
 
 - **selected-housing-characteristics**: Contains a Boston vs. District 7 comparison for selecting housing characteristics like median rent.
 
--**  
+-**Demographic_Breakdown_Boston_City.ipynb**: Downloads, cleans and aggregates the demographic wise disaggregated information for Boston owned vs. rented housing units. Prepared a final file to upload to LookerStudio for visualizations.
 
+**Demographic_Breakdown_District_7.ipynb**: Downloads, cleans and aggregates the demographic wise disaggregated information for District 7 owned vs. rented housing units. Prepared a final file to upload to LookerStudio for visualizations.
 
 - **CensusData.ipynb**: This is the preliminary file that worked with the Census datasets. It contained some initial preprocessing of the datasets. d7-CensusData.ipynb is a more current version that contains preprocessing along with early analysis.
   
