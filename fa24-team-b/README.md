@@ -64,17 +64,11 @@ pip install -r requirements.txt
 ```
 
 ## Modules Overview
-The project early insights are located in a file titled d7-Team-B-Early-Insights.ipynb.
-
-The README.md file contains a high-level explanation of our project. 
-
-The housing folder contains sub-folders containing the data and the notebooks. 
-
-The **data/** folder contains sub-folders containing files pertaining to individual datasets if it contains more than one files (such as `census`, `household_pulse_surveys`, `income_restricted`, `property`) and individual files for datasets that can be aggregated into one file.
-
-The **notebooks/** folder contains our jupyter notebook notebooks. Each notebook is titled with a name that corresponds to the dataset it contains analysis for. For example, d7-CensusData corresponds to the files in the data/census folder.
-
-Each notebook may contains preprocessing, exploratory data analysis and some insights for the corresponding datasets. 
+`housing`
+   |- `data`: contains the datasets and shapefiles used in this project
+         |- `Data folders`: datasets that are put into different files by the distributors are put in folders
+         |- `Data files`: datasets that are contain in individual files
+   |- `notebooks`: jupyter notebooks for data cleaning, analysis, visualizations, and insights. Each dataset will have its own                     notebooks.
 
 ## Project Timeline
 
