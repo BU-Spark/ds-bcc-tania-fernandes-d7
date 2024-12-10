@@ -64,6 +64,7 @@ pip install -r requirements.txt
 ```
 
 ## Modules Overview
+<pre>
 `housing`
 
    |- `data`: contains the datasets and shapefiles used in this project
@@ -73,6 +74,7 @@ pip install -r requirements.txt
    |    |- `Data files`: datasets that are contain in individual files
    |
    |- `notebooks`: jupyter notebooks for data cleaning, analysis, visualizations, and insights. Each dataset will have its own                     notebooks.
+</pre>
 
 ## Project Timeline
 
