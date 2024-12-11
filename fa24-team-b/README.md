@@ -145,3 +145,13 @@ pip install -r requirements.txt
 
 - Analysis: Pandas, GeoPandas, Matplotlib.
 - Visualization: Google LookerStudio.
+
+## Challenges
+
+- Absence of a specific client or clear expectations, which made it difficult to tailor the analysis to meet stakeholder needs.
+- Ambiguous definition of District 7’s geographic boundaries complicate efforts to isolate data specific to this area. Many datasets lacked detailed spatial information, such as precise geolocation or neighborhood identifiers, reducing our ability to conduct in-depth geographic analysis, especially for Income-Restricted Housing dataset which does not contain street address or significant geographical information that can be used to look for coordinates. We overcomes this chalenge by using shapefiles, a file format commonly used for geographic information system data. By joining geographical columns such as coordinates with the City Council District shapefile, we can label each address as either in District 7 or otherwise. However, not all datasets contained coordinates that could be plotted against the shapefile. We joined these datasets with Boston’s Live Street Address Management dataset, which contains a growing list of known addresses in Boston, to obtain the necessary coordinates before joining the coordinates with the City Council District shapefile.
+- Creating a dashboard using Looker Studio posed limitations, as its data manipulation capabilities were insufficient for creating more advanced and interactive visualizations.
+
+## Recommendations for Next Steps
+
+To overcome challenges and enhance future analyses, several steps are recommended. First, clearly defining the scope of the project by engaging stakeholders early on will help align objectives and deliverables with their expectations. Additionally, sourcing more comprehensive datasets, particularly those with robust spatial and temporal information, will fill critical gaps in the analysis. Collaborating with local authorities or using GIS tools to clarify District 7’s geographic boundaries will also improve the precision of location-specific insights. To address visualization challenges, migrating to more advanced tools such as Tableau is strongly recommended. This would allow for the creation of a unified dashboard that explores key characteristics, such as median rent, racial and age group diversity, and the availability of income-restricted housing, while comparing District 7 metrics against Boston averages. Including markers for such comparisons will provide valuable context and insights for stakeholders. Finally, ensuring proper documentation of processes will improve reproducibility and serve as a foundation for future projects.
