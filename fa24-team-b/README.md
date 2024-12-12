@@ -54,7 +54,7 @@ More info can be found here: [link](https://data.boston.gov/dataset/approved-bui
 ### Boston SAM
 
 City of Boston’s Street Address Management (SAM) system containing Boston addresses and their coordinates.
-More info can be found here: [link](https://data.boston.gov/dataset/approved-building-permits)
+More info can be found here: [link](https://data.boston.gov/dataset/live-street-address-management-sam-addresses)
 
 ### 2020 Census Tract in Boston
 

@@ -6,7 +6,7 @@ This folder contains Jupyter notebooks utilized for comprehensive data analysis.
 
 - **approved-building-permit-cleaning.ipynb**: Use address fields, such as street number, street name, street suffixes, and other measures to join
   the Boston SAM dataset to produce coordinates that can be used to plot against a shapefile for determining whether an approved permit is for a property
-  in District 7. This file export a ready-to-use dataset called `approved-building-permit-new.csv` to the `data` folder.
+  in District 7. This file export a ready-to-use dataset called `approved-building-permit-cleaned.csv` to the `data` folder.
 
 - **approved-building-permits.ipynb**: Analyzes building permits data, including data cleaning, preprocessing, exploratory data analysis, and the trends of permit work types and occupancy types.
 
