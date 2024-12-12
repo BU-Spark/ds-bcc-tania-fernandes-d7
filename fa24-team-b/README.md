@@ -1,1 +1,95 @@
-Add new project description here
+### **Councilor Anderson: District 7**
+
+![image](https://github.com/user-attachments/assets/d8a4d7fb-f9ae-4599-b70d-f63d7177de4f)
+
+This project focuses on analyzing the status of District 7 (D7) residents in Boston, comparing them to the rest of the city, with an emphasis on housing. Our analysis will help Councilor [Tania Anderson](https://www.boston.gov/departments/city-council/tania-fernandes-anderson) shape the "District 7 Action Plan," a data-driven initiative to address economic and social challenges in the district, particularly around the housing crisis.
+
+### Key Features
+
+- Tabular Data Analysis: Employs tabular data to obtain insights from trends in the data
+- Time-Series Analysis: Shows changes over time to identify long-term patterns and shifts
+- Housing Market Assessment: Evaluates affordability, availability, and displacement pressures
+
+Our aim is to assist Councilor Anderson in her efforts to address economic and social challenges, particularly housing issues, contributing to better housing outcomes for District 7 residents.
+
+### Datasets Used
+
+The project primarily utilizes data from two main sources:
+
+- Analyze Boston / United States Census Bureau: A comprehensive open data hub for the City of Boston, providing a wide range of municipal datasets. [Analyze Boston Data Portal](https://data.boston.gov/)
+- District 7 Private Data: Private data provided by District 7 officials, offering deeper insights into local issues and trends
+
+These datasets enable a thorough and nuanced analysis of District 7's unique challenges and opportunities, particularly in the areas of housing, economic development, and community demographics.
+
+## Quick Start
+
+### Requirements
+
+We recommend setting up a virtual environment with all the necessary packages. Run the following command in the terminal:
+
+```
+# Create and activate a virtual environment.
+python3 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+
+# Install all required dependencies
+pip install -r requirements.txt
+```
+
+## Modules Overview
+The project early insights are located in a file titled d7-Team-B-Early-Insights.ipynb.
+
+The README.md file contains a high-level explanation of our project. 
+
+The housing folder contains sub-folders containing the data and the notebooks. 
+
+The **data/** folder contains sub-folders containing each of the separate datasets (census, household_pulse_surveys, income_restricted, property, rent_smart, along with a zip file for approved building permits). The sub-folders then contain multiple files that segregate the respective data into year-wise information.
+
+The **notebooks/** folder contains our ipynb notebooks. Each notebook is titled with a name that corresponds to the dataset it contains analysis for. For example, d7-CensusData corresponds to the files in the data/census folder.
+
+Each notebook contains preprocessing, exploratory data analysis and some insights for the corresponding datasets. 
+
+## Project Timeline
+
+### Key Steps and Deliverables:
+
+1. **Define District Boundaries:**
+
+   - Establish D7 boundaries using a shape file and map census tracts/block groups to D7. This will involve calculating the percentage of each census block group or tract that falls within D7.
+
+2. **Initial Data Collection and Indicator Selection:**
+
+   - Choose key indicators for housing, focusing on home values, rent burden, evictions, and new housing permits.
+
+3. **Prototype and Initial Analysis:**
+
+   - Create a subset of data for 1–2 indicators (such as median household income) to present as a prototype to the Councilor. Get feedback on the presentation format and indicators.
+
+4. **Iterative Analysis and Client Feedback:**
+
+   - Present findings periodically, adjusting based on client feedback. Focus on highlighting trends over time (ideally the last 10 years) and comparisons between D7 and Boston.
+
+5. **Final Deliverable:**
+   - A dashboard showing current and historical data across various indicators, with a focus on housing, and other challenges facing D7 residents.
+   - Explanation of each indicator and its historical trends.
+   - Documentation of all steps in data collection and analysis for reproducibility.
+
+### Tools and Platforms:
+
+- Preferred tools for dashboard creation in Google LookerStudio.
+
+### Data Sources:
+
+- Census data for population, housing, and economic indicators.
+- City datasets for housing interventions.
+
+### Project Goals:
+
+The primary objective is to generate actionable insights for Councilor Anderson and her Policy Director to drive impactful policies for D7. This includes understanding which residents are experiencing improvements in their quality of life, what specific areas are improving, and how these trends compare to other Boston districts and the city as a whole.
+
+### Timeline:
+
+- Mid-October (10/18): Preliminary analysis and client feedback.
+- Early November: Iterative reviews with the Councilor.
+- December 11: Final presentations.
