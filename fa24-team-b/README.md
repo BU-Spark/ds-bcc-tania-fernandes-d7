@@ -8,7 +8,7 @@ The primary objective is to generate actionable insights for District 7 to drive
 
 ## Goal
 
-This project focuses on analyzing the the housing performance in District 7 (D7) compared to rest of the city. Our analysis will help the district shape the "District 7 Action Plan," a data-driven initiative to address economic and social challenges in the district.
+This project focuses on analyzing the the housing performance in District 7 (D7) compared to rest of the city. Our analysis will help the district shape the "District 7 Action Plan," a data-driven initiative to address economic and social challenges in the district. We create a [dashboard](https://lookerstudio.google.com/reporting/1fefe4a1-f7a0-4ab0-9db7-daeedfe1f57a) for this project.
 
 ## Key Features
 
