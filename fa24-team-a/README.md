@@ -2,7 +2,7 @@
 
 ## **About the Project**  
 
-Our project, in collaboration with D7 office, focuses on analyzing population and economic development data for District 7 in Boston. The primary aim is to identify trends and disparities, particularly among marginalized groups, and to assist in data-driven decision-making.  
+Our project, in collaboration with Boston Councilor's Office, focuses on analyzing population and economic development data for District 7 in Boston. The primary aim is to identify trends and disparities, particularly among marginalized groups, and to assist in data-driven decision-making.  
 
 ### **Scope of the Analysis**  
 Our analysis centers around two key areas:  
@@ -70,6 +70,6 @@ The dashboard is based on the processed datasets available in the repository and
 ## **Usage and Collaboration**  
 
 - All data and resources in this repository adhere to public data-sharing protocols, ensuring compliance with privacy and ethical standards.  
-- We welcome feedback from Councilor Anderson and stakeholders to refine and expand the analyses as needed.  
+- We welcome feedback from Boston Councilor's Office and stakeholders to refine and expand the analyses as needed.  
 
 Let us know if you have additional suggestions for improvement or require access to specific files.  
