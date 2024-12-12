@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_a3d24a2e6e764df6f456b9655e4ca1b5 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_a3d24a2e6e764df6f456b9655e4ca1b5" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_a3d24a2e6e764df6f456b9655e4ca1b5 = L.map(
+                "map_a3d24a2e6e764df6f456b9655e4ca1b5",
+                {
+                    center: [42.3601, -71.0589],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_cba78ad46c44069ebe739ab2c7faf65d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_cba78ad46c44069ebe739ab2c7faf65d.addTo(map_a3d24a2e6e764df6f456b9655e4ca1b5);
+        
+    
+            var marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e = L.markerClusterGroup(
+                {}
+            );
+        
+    
+            var marker_92c9bb5beb8355a23c66a94f50ed15ca = L.marker(
+                [42.28869441, -71.13442754],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_7db82bb48a90191dec83e9b6fe37f6ba = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_92c9bb5beb8355a23c66a94f50ed15ca.setIcon(icon_7db82bb48a90191dec83e9b6fe37f6ba);
+        
+    
+        var popup_438ab251ad7d52756471591ae73dfc76 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e422ca19bfc617b2d5e9c3bcd824c0cd = $(`<div id="html_e422ca19bfc617b2d5e9c3bcd824c0cd" style="width: 100.0%; height: 100.0%;">Business: Fairway Botanicals, LLC<br>License: CAN525192<br>Status: Active</div>`)[0];
+                popup_438ab251ad7d52756471591ae73dfc76.setContent(html_e422ca19bfc617b2d5e9c3bcd824c0cd);
+            
+        
+
+        marker_92c9bb5beb8355a23c66a94f50ed15ca.bindPopup(popup_438ab251ad7d52756471591ae73dfc76)
+        ;
+
+        
+    
+    
+            var marker_a149a5f90018cf8320e552d658e5025c = L.marker(
+                [42.28315564, -71.1140804],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_676d00408feb6c8fd14f81add0f0debc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a149a5f90018cf8320e552d658e5025c.setIcon(icon_676d00408feb6c8fd14f81add0f0debc);
+        
+    
+        var popup_2bc776c7255416609ddba6fb95915b2b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f507edc0c3c3989ff451ea99ac61f371 = $(`<div id="html_f507edc0c3c3989ff451ea99ac61f371" style="width: 100.0%; height: 100.0%;">Business: Silver Therapeutics Inc.<br>License: CAN526499<br>Status: Active</div>`)[0];
+                popup_2bc776c7255416609ddba6fb95915b2b.setContent(html_f507edc0c3c3989ff451ea99ac61f371);
+            
+        
+
+        marker_a149a5f90018cf8320e552d658e5025c.bindPopup(popup_2bc776c7255416609ddba6fb95915b2b)
+        ;
+
+        
+    
+    
+            var marker_b623728942e63df38f82341c3131f976 = L.marker(
+                [42.33114821, -71.06560311],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_eb809c8b54b30d8dbbbbe82296f97923 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_b623728942e63df38f82341c3131f976.setIcon(icon_eb809c8b54b30d8dbbbbe82296f97923);
+        
+    
+        var popup_ff9f7cf701fcfa5107bc3ce788fce3e1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f10d676c7ee0279f8147e8510bd53c26 = $(`<div id="html_f10d676c7ee0279f8147e8510bd53c26" style="width: 100.0%; height: 100.0%;">Business: Green Flash Delivery, LLC <br>License: CAN525112<br>Status: Active</div>`)[0];
+                popup_ff9f7cf701fcfa5107bc3ce788fce3e1.setContent(html_f10d676c7ee0279f8147e8510bd53c26);
+            
+        
+
+        marker_b623728942e63df38f82341c3131f976.bindPopup(popup_ff9f7cf701fcfa5107bc3ce788fce3e1)
+        ;
+
+        
+    
+    
+            var marker_3dfce222f6f13b8effad3ba4de430a19 = L.marker(
+                [42.35076562, -71.05647813],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_1374d00293e2e24476d930480bf1d577 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3dfce222f6f13b8effad3ba4de430a19.setIcon(icon_1374d00293e2e24476d930480bf1d577);
+        
+    
+        var popup_208ffabcd8b48ebfd1b71bc7ab6b9dfd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ab9fb83da518b8eb4574d68df51b8300 = $(`<div id="html_ab9fb83da518b8eb4574d68df51b8300" style="width: 100.0%; height: 100.0%;">Business: Stone's Throw Cannabis, LLC<br>License: CAN525067<br>Status: Active</div>`)[0];
+                popup_208ffabcd8b48ebfd1b71bc7ab6b9dfd.setContent(html_ab9fb83da518b8eb4574d68df51b8300);
+            
+        
+
+        marker_3dfce222f6f13b8effad3ba4de430a19.bindPopup(popup_208ffabcd8b48ebfd1b71bc7ab6b9dfd)
+        ;
+
+        
+    
+    
+            var marker_35e28474ed858503f049405e836e3d36 = L.marker(
+                [42.27672375, -71.09368361],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_1f708b43ed7c91620cf671cad482cfae = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_35e28474ed858503f049405e836e3d36.setIcon(icon_1f708b43ed7c91620cf671cad482cfae);
+        
+    
+        var popup_9e211e5680cdc4a722c9ac9c4d2a14d0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_54e0167f288027d03b90db8682d4cdf1 = $(`<div id="html_54e0167f288027d03b90db8682d4cdf1" style="width: 100.0%; height: 100.0%;">Business: Underground Legacy Social Club, LLC<br>License: CAN525016<br>Status: Active</div>`)[0];
+                popup_9e211e5680cdc4a722c9ac9c4d2a14d0.setContent(html_54e0167f288027d03b90db8682d4cdf1);
+            
+        
+
+        marker_35e28474ed858503f049405e836e3d36.bindPopup(popup_9e211e5680cdc4a722c9ac9c4d2a14d0)
+        ;
+
+        
+    
+    
+            var marker_3575bf7ea699a2221c73b36278756d4c = L.marker(
+                [42.35767677, -71.12746534],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_c57a29e404efd63946ccc7d4e3419e0f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3575bf7ea699a2221c73b36278756d4c.setIcon(icon_c57a29e404efd63946ccc7d4e3419e0f);
+        
+    
+        var popup_2bd5927815ad322b7bef5d6ae82a7a8e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_32054fa55247fa4817a5c6cfa3b3faff = $(`<div id="html_32054fa55247fa4817a5c6cfa3b3faff" style="width: 100.0%; height: 100.0%;">Business: Union Twist, Inc.<br>License: CAN525237<br>Status: Active</div>`)[0];
+                popup_2bd5927815ad322b7bef5d6ae82a7a8e.setContent(html_32054fa55247fa4817a5c6cfa3b3faff);
+            
+        
+
+        marker_3575bf7ea699a2221c73b36278756d4c.bindPopup(popup_2bd5927815ad322b7bef5d6ae82a7a8e)
+        ;
+
+        
+    
+    
+            var marker_f83759d170221df5bb55b63b322d1ed6 = L.marker(
+                [42.33751088, -71.06797591],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_338e29bf8642ab813fca068621c12c09 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f83759d170221df5bb55b63b322d1ed6.setIcon(icon_338e29bf8642ab813fca068621c12c09);
+        
+    
+        var popup_7d8bef294758ab159efb8824f4015663 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_61a76c1dd4e2763b3fdf908021e45c8e = $(`<div id="html_61a76c1dd4e2763b3fdf908021e45c8e" style="width: 100.0%; height: 100.0%;">Business: Community Growth Partners Boston, LLC<br>License: CAN523284<br>Status: Active</div>`)[0];
+                popup_7d8bef294758ab159efb8824f4015663.setContent(html_61a76c1dd4e2763b3fdf908021e45c8e);
+            
+        
+
+        marker_f83759d170221df5bb55b63b322d1ed6.bindPopup(popup_7d8bef294758ab159efb8824f4015663)
+        ;
+
+        
+    
+    
+            var marker_34b45d9032a8361fefd11e0d76a2045c = L.marker(
+                [42.33788068, -71.03758696],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_3daaad8740a0327749892ecdcc0649d1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_34b45d9032a8361fefd11e0d76a2045c.setIcon(icon_3daaad8740a0327749892ecdcc0649d1);
+        
+    
+        var popup_c8627a57e7a32cf272daff9605882c34 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a17429183b705537b469ac1fc5b2aa0b = $(`<div id="html_a17429183b705537b469ac1fc5b2aa0b" style="width: 100.0%; height: 100.0%;">Business: Holland Brands SB, LLC<br>License: CAN526294<br>Status: Active</div>`)[0];
+                popup_c8627a57e7a32cf272daff9605882c34.setContent(html_a17429183b705537b469ac1fc5b2aa0b);
+            
+        
+
+        marker_34b45d9032a8361fefd11e0d76a2045c.bindPopup(popup_c8627a57e7a32cf272daff9605882c34)
+        ;
+
+        
+    
+    
+            var marker_453d56ce0bcaa2d45e81c5101d2e27c1 = L.marker(
+                [42.29174495, -71.07179235],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_54101a0d169a025a55cb42687ba4b4d0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_453d56ce0bcaa2d45e81c5101d2e27c1.setIcon(icon_54101a0d169a025a55cb42687ba4b4d0);
+        
+    
+        var popup_fc00542b1ee6d68a94015468b4b76d20 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ba2e779c048870b5baf00cbc96aa2c46 = $(`<div id="html_ba2e779c048870b5baf00cbc96aa2c46" style="width: 100.0%; height: 100.0%;">Business: Low Key, LLC<br>License: CAN526385<br>Status: Active</div>`)[0];
+                popup_fc00542b1ee6d68a94015468b4b76d20.setContent(html_ba2e779c048870b5baf00cbc96aa2c46);
+            
+        
+
+        marker_453d56ce0bcaa2d45e81c5101d2e27c1.bindPopup(popup_fc00542b1ee6d68a94015468b4b76d20)
+        ;
+
+        
+    
+    
+            var marker_835561f216237436e1767bf0b8488dfa = L.marker(
+                [42.32117231, -71.07225556],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_8cb6ee11ea7622f55489c23c43248c8b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_835561f216237436e1767bf0b8488dfa.setIcon(icon_8cb6ee11ea7622f55489c23c43248c8b);
+        
+    
+        var popup_018b30139666cd8536faf3e99b2bc3d9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cffade3377a4f7e15c7219702da7ad23 = $(`<div id="html_cffade3377a4f7e15c7219702da7ad23" style="width: 100.0%; height: 100.0%;">Business: MCSE LLC<br>License: CAN526451<br>Status: Active</div>`)[0];
+                popup_018b30139666cd8536faf3e99b2bc3d9.setContent(html_cffade3377a4f7e15c7219702da7ad23);
+            
+        
+
+        marker_835561f216237436e1767bf0b8488dfa.bindPopup(popup_018b30139666cd8536faf3e99b2bc3d9)
+        ;
+
+        
+    
+    
+            var marker_e5300c8ddc694ba176a32d0af178330c = L.marker(
+                [42.30382915, -71.07081153],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_e2c540a6249b00ff127291eccd6dba2a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e5300c8ddc694ba176a32d0af178330c.setIcon(icon_e2c540a6249b00ff127291eccd6dba2a);
+        
+    
+        var popup_5bb958b579b4859c9f9c94f9bd07629b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_20938af91141b36687b5de18725ccdfe = $(`<div id="html_20938af91141b36687b5de18725ccdfe" style="width: 100.0%; height: 100.0%;">Business: 617 Therapeutic Health Care Inc.<br>License: CAN525225<br>Status: Active</div>`)[0];
+                popup_5bb958b579b4859c9f9c94f9bd07629b.setContent(html_20938af91141b36687b5de18725ccdfe);
+            
+        
+
+        marker_e5300c8ddc694ba176a32d0af178330c.bindPopup(popup_5bb958b579b4859c9f9c94f9bd07629b)
+        ;
+
+        
+    
+    
+            var marker_ee1ce3b84aad83d80c59ec646e0438de = L.marker(
+                [42.36921702, -71.03957208],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_fcc8e010a0f037f8ea67fdc9dcf8f9ee = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_ee1ce3b84aad83d80c59ec646e0438de.setIcon(icon_fcc8e010a0f037f8ea67fdc9dcf8f9ee);
+        
+    
+        var popup_22f91cd294336089acef08df40cfaf57 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_05dec8c7f69d649f0e4b63997bc4e908 = $(`<div id="html_05dec8c7f69d649f0e4b63997bc4e908" style="width: 100.0%; height: 100.0%;">Business: East Boston Bloom, LLC <br>License: CAN526494<br>Status: Active</div>`)[0];
+                popup_22f91cd294336089acef08df40cfaf57.setContent(html_05dec8c7f69d649f0e4b63997bc4e908);
+            
+        
+
+        marker_ee1ce3b84aad83d80c59ec646e0438de.bindPopup(popup_22f91cd294336089acef08df40cfaf57)
+        ;
+
+        
+    
+    
+            var marker_4807a7b731f5e46416d426faf0cfe719 = L.marker(
+                [42.34718379, -71.09846502],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_e8f06318e036c648983929059db1458f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4807a7b731f5e46416d426faf0cfe719.setIcon(icon_e8f06318e036c648983929059db1458f);
+        
+    
+        var popup_6dbb08262b98b1bb3dc801c09ab48b51 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6bb14bff5bbb46a4ae3b0336a2f4b30f = $(`<div id="html_6bb14bff5bbb46a4ae3b0336a2f4b30f" style="width: 100.0%; height: 100.0%;">Business: New Dia Fenway, LLC<br>License: CAN526260<br>Status: Active</div>`)[0];
+                popup_6dbb08262b98b1bb3dc801c09ab48b51.setContent(html_6bb14bff5bbb46a4ae3b0336a2f4b30f);
+            
+        
+
+        marker_4807a7b731f5e46416d426faf0cfe719.bindPopup(popup_6dbb08262b98b1bb3dc801c09ab48b51)
+        ;
+
+        
+    
+    
+            var marker_4710f3b7012e2ef2cdc07cc9ca84ace3 = L.marker(
+                [42.35665283, -71.05212155],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_047ce5c2f8a3a5171daea440c6f85bd7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4710f3b7012e2ef2cdc07cc9ca84ace3.setIcon(icon_047ce5c2f8a3a5171daea440c6f85bd7);
+        
+    
+        var popup_39b29583d1d8ac2b9d999ce0ddc6e8d4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c7d4c1c56501640997fa34cde6a50f53 = $(`<div id="html_c7d4c1c56501640997fa34cde6a50f53" style="width: 100.0%; height: 100.0%;">Business: High Street Cannabis Group LLC<br>License: CAN525004<br>Status: Active</div>`)[0];
+                popup_39b29583d1d8ac2b9d999ce0ddc6e8d4.setContent(html_c7d4c1c56501640997fa34cde6a50f53);
+            
+        
+
+        marker_4710f3b7012e2ef2cdc07cc9ca84ace3.bindPopup(popup_39b29583d1d8ac2b9d999ce0ddc6e8d4)
+        ;
+
+        
+    
+    
+            var marker_a307238a1758e80b53291d39dc1ce9c3 = L.marker(
+                [42.35772828, -71.05738141],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_caa4f4def53ae881d43e1e3c83b12f75 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a307238a1758e80b53291d39dc1ce9c3.setIcon(icon_caa4f4def53ae881d43e1e3c83b12f75);
+        
+    
+        var popup_7f7504630f76789ed41aa7957da08e8e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6b7460422a7b91e40683b94d8611746c = $(`<div id="html_6b7460422a7b91e40683b94d8611746c" style="width: 100.0%; height: 100.0%;">Business: Pure Oasis, LLC<br>License: CAN526072<br>Status: Active</div>`)[0];
+                popup_7f7504630f76789ed41aa7957da08e8e.setContent(html_6b7460422a7b91e40683b94d8611746c);
+            
+        
+
+        marker_a307238a1758e80b53291d39dc1ce9c3.bindPopup(popup_7f7504630f76789ed41aa7957da08e8e)
+        ;
+
+        
+    
+    
+            var marker_b66fc1a7914615e794c47eb21c1c8384 = L.marker(
+                [42.34872009, -71.08610166],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_33c6ae71bb47f4350856fbc42b6a8dcf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_b66fc1a7914615e794c47eb21c1c8384.setIcon(icon_33c6ae71bb47f4350856fbc42b6a8dcf);
+        
+    
+        var popup_a0077b6dd47c84d97a07be9260f64953 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2a95d29541022c50ce23580bce4f748e = $(`<div id="html_2a95d29541022c50ce23580bce4f748e" style="width: 100.0%; height: 100.0%;">Business: Rooted In, LLC <br>License: CAN526050<br>Status: Active</div>`)[0];
+                popup_a0077b6dd47c84d97a07be9260f64953.setContent(html_2a95d29541022c50ce23580bce4f748e);
+            
+        
+
+        marker_b66fc1a7914615e794c47eb21c1c8384.bindPopup(popup_a0077b6dd47c84d97a07be9260f64953)
+        ;
+
+        
+    
+    
+            var marker_14c086f28777d6bd52945b41b7f9323f = L.marker(
+                [42.26850975, -71.1714581],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_397e1089e25aa75a71c46aaa89fac861 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_14c086f28777d6bd52945b41b7f9323f.setIcon(icon_397e1089e25aa75a71c46aaa89fac861);
+        
+    
+        var popup_8d109b53c76a4de9887164a12d0aff29 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ed35527574903bb6d3fdcc7456b8e2ea = $(`<div id="html_ed35527574903bb6d3fdcc7456b8e2ea" style="width: 100.0%; height: 100.0%;">Business: Beacon Compassion, Inc.<br>License: CAN526055<br>Status: Active</div>`)[0];
+                popup_8d109b53c76a4de9887164a12d0aff29.setContent(html_ed35527574903bb6d3fdcc7456b8e2ea);
+            
+        
+
+        marker_14c086f28777d6bd52945b41b7f9323f.bindPopup(popup_8d109b53c76a4de9887164a12d0aff29)
+        ;
+
+        
+    
+    
+            var marker_8c5e0ab1d67cf1b3a3ab9d0d6fb55e0e = L.marker(
+                [42.28942678, -71.04440202],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_bd9dd58c1c3ab8fede0cc80ccaf72428 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_8c5e0ab1d67cf1b3a3ab9d0d6fb55e0e.setIcon(icon_bd9dd58c1c3ab8fede0cc80ccaf72428);
+        
+    
+        var popup_1bab634ce4213b99e4feea989c6f3ad0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0c8ffc48c098933a2d600c20151ae089 = $(`<div id="html_0c8ffc48c098933a2d600c20151ae089" style="width: 100.0%; height: 100.0%;">Business: Zip Run, Inc.<br>License: CAN526063<br>Status: Active</div>`)[0];
+                popup_1bab634ce4213b99e4feea989c6f3ad0.setContent(html_0c8ffc48c098933a2d600c20151ae089);
+            
+        
+
+        marker_8c5e0ab1d67cf1b3a3ab9d0d6fb55e0e.bindPopup(popup_1bab634ce4213b99e4feea989c6f3ad0)
+        ;
+
+        
+    
+    
+            var marker_a0bc4f317a277e6d77e10528a25f7583 = L.marker(
+                [42.38687817, -71.00646195],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_4a58f335b1b742d28657d377a9f9d19d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a0bc4f317a277e6d77e10528a25f7583.setIcon(icon_4a58f335b1b742d28657d377a9f9d19d);
+        
+    
+        var popup_08771ccde4c77c1674b922ca63a9eb4a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6be619468bb293baec43e5b2d7f40e3a = $(`<div id="html_6be619468bb293baec43e5b2d7f40e3a" style="width: 100.0%; height: 100.0%;">Business: East Boston Local Roots<br>License: CAN526066<br>Status: Active</div>`)[0];
+                popup_08771ccde4c77c1674b922ca63a9eb4a.setContent(html_6be619468bb293baec43e5b2d7f40e3a);
+            
+        
+
+        marker_a0bc4f317a277e6d77e10528a25f7583.bindPopup(popup_08771ccde4c77c1674b922ca63a9eb4a)
+        ;
+
+        
+    
+    
+            var marker_a77326b2a6e2a85d16520b1dbac2f3a6 = L.marker(
+                [42.35934305, -71.05411634],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_5a28c1e48b033fc3c6c5c62d34ec3459 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a77326b2a6e2a85d16520b1dbac2f3a6.setIcon(icon_5a28c1e48b033fc3c6c5c62d34ec3459);
+        
+    
+        var popup_85a4fb5f4ed8418ee389b2693f097a39 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bf6f119a5754f21b8570cd8114d81437 = $(`<div id="html_bf6f119a5754f21b8570cd8114d81437" style="width: 100.0%; height: 100.0%;">Business: Verdant Reparative, Inc<br>License: CAN525623<br>Status: Active</div>`)[0];
+                popup_85a4fb5f4ed8418ee389b2693f097a39.setContent(html_bf6f119a5754f21b8570cd8114d81437);
+            
+        
+
+        marker_a77326b2a6e2a85d16520b1dbac2f3a6.bindPopup(popup_85a4fb5f4ed8418ee389b2693f097a39)
+        ;
+
+        
+    
+    
+            var marker_032c5b71b1ce104f9f59badff888873d = L.marker(
+                [42.34879182, -71.08242815],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_92ecdbd10e84788ddd915138433d9f73 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_032c5b71b1ce104f9f59badff888873d.setIcon(icon_92ecdbd10e84788ddd915138433d9f73);
+        
+    
+        var popup_a61f93fb4898fdc71694479dabd7cce6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_85f983caf882b26b99ea307faa932615 = $(`<div id="html_85f983caf882b26b99ea307faa932615" style="width: 100.0%; height: 100.0%;">Business: Sira Naturals, Inc.<br>License: CAN524719<br>Status: Active</div>`)[0];
+                popup_a61f93fb4898fdc71694479dabd7cce6.setContent(html_85f983caf882b26b99ea307faa932615);
+            
+        
+
+        marker_032c5b71b1ce104f9f59badff888873d.bindPopup(popup_a61f93fb4898fdc71694479dabd7cce6)
+        ;
+
+        
+    
+    
+            var marker_10d1810704cd6e5d66b3c69fe07d9561 = L.marker(
+                [42.30669546, -71.05767233],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_d108846232de623aa1bcbad617b2ac5a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_10d1810704cd6e5d66b3c69fe07d9561.setIcon(icon_d108846232de623aa1bcbad617b2ac5a);
+        
+    
+        var popup_5864d21ff906067147777d79d931fdc8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4f520ed87a52e91e3066d2d3944549d4 = $(`<div id="html_4f520ed87a52e91e3066d2d3944549d4" style="width: 100.0%; height: 100.0%;">Business: Erba C3 Dorchester LLC<br>License: CAN524717<br>Status: Active</div>`)[0];
+                popup_5864d21ff906067147777d79d931fdc8.setContent(html_4f520ed87a52e91e3066d2d3944549d4);
+            
+        
+
+        marker_10d1810704cd6e5d66b3c69fe07d9561.bindPopup(popup_5864d21ff906067147777d79d931fdc8)
+        ;
+
+        
+    
+    
+            var marker_80dbb74332d636139a8c217fd14a4f34 = L.marker(
+                [42.29288457, -71.12137355],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_893225d4843e8e408346794f087a4c4b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_80dbb74332d636139a8c217fd14a4f34.setIcon(icon_893225d4843e8e408346794f087a4c4b);
+        
+    
+        var popup_63263030ebdf351a5bbe88836db7d491 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3b91811e9929fb70c3a21c24129bcf3d = $(`<div id="html_3b91811e9929fb70c3a21c24129bcf3d" style="width: 100.0%; height: 100.0%;">Business: Massachusetts Citizens for Social Equity, LLC.<br>License: CAN524751<br>Status: Active</div>`)[0];
+                popup_63263030ebdf351a5bbe88836db7d491.setContent(html_3b91811e9929fb70c3a21c24129bcf3d);
+            
+        
+
+        marker_80dbb74332d636139a8c217fd14a4f34.bindPopup(popup_63263030ebdf351a5bbe88836db7d491)
+        ;
+
+        
+    
+    
+            var marker_ca3f1951c233dd8203e840c4b7156ec6 = L.marker(
+                [42.38228368, -71.07915317],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_73042aa005e42fc6edfbcc98b00a2ac6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_ca3f1951c233dd8203e840c4b7156ec6.setIcon(icon_73042aa005e42fc6edfbcc98b00a2ac6);
+        
+    
+        var popup_9fb686fd57e8f05e2f6470c782fde9dc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_15e40d8e1f22e4c2f3e9f40ae3c1e6c9 = $(`<div id="html_15e40d8e1f22e4c2f3e9f40ae3c1e6c9" style="width: 100.0%; height: 100.0%;">Business: The Heritage Club, LLC<br>License: CAN524749<br>Status: Active</div>`)[0];
+                popup_9fb686fd57e8f05e2f6470c782fde9dc.setContent(html_15e40d8e1f22e4c2f3e9f40ae3c1e6c9);
+            
+        
+
+        marker_ca3f1951c233dd8203e840c4b7156ec6.bindPopup(popup_9fb686fd57e8f05e2f6470c782fde9dc)
+        ;
+
+        
+    
+    
+            var marker_23a0b324d278c60168c7976641386895 = L.marker(
+                [42.34920259, -71.12992572],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_3ebb98f29ef02c21a07610906d73d5bf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_23a0b324d278c60168c7976641386895.setIcon(icon_3ebb98f29ef02c21a07610906d73d5bf);
+        
+    
+        var popup_4e63702d555b4ca536eb8b63eb6e07d8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c87f7c40959456b3a25a5faef76ef28e = $(`<div id="html_c87f7c40959456b3a25a5faef76ef28e" style="width: 100.0%; height: 100.0%;">Business: Mayflower Medicinals, Inc.<br>License: CAN524747<br>Status: Active</div>`)[0];
+                popup_4e63702d555b4ca536eb8b63eb6e07d8.setContent(html_c87f7c40959456b3a25a5faef76ef28e);
+            
+        
+
+        marker_23a0b324d278c60168c7976641386895.bindPopup(popup_4e63702d555b4ca536eb8b63eb6e07d8)
+        ;
+
+        
+    
+    
+            var marker_79bb796a201cd310c83df8d829fc0783 = L.marker(
+                [42.29861046, -71.11433061],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_f5a8c68b4eb7798a2196c6bc1a10ec39 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_79bb796a201cd310c83df8d829fc0783.setIcon(icon_f5a8c68b4eb7798a2196c6bc1a10ec39);
+        
+    
+        var popup_f75aeff5f56f03f21c1c1fa41da3a13e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5c833dc776232b5ca420f7227c146c30 = $(`<div id="html_5c833dc776232b5ca420f7227c146c30" style="width: 100.0%; height: 100.0%;">Business: Apothca Inc. <br>License: CAN524715<br>Status: Active</div>`)[0];
+                popup_f75aeff5f56f03f21c1c1fa41da3a13e.setContent(html_5c833dc776232b5ca420f7227c146c30);
+            
+        
+
+        marker_79bb796a201cd310c83df8d829fc0783.bindPopup(popup_f75aeff5f56f03f21c1c1fa41da3a13e)
+        ;
+
+        
+    
+    
+            var marker_41e667f9769156500a50d34cab7a2e40 = L.marker(
+                [42.38680132, -71.01891852],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_64837c96cb47424a3b6320af11ac0fc7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_41e667f9769156500a50d34cab7a2e40.setIcon(icon_64837c96cb47424a3b6320af11ac0fc7);
+        
+    
+        var popup_c8ea992bcc5cd2d14844bbcf765760f3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9b16faa8294c9796999ea608c0f138b0 = $(`<div id="html_9b16faa8294c9796999ea608c0f138b0" style="width: 100.0%; height: 100.0%;">Business: HVV Massachusetts, Inc.<br>License: CAN524648<br>Status: Active</div>`)[0];
+                popup_c8ea992bcc5cd2d14844bbcf765760f3.setContent(html_9b16faa8294c9796999ea608c0f138b0);
+            
+        
+
+        marker_41e667f9769156500a50d34cab7a2e40.bindPopup(popup_c8ea992bcc5cd2d14844bbcf765760f3)
+        ;
+
+        
+    
+    
+            var marker_3e3865fbd490def2720f6c3085c77ec2 = L.marker(
+                [42.30978454, -71.08231618],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_e162029d291ff55d02423a49b65fc8cf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3e3865fbd490def2720f6c3085c77ec2.setIcon(icon_e162029d291ff55d02423a49b65fc8cf);
+        
+    
+        var popup_1de8267f4cd5291e7ed4874f7fccf49b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9970c6eadc7e27701be7a9e6815d04be = $(`<div id="html_9970c6eadc7e27701be7a9e6815d04be" style="width: 100.0%; height: 100.0%;">Business: Pure Oasis, LLC<br>License: CAN524588<br>Status: Active</div>`)[0];
+                popup_1de8267f4cd5291e7ed4874f7fccf49b.setContent(html_9970c6eadc7e27701be7a9e6815d04be);
+            
+        
+
+        marker_3e3865fbd490def2720f6c3085c77ec2.bindPopup(popup_1de8267f4cd5291e7ed4874f7fccf49b)
+        ;
+
+        
+    
+    
+            var marker_f4e9fa8ff3151cecf3cf111d38de1378 = L.marker(
+                [42.32180496, -71.11013091],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_0e3a0e24ddc52bb0a24aec887110b585 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f4e9fa8ff3151cecf3cf111d38de1378.setIcon(icon_0e3a0e24ddc52bb0a24aec887110b585);
+        
+    
+        var popup_72225da910aaf505adfad3dd229e3643 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c701017892560fba8c91cb8f22e7a030 = $(`<div id="html_c701017892560fba8c91cb8f22e7a030" style="width: 100.0%; height: 100.0%;">Business: Core Empowerment LLC <br>License: CAN524615<br>Status: Active</div>`)[0];
+                popup_72225da910aaf505adfad3dd229e3643.setContent(html_c701017892560fba8c91cb8f22e7a030);
+            
+        
+
+        marker_f4e9fa8ff3151cecf3cf111d38de1378.bindPopup(popup_72225da910aaf505adfad3dd229e3643)
+        ;
+
+        
+    
+    
+            var marker_a74be27930c829414540c2981af904b1 = L.marker(
+                [42.36481528, -71.06151641],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_44bb194d5d62f06daa3cd36d984fe7fd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a74be27930c829414540c2981af904b1.setIcon(icon_44bb194d5d62f06daa3cd36d984fe7fd);
+        
+    
+        var popup_1a135d5cfe9eb7d976723cc9dca85afd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_97174fec69b99fbbdd4d9039bb0a69d5 = $(`<div id="html_97174fec69b99fbbdd4d9039bb0a69d5" style="width: 100.0%; height: 100.0%;">Business: Ascend Mass LLC<br>License: CAN524628<br>Status: Active</div>`)[0];
+                popup_1a135d5cfe9eb7d976723cc9dca85afd.setContent(html_97174fec69b99fbbdd4d9039bb0a69d5);
+            
+        
+
+        marker_a74be27930c829414540c2981af904b1.bindPopup(popup_1a135d5cfe9eb7d976723cc9dca85afd)
+        ;
+
+        
+    
+    
+            var marker_abf76f7444f251c5b0e505a67964476a = L.marker(
+                [42.37612813, -71.03906732],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_fa725567055aa0d500f13da4ed937aa0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_abf76f7444f251c5b0e505a67964476a.setIcon(icon_fa725567055aa0d500f13da4ed937aa0);
+        
+    
+        var popup_de666c376e993a31f293e6f4f7eb43c5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1c4fada350c34d3e562637656a2cb887 = $(`<div id="html_1c4fada350c34d3e562637656a2cb887" style="width: 100.0%; height: 100.0%;">Business: Berkshire Roots, Inc.<br>License: CAN524596<br>Status: Active</div>`)[0];
+                popup_de666c376e993a31f293e6f4f7eb43c5.setContent(html_1c4fada350c34d3e562637656a2cb887);
+            
+        
+
+        marker_abf76f7444f251c5b0e505a67964476a.bindPopup(popup_de666c376e993a31f293e6f4f7eb43c5)
+        ;
+
+        
+    
+    
+            var marker_0ad808ec9b97c363391bdace0c98301d = L.marker(
+                [42.32305154, -71.06241878],
+                {}
+            ).addTo(marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e);
+        
+    
+            var icon_7bc76327bb00bad2a77ba9d3a0fa1d99 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_0ad808ec9b97c363391bdace0c98301d.setIcon(icon_7bc76327bb00bad2a77ba9d3a0fa1d99);
+        
+    
+        var popup_7f6f9f63b5726c9eb48955cabd3617b6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_26c52a645b6fb7a2ba1c603ad0f3ade2 = $(`<div id="html_26c52a645b6fb7a2ba1c603ad0f3ade2" style="width: 100.0%; height: 100.0%;">Business: NS AJO Holdings, Inc.<br>License: CAN524604<br>Status: Active</div>`)[0];
+                popup_7f6f9f63b5726c9eb48955cabd3617b6.setContent(html_26c52a645b6fb7a2ba1c603ad0f3ade2);
+            
+        
+
+        marker_0ad808ec9b97c363391bdace0c98301d.bindPopup(popup_7f6f9f63b5726c9eb48955cabd3617b6)
+        ;
+
+        
+    
+    
+            marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e.addTo(map_a3d24a2e6e764df6f456b9655e4ca1b5);
+        
+    
+            var marker_cluster_24ac455dc676dd57edb8564e55d35049 = L.markerClusterGroup(
+                {}
+            );
+        
+    
+            var marker_228e4e95383cbebbe7b1f94ffffa2561 = L.marker(
+                [42.34718379, -71.09846502],
+                {}
+            ).addTo(marker_cluster_24ac455dc676dd57edb8564e55d35049);
+        
+    
+            var icon_f1084c0950ffd64390f219457a9cb56f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_228e4e95383cbebbe7b1f94ffffa2561.setIcon(icon_f1084c0950ffd64390f219457a9cb56f);
+        
+    
+        var popup_dfdfee0db2de963ee3f16c376337aae5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a3730c57ea864bdac9f10bf15dbe8d2b = $(`<div id="html_a3730c57ea864bdac9f10bf15dbe8d2b" style="width: 100.0%; height: 100.0%;">Business: New Dia Fenway, LLC<br>License: CAN526260<br>Status: Active</div>`)[0];
+                popup_dfdfee0db2de963ee3f16c376337aae5.setContent(html_a3730c57ea864bdac9f10bf15dbe8d2b);
+            
+        
+
+        marker_228e4e95383cbebbe7b1f94ffffa2561.bindPopup(popup_dfdfee0db2de963ee3f16c376337aae5)
+        ;
+
+        
+    
+    
+            var marker_eb4909572c7d75332e04b713214b3237 = L.marker(
+                [42.29861046, -71.11433061],
+                {}
+            ).addTo(marker_cluster_24ac455dc676dd57edb8564e55d35049);
+        
+    
+            var icon_ebae0846f215bbf87967dcf6d4f75de4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_eb4909572c7d75332e04b713214b3237.setIcon(icon_ebae0846f215bbf87967dcf6d4f75de4);
+        
+    
+        var popup_3728a8a993261d7fe3318f4e39ee818d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2c0e223ebd0fe667d86fc166b0e7f7d4 = $(`<div id="html_2c0e223ebd0fe667d86fc166b0e7f7d4" style="width: 100.0%; height: 100.0%;">Business: Apothca Inc. <br>License: CAN524715<br>Status: Active</div>`)[0];
+                popup_3728a8a993261d7fe3318f4e39ee818d.setContent(html_2c0e223ebd0fe667d86fc166b0e7f7d4);
+            
+        
+
+        marker_eb4909572c7d75332e04b713214b3237.bindPopup(popup_3728a8a993261d7fe3318f4e39ee818d)
+        ;
+
+        
+    
+    
+            marker_cluster_24ac455dc676dd57edb8564e55d35049.addTo(map_a3d24a2e6e764df6f456b9655e4ca1b5);
+        
+    
+            var layer_control_53af2df58fb953de4ed458b70dda0f02_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_cba78ad46c44069ebe739ab2c7faf65d,
+                },
+                overlays :  {
+                    "Boston City" : marker_cluster_997e0d9620967e485f5cdb5eae7b2e7e,
+                    "District 7" : marker_cluster_24ac455dc676dd57edb8564e55d35049,
+                },
+            };
+            let layer_control_53af2df58fb953de4ed458b70dda0f02 = L.control.layers(
+                layer_control_53af2df58fb953de4ed458b70dda0f02_layers.base_layers,
+                layer_control_53af2df58fb953de4ed458b70dda0f02_layers.overlays,
+                {"autoZIndex": true, "collapsed": true, "position": "topright"}
+            ).addTo(map_a3d24a2e6e764df6f456b9655e4ca1b5);
+
+        
+</script>
+</html>

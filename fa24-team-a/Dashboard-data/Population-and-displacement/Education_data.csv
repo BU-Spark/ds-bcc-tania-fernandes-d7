@@ -1,0 +1,128 @@
+,Year,Label (Grouping),Female Estimate,Females,Male Estimate,Males,Total Estimate
+5,2013,Population 18 to 24 years,3015.0,nan,1563.0,nan,4578.0
+6,2013,Population 25 to 34 years,126.0,nan,138.0,nan,264.0
+7,2013,Population 25 years and over,164.0,nan,226.0,nan,390.0
+8,2013,Population 35 to 44 years,7.0,nan,26.0,nan,33.0
+9,2013,Population 45 to 64 years,27.0,nan,53.0,nan,80.0
+10,2013,Population 65 years and over,4.0,nan,9.0,nan,13.0
+13,2013,    Associate's degree,0.0,nan,0.0,nan,0.0
+35,2014,Population 18 to 24 years,3040.0,nan,1498.0,nan,4538.0
+36,2014,Population 25 to 34 years,162.0,nan,177.0,nan,339.0
+37,2014,Population 25 years and over,241.0,nan,270.0,nan,511.0
+38,2014,Population 35 to 44 years,28.0,nan,37.0,nan,65.0
+39,2014,Population 45 to 64 years,42.0,nan,45.0,nan,87.0
+40,2014,Population 65 years and over,9.0,nan,11.0,nan,20.0
+43,2014,    Associate's degree,0.0,nan,0.0,nan,0.0
+137,2017,        Bachelor's degree,121.0,nan,69.0,nan,190.0
+138,2017,        Graduate or professional degree,105.0,nan,89.0,nan,194.0
+139,2017,        High school graduate (includes equivalency),896.0,nan,365.0,nan,1261.0
+141,2017,        Some college or associate's degree,2248.0,nan,1103.0,nan,3351.0
+142,2017,    White alone,166.0,nan,131.0,nan,297.0
+143,2017,        Bachelor's degree or higher,121.0,nan,63.0,nan,184.0
+144,2017,        High school graduate or higher,206.0,nan,146.0,nan,352.0
+146,2017,    Asian alone,71.0,nan,30.0,nan,101.0
+147,2017,    Black alone,12.0,nan,35.0,nan,47.0
+148,2017,    Hispanic or Latino Origin,31.0,nan,44.0,nan,75.0
+150,2017,    Population 18 to 24 years,3265.0,nan,1543.0,nan,4808.0
+151,2017,    Population 25 to 34 years,206.0,nan,146.0,nan,352.0
+152,2017,    Population 25 years and over,268.0,nan,252.0,nan,520.0
+153,2017,    Population 35 to 44 years,22.0,nan,33.0,nan,55.0
+154,2017,    Population 45 to 64 years,28.0,nan,53.0,nan,81.0
+155,2017,    Population 65 years and over,12.0,nan,20.0,nan,32.0
+156,2017,    Some other race alone,11.0,nan,34.0,nan,45.0
+157,2017,    Two or more races,8.0,nan,5.0,nan,13.0
+158,2017,"    White alone, not Hispanic or Latino",154.0,nan,126.0,nan,280.0
+161,2017,        Less than 9th grade,8.0,nan,5.0,nan,13.0
+164,2017,"        Some college, no degree",14.0,nan,34.0,nan,48.0
+170,2018,        Bachelor's degree,138.0,nan,128.0,nan,266.0
+171,2018,        Graduate or professional degree,96.0,nan,108.0,nan,204.0
+172,2018,        High school graduate (includes equivalency),805.0,nan,365.0,nan,1170.0
+174,2018,        Some college or associate's degree,2217.0,nan,1094.0,nan,3311.0
+175,2018,    White alone,164.0,nan,182.0,nan,346.0
+176,2018,        Bachelor's degree or higher,172.0,nan,101.0,nan,273.0
+179,2018,    Asian alone,70.0,nan,46.0,nan,116.0
+180,2018,    Black alone,14.0,nan,35.0,nan,49.0
+181,2018,    Hispanic or Latino Origin,88.0,nan,47.0,nan,135.0
+183,2018,    Population 18 to 24 years,3194.0,nan,1560.0,nan,4754.0
+184,2018,    Population 25 to 34 years,206.0,nan,184.0,nan,390.0
+185,2018,    Population 25 years and over,310.0,nan,292.0,nan,602.0
+186,2018,    Population 35 to 44 years,78.0,nan,23.0,nan,101.0
+187,2018,    Population 45 to 64 years,16.0,nan,74.0,nan,90.0
+188,2018,    Population 65 years and over,10.0,nan,11.0,nan,21.0
+189,2018,    Some other race alone,50.0,nan,20.0,nan,70.0
+190,2018,    Two or more races,12.0,nan,9.0,nan,21.0
+191,2018,"    White alone, not Hispanic or Latino",138.0,nan,158.0,nan,296.0
+194,2018,        Less than 9th grade,7.0,nan,3.0,nan,10.0
+195,2018,"        Some college, no degree",47.0,nan,14.0,nan,61.0
+201,2019,        Bachelor's degree,124.0,nan,84.0,nan,208.0
+202,2019,        Graduate or professional degree,100.0,nan,135.0,nan,235.0
+203,2019,        High school graduate (includes equivalency),736.0,nan,417.0,nan,1153.0
+205,2019,        Some college or associate's degree,2230.0,nan,1064.0,nan,3294.0
+206,2019,    White alone,167.0,nan,184.0,nan,351.0
+207,2019,        Bachelor's degree or higher,198.0,nan,124.0,nan,322.0
+208,2019,        High school graduate or higher,234.0,nan,280.0,nan,514.0
+210,2019,    Asian alone,75.0,nan,56.0,nan,131.0
+212,2019,    Hispanic or Latino Origin,41.0,nan,30.0,nan,71.0
+214,2019,    Population 18 to 24 years,3164.0,nan,1605.0,nan,4769.0
+215,2019,    Population 25 to 34 years,198.0,nan,205.0,nan,403.0
+216,2019,    Population 25 years and over,245.0,nan,286.0,nan,531.0
+217,2019,    Population 35 to 44 years,17.0,nan,7.0,nan,24.0
+218,2019,    Population 45 to 64 years,13.0,nan,57.0,nan,70.0
+219,2019,    Population 65 years and over,17.0,nan,17.0,nan,34.0
+221,2019,    Two or more races,3.0,nan,18.0,nan,21.0
+222,2019,"    White alone, not Hispanic or Latino",129.0,nan,159.0,nan,288.0
+225,2019,        Less than 9th grade,11.0,nan,6.0,nan,17.0
+226,2019,"        Some college, no degree",10.0,nan,26.0,nan,36.0
+232,2020,        Bachelor's degree,314.0,nan,49.0,nan,363.0
+233,2020,        Graduate or professional degree,117.0,nan,559.0,nan,676.0
+234,2020,        High school graduate (includes equivalency),7.0,nan,66.0,nan,73.0
+236,2020,        Some college or associate's degree,83.0,nan,121.0,nan,204.0
+237,2020,    White alone,433.0,nan,639.0,nan,1072.0
+238,2020,        Bachelor's degree or higher,107.0,nan,102.0,nan,209.0
+239,2020,        High school graduate or higher,554.0,nan,781.0,nan,1335.0
+241,2020,    Asian alone,14.0,nan,26.0,nan,40.0
+243,2020,    Hispanic or Latino Origin,232.0,nan,182.0,nan,414.0
+245,2020,    Population 18 to 24 years,286.0,nan,289.0,nan,575.0
+246,2020,    Population 25 to 34 years,346.0,nan,547.0,nan,893.0
+247,2020,    Population 25 years and over,577.0,nan,814.0,nan,1391.0
+248,2020,    Population 35 to 44 years,122.0,nan,183.0,nan,305.0
+249,2020,    Population 45 to 64 years,109.0,nan,53.0,nan,162.0
+251,2020,    Some other race alone,92.0,nan,24.0,nan,116.0
+253,2020,"    White alone, not Hispanic or Latino",293.0,nan,580.0,nan,873.0
+254,2020,"        9th to 12th grade, no diploma",23.0,nan,2.0,nan,25.0
+257,2020,"        Some college, no degree",86.0,nan,50.0,nan,136.0
+263,2021,        Bachelor's degree,290.0,nan,44.0,nan,334.0
+264,2021,        Graduate or professional degree,177.0,nan,537.0,nan,714.0
+265,2021,        High school graduate (includes equivalency),7.0,nan,55.0,nan,62.0
+267,2021,        Some college or associate's degree,74.0,nan,121.0,nan,195.0
+268,2021,    White alone,436.0,nan,613.0,nan,1049.0
+269,2021,        Bachelor's degree or higher,90.0,nan,82.0,nan,172.0
+270,2021,        High school graduate or higher,603.0,nan,801.0,nan,1404.0
+272,2021,    Asian alone,51.0,nan,55.0,nan,106.0
+274,2021,    Hispanic or Latino Origin,257.0,nan,202.0,nan,459.0
+276,2021,    Population 18 to 24 years,263.0,nan,258.0,nan,521.0
+277,2021,    Population 25 to 34 years,332.0,nan,517.0,nan,849.0
+278,2021,    Population 25 years and over,603.0,nan,836.0,nan,1439.0
+279,2021,    Population 35 to 44 years,178.0,nan,252.0,nan,430.0
+280,2021,    Population 45 to 64 years,93.0,nan,35.0,nan,128.0
+282,2021,    Some other race alone,92.0,nan,27.0,nan,119.0
+284,2021,"    White alone, not Hispanic or Latino",271.0,nan,549.0,nan,820.0
+288,2021,"        Some college, no degree",90.0,nan,45.0,nan,135.0
+294,2022,        Bachelor's degree,200.0,nan,57.0,nan,257.0
+295,2022,        Graduate or professional degree,273.0,nan,591.0,nan,864.0
+296,2022,        High school graduate (includes equivalency),193.0,nan,52.0,nan,245.0
+298,2022,        Some college or associate's degree,89.0,nan,144.0,nan,233.0
+299,2022,    White alone,320.0,nan,631.0,nan,951.0
+300,2022,        Bachelor's degree or higher,56.0,nan,80.0,nan,136.0
+301,2022,        High school graduate or higher,609.0,nan,837.0,nan,1446.0
+303,2022,    Asian alone,101.0,nan,62.0,nan,163.0
+305,2022,    Hispanic or Latino Origin,165.0,nan,156.0,nan,321.0
+307,2022,    Population 18 to 24 years,412.0,nan,276.0,nan,688.0
+308,2022,    Population 25 to 34 years,285.0,nan,589.0,nan,874.0
+309,2022,    Population 25 years and over,609.0,nan,863.0,nan,1472.0
+310,2022,    Population 35 to 44 years,191.0,nan,214.0,nan,405.0
+311,2022,    Population 45 to 64 years,133.0,nan,34.0,nan,167.0
+313,2022,    Some other race alone,93.0,nan,26.0,nan,119.0
+314,2022,    Two or more races,81.0,nan,39.0,nan,120.0
+315,2022,"    White alone, not Hispanic or Latino",248.0,nan,580.0,nan,828.0
+319,2022,"        Some college, no degree",38.0,nan,50.0,nan,88.0
