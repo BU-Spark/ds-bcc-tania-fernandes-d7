@@ -46,7 +46,11 @@
 
   2020 Census Tracts in Boston: [link](https://hub.arcgis.com/datasets/boston::2020-census-tracts-in-boston/about)
 
-  The following dataset does not provide a data dictionary. We will describe them by providing a dictionary on relevant columns that are used as a part of the analysis.
+  Selected Housing Characteristics: [link](https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2023_ACSSubjectDefinitions.pdf)
+
+  Housing by Demographic Information: [link](https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2023_ACSSubjectDefinitions.pdf)
+
+  The following datasets does not provide a data dictionary. We will describe them by providing a dictionary on relevant columns that are used as a part of the analysis.
 
   **RentSmart**
   | Column Name | Data Type | Description |
