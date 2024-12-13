@@ -16,7 +16,7 @@ This folder contains Jupyter notebooks utilized for comprehensive data analysis.
 
 - **demographic-breakdown-district-7.ipynb**: Downloads, cleans and aggregates the demographic wise disaggregated information for District 7 owned vs. rented housing units. Prepared a final file to upload to LookerStudio for visualizations.
 
-- **income-restricted-housing.ipynb**: Analyzes income-restricted housing. Covers data cleaning, evaluates housing availability, and examines the impact of Section 8 benefits.
+- **income-restricted-housing.ipynb**: Analyzes income-restricted housing. Covers data cleaning, evaluates housing availability and growth, and examines the impact of Section 8 benefits.
 
 - **property-dataset-cleaning.ipynb**: Find coordinate for the property by matching the address fields to Boston SAM dataset and Boston ZIP Code shapefile. This file export a ready-to-use dataset called `property-cleaned.csv` in the `data` folder.
 
