@@ -50,6 +50,8 @@
 
   Housing by Demographic Information: [link](https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2023_ACSSubjectDefinitions.pdf)
 
+  Approved Building Permits: [link](https://data.boston.gov/dataset/approved-building-permits)
+
   The following datasets does not provide a data dictionary. We will describe them by providing a dictionary on relevant columns that are used as a part of the analysis.
 
   **RentSmart**
