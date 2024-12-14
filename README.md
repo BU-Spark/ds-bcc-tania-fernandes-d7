@@ -1,17 +1,20 @@
-# BOSTON CITY COUNCILOR ANDERSON: DISRICT 7 
+# BOSTON DISRICT 7 INDICATORS
 
+This repository contains work by two teams focused on different aspects of Boston's District 7. Each team’s efforts are documented in their respective folders, where you can find detailed methodologies, data sources, analysis steps, and deliverables. Please refer to the individual team readme files for comprehensive information.
 
-For our project with Councilor Anderson, we will be focusing on analyzing population and economic development data for District 7 in Boston. 
+## Teams and Their Focus Areas
 
-Our team will analyze various datasets, including population demographics such as race, ethnicity, age, and education levels, as well as economic indicators like household income, the number of registered businesses, and job data for BIPOC workers. We'll also be tracking these metrics over the past 10 years, looking at changes in the district compared to the Boston city average, and possibly other districts.
+1. **Team A:**  
+   Concentrates on analyzing population shifts, economic development, and related indicators within District 7. Their work aims to understand how demographic changes and business trends affect the community over time.
 
-Our ultimate goal is to create a dashboard that visually presents these findings, helping Councilor Anderson identify areas where residents, particularly marginalized groups, are seeing improvements or facing ongoing challenges. We’ll iterate on the dashboard design with Councilor Anderson’s feedback to ensure it highlights the most critical insights.
+2. **Team B:**  
+   Focuses on housing indicators in District 7, including housing availability, affordability, construction, and relevant policy implications. They provide insights that can inform better housing policies and long-term planning.
 
-In our early insights we analyzed Boston 311 service request data to understand the distribution of opened and closed cases across the city. We cleaned the dataset by removing irrelevant or missing information and focused on filtering cases by their status—opened or closed. 
-This allowed us to assess the city's responsiveness to non-emergency issues like potholes, streetlights, and waste management.
-It is under the name 311_exploration.ipynb file name in the f24-team-a folder.
+## Further Details
 
-Using GeoPandas and a Boston Shapefile, we created heatmaps to visualize the geographical distribution of these cases. 
-Those are under the names:  Boston_case_heatmap.html and a Boston_case_map.html
+Each team’s folder contains a README with thorough documentation, data references, and insights derived from their analyses. To gain an in-depth understanding of their work, please navigate to the respective team folders:
 
-Opened cases represent unresolved issues, while closed cases indicate resolved ones. The heatmaps highlighted areas with high concentrations of service requests, providing insight into neighborhoods needing more attention and the overall effectiveness of the 311 system.
+- [Team A Folder](./fa24-team-a/)
+- [Team B Folder](./fa24-team-b/)
+
+Feel free to explore the folders, review the notebooks, and examine the dashboards created by both teams for more detailed information. If you have any questions or need clarification, please reach out to the project maintainers.
